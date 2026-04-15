@@ -1,0 +1,27 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "bandoChivasso",
+    "repoJson": "bandi",
+    "note": "Release bandi"
+  },
+  "title": "Chivasso\nTavola dei Bandi",
+  "updatedAt": "2026-04-15T12:00:00Z",
+  "dataAggiornamento": "MCDXXXIV",
+  "bando": [
+    {
+      "date": "15-04-2026",
+      "type": "BANDO PUBBLICO",
+      "title": " ",
+      "message": "Agli abitanti di Chivasso e di tutto il Marchesato.
+\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio, succedendo in tale onore alla città di Chivasso.
+\nCorte, Consiglio e Giustizia sono trasferiti in essa con effetto immediato.
+\nChe ogni suddito si conformi a tale disposizione con obbedienza e spirito di fedeltà.
+\nSi ringrazia la fedele Chivasso per i servigi resi al Marchesato. 
+\nGrande onore è ora toccato a Casale e, con essa, a tutto il popolo del Monferrato.
+\nDatum sub sigillo nostro,
+die III mensis Maii
+\nGian Giacomo Paleologo
+Marchio Montisferrati"
+    }
+  ]
+}

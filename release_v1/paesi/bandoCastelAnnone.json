@@ -1,0 +1,25 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "bandoCastelAnnone",
+    "repoJson": "bandi",
+    "note": "Release bandi"
+  },
+  "title": "Castel d'Annone\nTavola dei Bandi",
+  "updatedAt": "2026-04-15T12:00:00Z",
+  "dataAggiornamento": "MCDXXXIV",
+  "bando": [
+    {
+      "date": "15-04-2026",
+      "type": "BANDO PUBBLICO",
+      "title": " ",
+      "message": "Per volontà di Filippo Maria, Duca di Milano e Signore di Asti
+\nSIA NOTO A TUTTI
+\nChe il castello e il borgo di ANNONE, con le sue terre e pertinenze, sono posti sotto la diretta protezione e giurisdizione del Ducato di Milano.
+\nIn suo nome eserciterà l'autorità il Podestà qui insediato, al quale ogni suddito deve obbedienza.
+\nChi si oppone a tale volontà incorrerà nella sua ira.
+\nDatum sub sigillo nostro, 
+die XII mensis Martii,
+\nFilippo Maria Visconti, Duca di Milano"
+    }
+  ]
+}
