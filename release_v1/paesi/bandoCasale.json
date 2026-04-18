@@ -9,7 +9,7 @@
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
+      "date": "18-04-2026",
       "type": "BANDO PUBBLICO",
       "title": " ",
       "message": "A tutti gli abitanti di Casale, salute e grazia.
@@ -20,6 +20,16 @@
 die III mensis Maii
 \nGian Giacomo Paleologo
 Marchio Montisferrati"
+    },
+	{
+      "date": "18-04-2026",
+      "type": "INFORMAZIONE",
+      "title": " ",
+      "message": "Sia manifesto a tutti coloro che giungono nella nobile città di Casale, capitale del Monferrato, che nelle sue contrade si trovano arti e mestieri d’ogni sorta.
+\nBotteghe di valenti artigiani, mercatanti e speziali offrono opere e servizi di pregio.
+\nA chi voglia prestar opera e ingegno, si danno opportunità di guadagno lecito presso officine e compagnie di lavoranti.
+\nNon mancano fiere, mercati e luoghi di ristoro per forestieri e viandanti.
+\nDato e scritto sotto buon sigillo, acciocché niuno possa dir di non sapere."
     }
   ]
 }
