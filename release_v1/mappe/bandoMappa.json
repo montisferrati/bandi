@@ -5,17 +5,23 @@
     "note": "Release bandi"
   },
   "title": "Monferrato\nTavola dei Bandi",
-  "updatedAt": "2026-04-18T12:00:00Z",
-  "dataAggiornamento": "18-04-2026",
+  "updatedAt": "2026-04-20T12:00:00Z",
+  "dataAggiornamento": "20-04-2026",
   "bando": [
     {
-      "date": "18-04-2026",
+      "date": "20-04-2026",
       "type": "Annuncio",
       "title": "Siamo on-line",
       "contatti": {
         "Email": "info@example.com"
       },
       "message": "Siete pronti per vivere questa avventura nel Monferrato del 1434?"
+    },
+	{
+      "date": "20-04-2026",
+      "type": "Informazione",
+      "title": "Per iniziare...",
+      "message": "Scegli un luogo e costruisci la tua casa, \noppure scegli il tuo mestiere e inizia a lavorare"
     }
   ]
 }

@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Acqui\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-20T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
+      "date": "20-04-2026",
       "type": "BANDO PUBBLICO",
       "title": " ",
-      "message": "A tutti gli abitanti di Acqui, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nQui battiranno i cuori del governo e del commercio; qui si decideranno le sorti di ogni borgo e castello sotto il nostro stendardo.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Acqui, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "20-04-2026",
+      "type": "AVVISO",
+      "title": " ",
+      "message": "A tutti gli abitanti di Acqui, salute e grazia. \nSia manifesto a tutti, forestieri e viandanti, che nella terra di Acqui, posta nel nobile Monferrato, si trovano arti e mestieri utili e onorati per chi voglia dimorarvi o prestar opera. \nNelle contrade della città operano valenti maestri di bottega, fabbri, calzolai, tessitori e fornai, i quali offrono lavoro a garzoni e lavoranti d’ingegno. \nPresso le rinomate acque calde, note per le loro virtù salutari, si cercano uomini e donne atti al servizio dei bagni, alla cura dei forestieri e al mantenimento dei luoghi di ristoro e alloggio. \nMercatanti e osti accolgono chi voglia darsi al commercio, mentre nelle campagne circostanti si richiede opera nei campi, nelle vigne e nelle arti della terra. \nA chiunque sia disposto a prestar servizio con diligenza e buona fama, si danno occasioni di guadagno lecito e stabile sostentamento. \nDato e scritto in Acqui, sotto buon sigillo, acciocché niuno possa dir di non sapere."
     }
   ]
 }
