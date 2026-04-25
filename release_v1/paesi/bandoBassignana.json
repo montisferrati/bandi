@@ -9,17 +9,16 @@
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Bassignana, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Bassignana, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Avviso",
+      "title": " ",
+      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nella terra di Bassignana, posta nel Monferrato, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle pianure fertili si richiede opera diligente per la coltura dei campi e la raccolta delle biade. \nPresso le acque si cercano barcaioli, pescatori e lavoranti atti al trasporto e al passaggio delle genti e delle merci. \nMulini e opere d’acqua offrono lavoro a chi sia pratico nella macina e nel governo delle acque. \nNon mancano artigiani di bisogno, quali fabbri e falegnami, al servizio della comunità e dei traffici locali. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto in Bassignana, sotto buon sigillo, acciocché niuno possa dir di non sapere."
     }
   ]
 }
