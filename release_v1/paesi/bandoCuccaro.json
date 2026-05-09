@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Cuccaro\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Cuccaro, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Cuccaro, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Portino queste parole lontano chi le legge e chi le ascolta: Cuccaro, antico borgo del Monferrato documentato fin dall'anno Mille e posto sulle colline tra Casale e il Tanaro, è terra di diretta pertinenza marchionale, ove i Paleologi mantengono il loro palazzo e dove più famiglie nobili si dividono il feudo del castello con antico patto di consorteria. \nIl castello del borgo, le cui origini risalgono al 'castrum Cucari' citato in un diploma imperiale tre secoli addietro, è gestito in consorzio tra le famiglie Bobba, Della Sala, San Giorgio, Colombo e altri signori vassalli dei marchesi: si cercano uomini di fiducia per il servizio di guardia e la manutenzione delle strutture, e fabbri, muratori e falegnami capaci di lavorare con continuità troveranno qui committenza presso più signori. \nIl palazzo dei marchesi Paleologi, che sorge nella parte alta del borgo con il suo cortile a loggiato, richiede servitori di specchiata fedeltà e buona condotta: cuochi, stallieri, scribi e uomini di governo capaci di assistere i rappresentanti della casata marchionale nelle loro permanenze troveranno in Cuccaro impiego di rango e retribuzione adeguata. \nLe colline che circondano il borgo danno vigne di buona qualità e campi fertili: massari e fattori cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà nelle stagioni del campo. \nChi sappia trattare la vigna o il campo con rispetto troverà a Cuccaro patto equo e buona ricompensa. \nLa chiesa dell'Assunzione di Maria Vergine veglia sulla vita spirituale del borgo: chi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione dalla comunità. \nChi viene a Cuccaro con mani aperte e cuore pronto trova sempre qualcosa che lo aspetta, e trova una terra che i marchesi tengono cara."
     }
   ]
 }

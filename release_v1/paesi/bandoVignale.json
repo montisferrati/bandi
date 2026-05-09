@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Vignale\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Vignale, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Vignale, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Sappia chi legge e chi ascolta che Vignale, borgo antico del Monferrato posto su uno dei colli più alti della regione tra Casale, Alessandria e Asti, è terra di antico prestigio, luogo ove i marchesi Paleologi hanno tenuto corte e convocato Parlamenti, e ove le mura erette dalla loro volontà racchiudono una comunità viva e laboriosa che sa da dove viene. \nIl castello e la cinta muraria del borgo, ampliata in tre successive cerchie nel corso dei secoli, con la sua Porta Urbica in pietra che segna l'ingresso al borgo medievale, richiedono cura continua e uomini di fiducia: muratori capaci di lavorare la pietra con perizia, falegnami esperti nelle strutture lignee di difesa, e fabbri abili nel ferro degli elementi di guardia troveranno qui committenza stabile presso i signori e il governo del borgo. \nChi voglia rendersi utile alla difesa di questa terra ben posta troverà sempre lavoro e stima. \nLe vigne sono l'anima di Vignale, il nome stesso lo dice, ché Vinealis significava già mille anni or sono terra di viti e di vino. \nI versanti soleggiati del colle danno uve di grande qualità, e si cercano vignaiuoli esperti, garzoni di campagna e famiglie disposte a faticare con onestà e continuità tra i filari. \nChi conosca l'arte della vigna e del tino troverà a Vignale patto equo e ricompensa giusta, e la soddisfazione di lavorare uno dei vigneti più rinomati del Monferrato. \nSotto le case e le cantine del borgo si aprono ambienti scavati a mano nella roccia, ove il vino e le derrate riposano al fresco in ogni stagione: chi sappia maneggiare lo scalpello per ricavare dalla roccia viva stanze di conservazione troverà in Vignale committenti numerosi e lavoro nelle stagioni invernali, quando i campi riposano e la pietra aspetta di essere lavorata. \nLa chiesa di San Bartolomeo, eretta sull'antica costruzione romanica del XII secolo che veglia sulla comunità da generazioni, è il cuore della vita spirituale del borgo; e la Confraternita dei Battuti, che raccoglie i devoti in opere di preghiera e carità, è segno della fede viva di questa terra. \nChi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione. \nNon mancano botteghe e artigiani d'ogni sorta al servizio di una comunità che, nonostante le fatiche recenti, guarda avanti con determinazione. \nChi viene a Vignale con mani aperte e cuore pronto trova sempre qualcosa che lo aspetta, e trova una terra che sa cosa vale."
     }
   ]
 }

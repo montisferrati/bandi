@@ -5,20 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Bassignana\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
       "date": "Die III mensis Maii",
       "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Bassignana, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
-    },
+      "message": "A tutti gli abitanti di Bassignana e del suo contado, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà e autorità di Filippo Maria Visconti, Duca di Milano e Signore di queste terre, provvediamo al buon governo di questo borgo e del suo territorio, affinché pace, ordine e giustizia siano mantenuti in ogni contrada. \nSotto la nostra protezione, i traffici sui fiumi si tengano con regolarità e sicurezza, i mestieri siano esercitati secondo gli usi e i diritti della terra, e nessuno arrechi turbamento alla quiete dei cittadini né al passaggio delle merci e delle genti. \nChi abbia controversie o ragioni da far valere si presenti agli offici del nostro Luogotenente, ove sarà udito secondo giustizia. \nChe ciascuno adempia i propri doveri con fedeltà e diligenza, e viva nella pace che la nostra signoria garantisce. \nChi turbi l'ordine pubblico, il transito sui fiumi o manchi di obbedienza alle nostre disposizioni sarà punito secondo la gravità della colpa. \nDatum sub sigillo ducali, in Bassignana, die III mensis Maii. \nPer autorità di Filippo Maria Visconti, Duca di Milano. \nIl Luogotenente ducale in Bassignana."
+	},
 	{
       "date": "Die III mensis Maii",
-      "type": "Avviso",
+      "type": "Pubblico Avviso",
       "title": " ",
-      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nella terra di Bassignana, posta nel Monferrato, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle pianure fertili si richiede opera diligente per la coltura dei campi e la raccolta delle biade. \nPresso le acque si cercano barcaioli, pescatori e lavoranti atti al trasporto e al passaggio delle genti e delle merci. \nMulini e opere d’acqua offrono lavoro a chi sia pratico nella macina e nel governo delle acque. \nNon mancano artigiani di bisogno, quali fabbri e falegnami, al servizio della comunità e dei traffici locali. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto in Bassignana, sotto buon sigillo, acciocché niuno possa dir di non sapere."
-    }
+      "message":"È volontà di questa comunità che si sappia in ogni contrada: Bassignana, terra posta là dove il Tanaro porta le sue acque nel grande Po, è luogo di crocevia e di traffici, ove chi ha mestiere e volontà di lavorare non resta mai senza occupazione. \nLa confluenza dei due fiumi fa di Bassignana uno snodo continuo di merci e di genti: barcaioli pratici delle acque del Po e del Tanaro, facchini per il carico e scarico delle robe, uomini esperti nel governo dei guadi e nel traghetto delle persone e degli animali sono richiesti senza sosta. \nChi conosca i due fiumi, le loro correnti, i loro banchi di sabbia, i loro capricci stagionali, è persona di grande valore in questa terra. \nMulini ad acqua e opere idrauliche lungo le rive offrono lavoro a mugnai e a chi sappia governare le acque con competenza e metodo. \nLe pianure fertili che si stendono attorno al borgo danno abbondante grano e fieno a chi le lavori con cura, mentre sui colli che circondano la terra crescono vigne di buona qualità: massari e padroni cercano mietitori, vignaiuoli e garzoni di campagna disposti a faticare onestamente. \nLa veneranda pieve di San Giovanni Battista, la più antica chiesa di questa terra, accoglie la devozione della comunità con i suoi affreschi antichi e la sua lunga tradizione: chi sappia servire la pieve o contribuire al suo mantenimento troverà in Bassignana gente riconoscente. \nFabbri, falegnami e artigiani d'ogni bisogno completano la vita del borgo, al servizio della comunità e dei traffici che qui non cessano mai. \nVenga chi vuole: troverà porta aperta e lavoro che aspetta."
+	}
   ]
 }

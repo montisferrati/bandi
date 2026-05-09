@@ -5,7 +5,7 @@
     "note": "Release bandi"
   },
   "title": "Balzola\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
@@ -16,9 +16,9 @@
     },
 	{
       "date": "Die III mensis Maii",
-      "type": "Avviso",
+      "type": "Pubblico Avviso",
       "title": " ",
-      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nella terra di Balzola, posta nel Monferrato presso le acque del grande fiume, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle pianure fertili si richiede opera diligente per la coltura dei campi, la semina e la raccolta delle biade. \nPresso i mulini e lungo le acque si cercano lavoranti atti alla macina, al trasporto e alle opere del fiume. \nNon mancano pescatori, barcaioli e artigiani di bisogno, quali fabbri e falegnami, al servizio della comunità e dei lavoranti. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto in Balzola, sotto buon sigillo, acciocché niuno possa dir di non sapere."
-    }
+      "message": "A chi non tema la pianura aperta né il lavoro che l'acqua impone, sia noto che Balzola, terra del Monferrato posta nella grande pianura solcata da rogge e canali, offre mestieri abbondanti e vita onesta a chi voglia fermarsi. \nLe pianure che si stendono attorno alla terra sono tra le più fertili del Monferrato: massari e padroni di campi cercano lavoranti robusti per la semina, la cura delle biade e la raccolta; e chi sia abituato alla fatica della pianura troverà qui patto giusto e pane assicurato. \nMa è la fitta rete di rogge che solcano il territorio la vera ricchezza di Balzola: le risaie che esse alimentano richiedono braccia instancabili per la semina, la cura e la raccolta del riso, coltura preziosa e di grande rendimento in questi luoghi. \nChi sappia governare le acque, aprire e chiudere le chiuse, mantenere in ordine i canali e lavorare nelle risaie con pazienza e metodo troverà qui occupazione continua e compenso giusto. \nNon mancano mugnai presso i mulini ad acqua che sfruttano le rogge, né artigiani, fabbri e falegnami, che servono i bisogni della comunità e tengono in ordine gli attrezzi del lavoro. \nBalzola è terra di acqua e di grano, di risaie e di rogge, di fatica silenziosa e di guadagno sicuro. \nChi vi si ferma con buona volontà non ha ragione di andarsene. \nScritto per volontà della comunità di Balzola, affinché chi cerca possa trovare e chi trova possa restare."
+	}
   ]
 }

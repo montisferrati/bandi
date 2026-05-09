@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Castagnole\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Castagnole, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Castagnole, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "A tutti coloro che cerchino luogo di buona vita e di vino onesto, sia noto che Castagnole, terra del Monferrato posta sull'altura tra Asti e Casale, è borgo antico e orgoglioso, raccolto attorno al suo ricetto e alle sue vigne, fedele ai marchesi Paleologi dopo anni di contese e cambi di fortuna. \nIl ricetto del borgo, con la sua cinta muraria, le arcate in cotto e tufo e la torre che veglia sui colli, richiede cura continua e uomini di fiducia per il suo mantenimento: muratori pratici del tufo e del mattone, falegnami capaci di tenere in ordine porte e strutture lignee, e uomini disposti al servizio di guardia con senso del dovere e carattere fermo troveranno qui committenza stabile e giusto compenso. \nMa è il vino la vera anima di Castagnole. \nLe vigne che rivestono i pendii del colle producono il Ruché, vitigno raro e prezioso portato in queste terre da monaci cistercensi di lontana memoria, le cui uve danno un vino aromatico e singolare che non si trova altrove nel Monferrato. \nSi cercano vignaiuoli esperti nella cura di questo vitigno delicato, garzoni di campagna disposti a faticare sui versanti con pazienza e perizia, e uomini capaci di attendere alla vinificazione e alla conservazione del vino nei crutin, le cantine scavate nel tufo vivo della collina, ove la temperatura costante e l'umidità giusta permettono al vino di riposare e affinarsi come si conviene. \nChi conosca l'arte della vigna e del tino troverà qui occupazione continua e ricompensa giusta. Fabbri, falegnami e artigiani d'ogni sorta servono i bisogni della comunità, e chi porti con sé un mestiere utile sarà ben accolto da una terra che sa tenere in buona considerazione chi lavora con le proprie mani. \nLa piccola chiesa di San Rocco, che veglia sui vigneti del colle, è luogo di devozione cara alla comunità: chi sappia servire la chiesa o contribuire al suo mantenimento troverà in Castagnole gente grata e pia. \nScritto per volontà della comunità di Castagnole, perché chi è in cerca di luogo onesto e di vino buono sappia dove trovare entrambi."
     }
   ]
 }

@@ -5,7 +5,7 @@
     "note": "Release bandi"
   },
   "title": "Altavilla\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
@@ -16,9 +16,9 @@
     },
 	{
       "date": "Die III mensis Maii",
-      "type": "Avviso",
+      "type": "Pubblico Avviso",
       "title": " ",
-      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nella terra di Altavilla, posta nel Monferrato, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle campagne e sulle colline si richiede opera diligente per la coltura della terra, la cura dei campi e la raccolta dei frutti. \nMassari e padroni di terre cercano lavoranti, garzoni e famiglie disposte a stabilirsi e a trarre sostentamento dalle arti della terra. \nNon mancano artigiani di bisogno, quali fabbri, falegnami e altri maestri al servizio della comunità. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto in Altavilla, sotto buon sigillo, acciocché niuno possa dir di non sapere."
+      "message": "A chi cerchi luogo sano e ben posto ove vivere con onore e fatica onesta, sia noto che Altavilla, terra del Monferrato, siede in posizione eminente sulle colline, con aria buona e veduta ampia sui campi e sui boschi circostanti. \nLe vigne che vestono i suoi pendii danno frutti pregiati, e i massari e padroni delle terre cercano con premura vignaiuoli esperti, garzoni di campagna e famiglie disposte a metter radici: chi conosca l'arte della vigna e la fatica dei campi in altura troverà qui patto onesto, tetto e sostentamento. \nFiorisce altresì in questa terra l'arte della distillazione dell'acquavite dalle vinacce, la quale gode di buona fama per le sue virtù corroboranti; e chi sia esperto in tale arte o voglia apprenderla troverà qui maestra bottega ove esercitarsi e onesto salario. \nIl bosco che circonda la terra offre legname abbondante, onde falegnami e boscaioli trovano materia di lavoro in ogni stagione. \nFabbri e altri maestri d'arte servono i bisogni della comunità e dei lavoranti, e a chi porti con sé un mestiere utile non mancherà occasione di esercitarlo. \nAltavilla non è terra di pianura né di grandi vie: è luogo raccolto, di gente laboriosa e di costumi semplici, ove chi lavora con le mani e mantiene la parola è tenuto in buona stima da tutti. \nScritto per volontà della comunità di Altavilla, perché chi è in cerca di luogo quieto e onesto sappia dove trovarlo."
     }
   ]
 }

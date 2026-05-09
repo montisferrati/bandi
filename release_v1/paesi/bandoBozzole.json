@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Bozzole\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Bozzole, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Bozzole, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Chiunque abbia gambe da camminare e braccia da adoperare sappia che Bozzole, terra del Monferrato posta sul bordo del grande Po, offre lavoro onesto e vita semplice a chi non tema né la pianura aperta né il fiume che scorre a due passi dalle porte. \nLe pianure fertili che si distendono attorno al borgo danno buon grano a chi le lavori con cura: massari e padroni di terre cercano lavoranti robusti per la semina, la cura dei campi e la raccolta. \nChi sia abituato alla fatica della pianura bassa e al ritmo delle stagioni troverà qui patto onesto e pane assicurato. \nMa è il Po la vera anima di Bozzole. \nSul fiume e nelle sue acque si trovano mestieri continui per chi li sappia fare: barcaioli pratici delle correnti e dei guadi, pescatori, facchini per il carico e lo scarico delle merci di transito, e uomini disposti a lavorare lungo le rive e i canali che solcano la pianura. \nChi conosca il fiume, i suoi umori, le sue piene, i suoi bassi fondi, è persona più che benvenuta in questa terra. \nFabbri e falegnami trovano parimenti lavoro al servizio della comunità e alla riparazione degli attrezzi e delle imbarcazioni che il fiume consuma senza posa. \nPresso l'approdo sono altresì presenti alcuni mastri calafati, al servizio delle imbarcazioni di transito: chi conosca l'arte di sigillare gli scafi con stoppa e pece, o voglia impararla sotto la guida di un mastro esperto, troverà qui occupazione discreta e ben pagata, ché il fiume consuma le barche senza sosta e chi le mantiene in ordine non manca mai di lavoro. \nBozzole non è terra di grandi fortune né di castelli sontuosi: è luogo di gente tenace, che da secoli convive con le acque del Po e sa rialzarsi ogni volta che il fiume si fa prepotente. \nChi venga qui con umiltà e voglia di faticare troverà compagni di lavoro fedeli e una comunità che tiene alla propria gente. \nLa terra parla da sola a chi voglia ascoltarla: venga a Bozzole, e il Po gli insegnerà il resto."
+	}
   ]
 }

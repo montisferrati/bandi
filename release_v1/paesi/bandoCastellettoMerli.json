@@ -4,22 +4,21 @@
     "repoJson": "bandi",
     "note": "Release bandi"
   },
-  "title": "Castelletto de' Merli\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "title": "Castelletto\nTavola dei Bandi",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Castelletto de' Merli, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Castelletto, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "A tutti coloro che cerchino luogo tranquillo ove metter radici e guadagnarsi il pane con onestà, sia noto che Castelletto, terra del Monferrato posta sulle alture tra Po e Tanaro, è borgo antico governato da più famiglie nobili che sotto l'alta signoria dei marchesi Paleologi si dividono il feudo con patto di consorteria. \nChi viene qui trova gente di rango che sa tenere le proprie parole e tratta con rispetto chi lavora bene. \nIl castello che sorge sul punto più alto del borgo, ricostruito non molti anni orsono dopo vicende antiche, è dimora e presidio delle famiglie Carelli, Gaspardoni, Chiesa-Morra e Vela, le quali cercano uomini di fiducia per il servizio di guardia, la custodia delle strutture e la manutenzione delle opere in pietra e in legno che compongono il fortilizio. \nChi sia muratore, falegname o fabbro di buona mano troverà qui committenza stabile presso più signori. \nLe campagne e le vigne che rivestono i pendii del colle richiedono braccia laboriose in ogni stagione: massari e fattori delle famiglie nobili cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà e continuità. \nLa terra di Castelletto ripaga chi la lavora con dedizione. \nNon mancano artigiani di necessità al servizio della comunità, fabbri, falegnami e calzolai, e chi porti con sé un mestiere utile troverà nella borgata clientela pronta e modo di esercitarlo con dignità. \nLa chiesa di Sant'Eusebio veglia sulla vita del borgo con la sua antica devozione: chi sappia servire la chiesa o contribuire al suo mantenimento troverà in Castelletto gente riconoscente. \nLa fama di questa terra parli per sé, ché i fatti valgono più delle parole: a Castelletto chi serve bene non manca mai di chi lo apprezza."
     }
   ]
 }

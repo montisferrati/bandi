@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Cereseto\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Cereseto, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Cereseto, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "È volontà di questa comunità che si sappia in ogni contrada: Cereseto, borgo del Monferrato Casalese arroccato sull'alto colle tra le colline della Val Cerrina, è terra di antica origine e di sorprendente vitalità, ove chi porti con sé ingegno e mestiere troverà più occasioni di quante ne aspetti. \nLa roccaforte che domina il paese dall'alto del colle, eretta secoli addietro dai primi signori di questa terra, è presidio solido e ben tenuto: si cercano uomini di fiducia per il servizio di guardia e la manutenzione delle strutture, e fabbri e falegnami capaci di lavorare con cura e continuità troveranno qui committenza stabile. \nMa ciò che rende Cereseto singolare tra i borghi del Monferrato è la sua straordinaria vita civile e commerciale: il comune signorile conta più notai di quanti ne abbiano luoghi ben più grandi, e il gettito delle sue entrate supera quello di molti comuni maggiori. \nChi sappia scrivere con mano ferma, redigere atti e contratti, assistere i notai nelle loro pratiche o semplicemente tener conto delle merci e dei traffici troverà in Cereseto occupazione continuativa e ben retribuita. \nLa torre e la loggia comune, simboli del consorzio delle famiglie nobili, sono il cuore di questa vita. \nLe colline che circondano il borgo, dette Cereseto per i ciliegi che le adornavano fin dall'antichità, danno vigne di buona qualità e campi fertili: massari e padroni di terre cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà. \nChi conosca l'arte della vigna o del campo troverà qui patto equo e giusta ricompensa. \nArtigiani d'ogni sorta sono ben accolti al servizio della comunità e dei suoi numerosi notabili, e chi porti con sé un mestiere utile non resterà senza clientela. \nLa chiesa di San Pietro Apostolo, antica costruzione romanica con il suo campanile che svetta sul colle, veglia sulla devozione della comunità: chi sappia servire la chiesa o contribuire al suo mantenimento troverà in Cereseto gente riconoscente e pia. \nLa fama di questa terra parli per sé, ché i fatti valgono più delle parole: a Cereseto chi vale trova sempre chi lo sa apprezzare."
+	}
   ]
 }

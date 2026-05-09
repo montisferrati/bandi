@@ -5,7 +5,7 @@
     "note": "Release bandi"
   },
   "title": "Borgo San Martino\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
@@ -16,9 +16,9 @@
     },
 	{
       "date": "Die III mensis Maii",
-      "type": "Avviso",
+      "type": "Pubblico Avviso",
       "title": " ",
-      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nel Borgo San Martino, posto nel Monferrato, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle pianure fertili si richiede opera diligente per la coltura dei campi, la semina e la raccolta delle biade. \nMassari e padroni di terre cercano lavoranti, garzoni e famiglie disposte a stabilirsi e a trarre sostentamento dalle arti della terra. \nPresso mulini e forni si offre lavoro a chi sia pratico nella macina e nella preparazione del pane. \nNon mancano artigiani e maestri di bisogno, quali fabbri e falegnami, al servizio della comunità. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto nel Borgo San Martino, sotto buon sigillo, acciocché niuno possa dir di non sapere."
-    }
+      "message": "A chiunque cerchi luogo fermo e ben ordinato ove vivere con onore e prestar opera secondo giustizia, sia noto che il Borgo San Martino, terra del Monferrato posta in pianura presso il torrente Rotaldo, è comunità franca e fedele ai marchesi nostri signori, fondata con atto solenne e munita di fossato, porte e spalti fin dalla sua origine. \nLe pianure fertili che circondano il borgo richiedono braccia laboriose in ogni stagione: massari e padroni di campi cercano lavoranti per la semina, la cura delle biade e la raccolta. \nChi sia abituato alla fatica della pianura troverà qui patto equo e buon compenso, ché la terra di questo borgo ripaga chi la lavora con dedizione. \nLa grangia di San Martino, antica proprietà dell'abbazia di Santa Maria di Lucedio, è cuore agricolo e spirituale di questa terra: i monaci cistercensi che la reggono custodiscono sementi e derrate con ordine e perizia, e cercano lavoranti e garzoni disposti a faticare nei campi e nei granai secondo il metodo che i religiosi insegnano. \nServire la grangia è impiego stabile e ben ricompensato. \nNelle botteghe del borgo operano fabbri, falegnami e fornai al servizio della comunità; chi porti con sé un mestiere utile troverà a Borgo San Martino clientela pronta e modo di esercitarlo con dignità, ché il borgo è ben frequentato e i suoi abitanti tengono in buona considerazione chi lavora con onestà. \nLa chiesa dei Santi Quirico e Giulitta, eretta in stile romanico-gotico fin dalla fondazione del borgo, è il cuore della vita spirituale di questa comunità: chi sappia servire la chiesa o contribuire al suo decoro e mantenimento sarà accolto con gratitudine. \nScritto per volontà della comunità del Borgo San Martino, terra franca del Monferrato, affinché chi cerca possa trovare e chi trova possa restare."
+	}
   ]
 }

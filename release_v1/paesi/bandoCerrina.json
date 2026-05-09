@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Cerrina\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Cerrina, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Cerrina, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "A chi cerchi luogo tranquillo e in crescita ove metter radici con buona speranza, sia noto che Cerrina, terra della Valle Cerrina posta tra i boschi di cerri e le colline che si affacciano sullo Stura, è comunità laboriosa che sta costruendo la propria fisionomia e accoglie con favore chi voglia contribuire alla sua crescita con le proprie braccia e il proprio ingegno. \nLa casaforte che svetta nella piazza principale del borgo, massiccia costruzione in cotto con le sue finestre ogivali, eretta un secolo addietro, è presidio e simbolo dell'ordine locale: si cercano uomini di fiducia per il servizio di custodia e manutenzione delle strutture, e fabbri e falegnami capaci di lavorare con continuità troveranno qui committenza stabile. \nNella frazione di Montalero, il castello dei signori Montaleri, investiti del feudo appena quarantasei anni or sono dai marchesi Paleologi, richiede anch'esso cura e uomini fedeli: due strutture difensive nel medesimo territorio significano due volte le occasioni per chi sappia rendersi utile. \nI boschi di cerri che circondano la terra e le vigne che rivestono i versanti collinari sono le principali risorse di queste colline: boscaioli, taglialegna e carbonai trovano materia abbondante nei boschi, mentre massari e padroni di terre cercano vignaiuoli e garzoni di campagna disposti a faticare con onestà. \nChi conosca l'arte della vigna o del bosco troverà a Cerrina patto equo e giusta ricompensa. \nLa chiesa dei Santi Nazario e Celso, che veglia sulla piazza principale accanto alla casaforte, è il cuore della vita spirituale della comunità: chi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione da tutti. \nLa piccola chiesa di San Giulio d'Orta completa il quadro della devozione locale. \nCerrina non è ancora grande, ma cresce: e chi viene oggi a metter radici troverà domani una terra che ricorda con gratitudine chi l'ha aiutata a diventare quello che è. \nScritto per volontà della comunità di Cerrina, affinché chi è in cerca di luogo onesto sappia dove trovarlo."
     }
   ]
 }

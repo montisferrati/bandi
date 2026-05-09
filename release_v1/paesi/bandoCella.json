@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Cella\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Cella, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Cella, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Chiunque cerchi luogo di antica memoria e di lavoro onesto sappia che Cella, terra del Monferrato nata attorno a una cella monastica lungo l'antica via romana della Valle Cerrina, è borgo singolare e ben posto sulle colline, ove cinque caseforti presidiano il territorio per conto delle famiglie nobili che si dividono il feudo sotto l'alta signoria dei marchesi Paleologi. \nLa Pietra da Cantoni, la roccia chiara e lavorabile che compone le colline di questa terra, è la vera ricchezza di Cella e dà lavoro a chi sappia maneggiarla con perizia. \nI mastri cantonieri scavano nella pietra viva per ricavare ambienti sotterranei di conservazione delle derrate e del vino, opere che richiedono mano esperta e pazienza invernale: chi conosca l'arte dello scalpello e del piccone nella pietra da cantoni troverà qui committenti numerosi e lavoro nelle stagioni fredde, quando i campi riposano e la roccia aspetta di essere lavorata. \nLa stessa pietra serve altresì per costruire case, muri e strutture di ogni sorta, onde i muratori e i tagliapietre trovano in questa terra materia abbondante e lavoro continuo. \nLe vigne che rivestono i pendii di Cella danno buon frutto a chi le lavori con cura: massari e padroni delle famiglie consortili cercano vignaiuoli esperti e garzoni di campagna disposti a faticare sui versanti con onestà e continuità. \nChi sappia trattare la vigna con rispetto troverà qui patto equo e buona ricompensa. \nLe cinque caseforti che proteggono il borgo richiedono cura continua: fabbri, falegnami e muratori capaci di mantenere in ordine le strutture di difesa delle famiglie nobili troveranno a Cella committenza stabile presso più signori, ché ciascuna famiglia tiene alla propria casaforte con orgoglio. \nLa piccola chiesa del borgo, erede dell'antica cella monastica che diede il nome a questa terra, accoglie la devozione della comunità: chi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione da tutti. \nVenga chi vuole: troverà porta aperta e lavoro che aspetta, che si tratti di vigna, di pietra o di guardia."
     }
   ]
 }

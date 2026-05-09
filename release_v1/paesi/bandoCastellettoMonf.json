@@ -4,22 +4,21 @@
     "repoJson": "bandi",
     "note": "Release bandi"
   },
-  "title": "Castelletto Monferrato\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "title": "Castelletto Scazzoso\nTavola dei Bandi",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Castelletto, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Castelletto Scazzoso, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "A tutti coloro che siano in cerca di buona terra ove metter radici e guadagnarsi il pane con onestà, sia noto che Castelletto Scazzoso d'Alessandria, terra del Monferrato posta sull'altura tra la pianura alessandrina e le colline, è borgo antico e ben governato, fedele ai marchesi Paleologi attraverso i signori che ne tengono il feudo. \nIl castello che domina il borgo dall'alto del colle, riedificato e rafforzato nel corso del tempo dai marchesi e dai loro vassalli, richiede uomini di fiducia per il servizio di guardia e la manutenzione delle strutture: muratori, falegnami e fabbri capaci di lavorare con cura e continuità troveranno qui committenza stabile e compenso giusto. \nLe colline che circondano Castelletto Scazzoso sono naturalmente predisposte alla vigna: il terreno argilloso e calcareo, ricco di antichi sedimenti, dà uve di buona qualità. \nSi cercano vignaiuoli esperti, garzoni di campagna e famiglie disposte a stabilirsi e a lavorare con dedizione i versanti soleggiati del colle. \nChi sappia trattare la vigna con rispetto troverà qui patto equo e buona ricompensa. \nNelle botteghe del borgo operano fabbri, falegnami e artigiani d'ogni necessità al servizio della comunità; e chi porti con sé un mestiere utile non tarderà a trovare dove esercitarlo, ché Castelletto Scazzoso è borgo ben frequentato e di buoni commerci con le terre vicine. \nLa chiesa del borgo accoglie la devozione della comunità e chi sappia servire o contribuire al suo mantenimento sarà tenuto in buona considerazione. \nScritto per volontà della comunità di Castelletto Scazzoso, perché chi è in cerca di luogo onesto e di terra buona sappia dove trovarli."
     }
   ]
 }

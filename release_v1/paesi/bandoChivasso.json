@@ -5,23 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Chivasso\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "Agli abitanti di Chivasso e di tutto il Marchesato.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio, succedendo in tale onore alla città di Chivasso.
-\nCorte, Consiglio e Giustizia sono trasferiti in essa con effetto immediato.
-\nChe ogni suddito si conformi a tale disposizione con obbedienza e spirito di fedeltà.
-\nSi ringrazia la fedele Chivasso per i servigi resi al Marchesato. 
-\nGrande onore è ora toccato a Casale e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Chivasso e del suo contado, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, Amedeo VIII, Duca di Savoia e Protettore di Chivasso, provvediamo con mano ferma e giustizia al governo di questa città e del suo territorio. \nChivasso è sotto la nostra protezione e custodia: i suoi mercati, i suoi mestieri e i suoi traffici si tengano con regolarità e sicurezza, e nessuno arrechi turbamento alla quiete dei cittadini né al buon ordine delle cose pubbliche. \nChi abbia controversie o ragioni da far valere si presenti agli offici del nostro Podestà qui insediato, ove sarà udito secondo giustizia e secondo i diritti della terra. \nChi turbi l'ordine o manchi di obbedienza alle nostre disposizioni sarà punito secondo la gravità della colpa. \nIl cantiere della collegiata di Santa Maria Assunta prosegua senza interruzione, ché la sua edificazione è gloria di questa città e nostra volontà che sia condotta a termine con la dovuta diligenza e pietà. \nChe ciascuno viva nella pace che la nostra protezione garantisce, attendendo ai propri doveri con fedeltà e operosità. \nDatum sub sigillo ducali in Chivasso \ndie III mensis Maii. \nPer autorità di Amedeo VIII \nDuca di Savoia. \nIl Podestà ducale in Chivasso."
+	},
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Grande è stata Chivasso, e grande essa rimane. \nPer più di un secolo questa città ha ospitato la corte dei marchesi del Monferrato, ha dato riparo a pittori, poeti e filosofi, ha visto coniare monete d'oro e d'argento nella sua zecca e ha visto nascere tra le sue mura il cantiere della collegiata di Santa Maria Assunta. \nChi viene oggi a Chivasso trova ancora tutto questo, e trova una città che non dimentica chi è, anche mentre aspetta di sapere cosa diventerà. \nIl cantiere della collegiata, voluto dal marchese Teodoro II e ora sostenuto con tenacia dalla Credenza cittadina, è aperto e cerca mastri muratori di buona mano capaci di lavorare il cotto con arte, carpentieri esperti nelle grandi strutture lignee, e manovali disposti a faticare con continuità. \nChi lavori bene in un cantiere di tale importanza guadagna non solo il salario ma anche la fama, ché l'opera che si costruisce sarà vista da ogni forestiero che passi per Chivasso per generazioni a venire. \nIl castello marchionale con la sua antica torre ottagonale, testimone di re e di marchesi, richiede cura e manutenzione: fabbri, muratori e falegnami trovano qui occupazione continuativa al servizio del governo che ora amministra la città. \nIl porto sul Po è ancora punto di transito e di traffici: barcaioli, facchini e operatori del commercio fluviale trovano in Chivasso un nodo di scambi che nessun cambio di governo ha potuto spegnere. \nMercatanti, notai e artigiani d'ogni sorta si cercano per i bisogni di una città che, grande o piccola che sia la sua fortuna politica, rimane sempre crocevia di genti e di merci. \nLe campagne attorno alla città offrono lavoro a braccianti e vignaiuoli in ogni stagione. \nChivasso non è più la capitale del Monferrato, quella corona è passata a Casale per volontà del marchese. \nMa Chivasso è ancora Chivasso: e per chi la conosce davvero, questo vuol dire tutto. \nPer volontà della Credenza di Chivasso, affinché la fama di questa città non si perda nel silenzio del cambiamento."
     }
   ]
 }

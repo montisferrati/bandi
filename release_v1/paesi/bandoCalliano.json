@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Calliano\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Calliano, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Calliano, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message":"È volontà di questa comunità che si sappia in ogni contrada: Calliano, terra del Monferrato arroccata sulla sua collina e cinta da fossato d'acqua, è luogo di antica fede e di mura in costruzione, ove chi porta con sé braccia robuste o animo devoto troverà impiego e accoglienza. \nIl castello e le mura che proteggono il borgo sono opera continua: il Marchesato ha accordato alla comunità franchigie e sgravi in cambio dell'impegno a edificare e rafforzare la cinta muraria, onde si cercano muratori esperti, fornaciai capaci di cuocere mattoni in quantità, manovali e trasportatori di materiali. \nChi voglia guadagnarsi il pane con la fatica del cantiere troverà qui lavoro stabile finché le mura non siano compiute, e ancora dopo, per la loro manutenzione. \nCalliano è altresì terra di antica devozione: le sue chiese sono tra le più antiche del Monferrato, dalla venerabile San Pietro, citata già nell'anno dell'866, alla basilica di Santa Maria, e alle chiese di San Felice e di San Desiderio, un tempo legate a un monastero benedettino sul Bricco. \nChi sappia servire le chiese, tenerne i luoghi in ordine, o contribuire con arte e mestiere al decoro dei luoghi sacri, è persona gradita in questa terra. \nNelle campagne e nelle vigne si richiede opera diligente, e massari e padroni di terre cercano lavoranti e garzoni disposti a faticare con onestà. \nFabbri, falegnami e artigiani d'ogni bisogno trovano altresì modo di esercitare il proprio mestiere al servizio della comunità. \nVenga chi vuole: troverà porta aperta e lavoro che aspetta." 
+	}
   ]
 }

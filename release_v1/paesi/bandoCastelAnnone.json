@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Castel d'Annone\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "die XII mensis Martii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "Per volontà di Filippo Maria, Duca di Milano e Signore di Asti
-\nSIA NOTO A TUTTI
-\nChe il castello e il borgo di ANNONE, con le sue terre e pertinenze, sono posti sotto la diretta protezione e giurisdizione del Ducato di Milano.
-\nIn suo nome eserciterà l'autorità il Podestà qui insediato, al quale ogni suddito deve obbedienza.
-\nChi si oppone a tale volontà incorrerà nella sua ira.
-\nDatum sub sigillo nostro, 
-die XII mensis Martii,
-\nFilippo Maria Visconti, Duca di Milano"
-    }
+      "message": "Per volontà di Filippo Maria, Duca di Milano e Signore di Asti \nSIA NOTO A TUTTI \nChe il castello e il borgo di ANNONE, con le sue terre e pertinenze, sono posti sotto la diretta protezione e giurisdizione del Ducato di Milano. \nIn suo nome eserciterà l'autorità il Podestà qui insediato, al quale ogni suddito deve obbedienza. \nChi si oppone a tale volontà incorrerà nella sua ira. \nDatum sub sigillo nostro, \ndie XII mensis Martii, \nFilippo Maria Visconti, Duca di Milano"
+    },
+	{
+      "date": "die XII mensis Martii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Chi cerca terra di traffici e di passaggio, di mercanti e di buone strade, sappia che Annone, borgo antico posto sulla via che da Asti conduce alla Lombardia, è luogo di grande movimento e di occasioni continue per chi abbia mestiere e volontà di guadagnare onestamente. \nLa posizione di questo borgo, al nono miglio da Asti, sulla via Fulvia che percorrono mercanti, pellegrini, corrieri e soldati in ogni stagione, fa sì che qui non manchi mai chi abbia bisogno di alloggio, cibo, riparo per gli animali e servizio per le merci. \nOsti, stallieri, mulattieri e fattori trovano lavoro continuo presso le locande e i magazzini del borgo; e chi sappia trattare con i viaggiatori di ogni condizione sarà tenuto in buona considerazione. \nIl castello che veglia sul borgo e sul Tanaro richiede cura continua: muratori, fabbri e falegnami sono ricercati per il mantenimento delle strutture di difesa e delle opere che garantiscono la sicurezza della via. \nUomini di fiducia e di buona condotta sono cercati per il servizio di guardia e per i compiti di custodia affidati dal Podestà. \nNelle campagne intorno al borgo si coltivano vigne e campi: massari e padroni di terre cercano lavoranti disposti a faticare onestamente, e chi conosca l'arte della vigna o del campo troverà patto equo e buon compenso. \nAnnone non è luogo di quiete e di solitudine: è terra di movimento, di voci e di affari, ove ogni giorno passa qualcosa di nuovo sulla via. \nChi ami il ritmo della strada e sappia trarne vantaggio ha scelto il posto giusto. \nScritto per volontà della comunità di Annone, affinché chi viaggia sappia che qui trova non solo la via ma anche chi lo sa servire bene."
+	}
   ]
 }

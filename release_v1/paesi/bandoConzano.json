@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Conzano\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Conzano, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Conzano, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Giunga questa voce a chi è in cerca di terra onesta e di lavoro stabile: Conzano, borgo del Monferrato eretto sul suo colle con sapiente impianto concentrico, è terra cara alla casata dei Paleologi, ove il marchese Teodoro II volle fondare il convento di San Maurizio e ove la casata marchionale tiene in grande considerazione chi serve con fedeltà e diligenza. \nLa torre che domina il borgo, con il suo spalto, i suoi barbacani e il fossato che lo cinge, è presidio solido e ben tenuto. \nSi cercano uomini di provata fedeltà per il servizio di guardia e la custodia delle strutture difensive; muratori capaci di lavorare in pietra e fabbri esperti nel ferro troveranno qui committenza stabile e compenso puntuale, ché la fortezza richiede cura continua. \nIl convento di San Maurizio, fondato per volontà del marchese Teodoro II appena sedici anni orsono, è luogo di preghiera e di arte: il suo chiostro con gli affreschi delle lunette è tra i più pregevoli della zona, e chi sappia servire la comunità conventuale, portare viveri, attendere ai bisogni dei frati o contribuire al mantenimento e al decoro degli edifici sacri troverà qui occupazione discreta e ben ricompensata. \nLa chiesa di Santa Maria di Piazza, fondata dagli Umiliati e ora in fase di ampliamento, offre anch'essa occasioni di lavoro a muratori e artigiani di buona mano. \nLe vigne e i campi che circondano il borgo danno buon frutto a chi li lavori con cura: massari e fattori cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà nelle stagioni del campo. \nChi conosca l'arte della vigna o del grano troverà a Conzano patto equo e buona ricompensa. \nConzano è terra che i marchesi tengono cara: chi vi serve bene serve in un luogo che conta. \nLa fama di questa terra parli per sé, ché i fatti valgono più delle parole."  
     }
   ]
 }

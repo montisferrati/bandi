@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Camino\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Camino, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Camino, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Corrano queste parole di terra in terra e giungano alle orecchie di chi cerca luogo ove metter le proprie capacità a buon frutto: Camino, terra del Monferrato posta in posizione eminente sulle colline, è luogo munito e ben difeso, ove chi vale trova impiego e chi serve con fedeltà è ricompensato secondo il suo merito. \nIl castello che domina il borgo, con le sue torri merlate, il ponte levatoio e il grande torrione da cui la vista abbraccia il Po e le Alpi, è dimora dei signori Scarampi, ai quali il Marchesato affidò il feudo in tempi lontani. \nLe mura e le strutture di difesa richiedono cura continua: si cercano muratori di buona mano, falegnami esperti e fabbri capaci di lavorare il ferro per cancelli, cardini e strumenti da guerra. \nChi conosca l'arte del costruire e del rinforzare troverà qui committenza stabile e pagamento puntuale. \nSi cercano altresì uomini robusti e di provata fedeltà per il servizio di guardia e la custodia della terra: non si richiede necessariamente esperienza d'armi, ma senso del dovere, presenza costante e carattere fermo. \nNelle frazioni che circondano il borgo si trova la Tenuta Gaiano, antica grangia affidata ai monaci cistercensi, i quali vi custodiscono e distribuiscono grano e sementi con sapienza e ordine. \nChi sappia lavorare la terra con metodo, caricare e trasportare le derrate, o semplicemente fatichi con onestà nei campi e nei granai, troverà presso la tenuta occupazione regolare e pane assicurato. \nNella frazione di Rocca delle Donne, in posizione dominante sulla valle del Po, sorge il monastero femminile benedettino fondato per volontà dei marchesi del Monferrato: luogo di preghiera e di raccoglimento, ma anche di frequentazione di signori, prelati e genti d'ogni rango che vi giungono per devozione e riverenza. \nChi sappia servire la comunità monastica, portare viveri, attendere ai bisogni delle monache o mantenere in ordine le strutture del convento, troverà qui occupazione discreta e ben ricompensata. \nPoco fuori le mura del castello veglia altresì la chiesa di San Gottardo, con i suoi antichi affreschi, sede dell'omonima confraternita. \nLe campagne e le vigne che circondano Camino danno buon frutto a chi le lavori con diligenza: massari e padroni di terre accolgono lavoranti e garzoni disposti a faticare con onestà. \nPosto il sigillo di questa terra, il resto lo dirà chi già vi dimora: venite a Camino e vedrete con i vostri occhi."
+	  }
   ]
 }

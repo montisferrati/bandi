@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Casorzo\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Casorzo, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Casorzo, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Udite, udite, voi che siete in cerca di pane e di opera onesta: Casorzo, antica terra del Monferrato posta sull'altura tra Asti e Casale, è comunità di uomini liberi che da più di un secolo godono di privilegi rari: esenzione da dazi e pedaggi e diritto di darsi proprie leggi, concessioni guadagnate con la fedeltà ai marchesi e mai venute meno. \nIl castello che un tempo dominava il borgo ha visto le truppe del Marchese fronteggiare quelle di Asti su questi stessi colli: Casorzo è terra che sa difendersi e che conosce il valore della lealtà. \nChi venga qui con animo retto e buona volontà sarà accolto come si accoglie chi merita rispetto. \nLe vigne che rivestono i pendii di Casorzo danno un vino che non si trova altrove: la Malvasia, aromatica e pregiata, è il frutto più prezioso di questa terra. \nSi cercano vignaiuoli esperti nella cura di questo vitigno delicato, garzoni di campagna disposti a faticare sui versanti soleggiati, e uomini capaci di attendere alla vinificazione e alla conservazione del vino con cura e perizia. \nChi conosca l'arte della vigna e del tino troverà qui occupazione continua e giusta ricompensa. \nNelle botteghe del borgo operano fabbri, falegnami e artigiani d'ogni sorta al servizio della comunità; e chi porti con sé un mestiere utile sarà ben accolto, ché Casorzo è terra che tiene in considerazione chi sa fare le cose con le proprie mani. \nLa chiesa di San Giorgio, antica e veneranda costruzione romanica che veglia sulla parte alta del borgo con la sua abside in pietra gialla, accoglie la devozione della comunità: chi sappia servire la chiesa o contribuire al suo mantenimento troverà in Casorzo gente riconoscente e pia. \nLa fama di questa terra parli per sé, ché i fatti valgono più delle parole: venite a Casorzo, e la Malvasia vi dirà il resto."
     }
   ]
 }

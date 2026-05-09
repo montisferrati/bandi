@@ -5,7 +5,7 @@
     "note": "Release bandi"
   },
   "title": "Alfiano\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
@@ -16,9 +16,9 @@
     },
 	{
       "date": "Die III mensis Maii",
-      "type": "Avviso",
+      "type": "Pubblico Avviso",
       "title": " ",
-      "message": "Sia manifesto a tutti, uomini e donne di buona volontà, che nella terra di Alfiano, posta nel Monferrato, si trovano opere e mestieri utili per chi voglia dimorarvi e prestar fatica onesta. \nNelle campagne e nelle vigne si richiede opera diligente per la coltura della terra, la cura dei campi e la raccolta dei frutti. \nMassari e padroni di terre cercano lavoranti, garzoni e famiglie disposte a stabilirsi e a trarre sostentamento dalle arti della terra. \nNon mancano artigiani di bisogno, quali falegnami, fabbri e calzolai, al servizio della comunità e dei lavoranti. \nA chi voglia vivere con diligenza e buona fama, si danno occasioni di sostentamento stabile e guadagno lecito. \nDato e scritto in Alfiano, sotto buon sigillo, acciocché niuno possa dir di non sapere."
+      "message": "A chiunque cerchi terra buona ove metter radici e guadagnarsi il pane con la fatica delle proprie mani, sia noto che Alfiano, terra del Monferrato, offre ciò che più vale: campi fecondi, vigne generose e una comunità che accoglie chi lavora con onestà.\nI massari e i padroni delle terre circostanti cercano con urgenza lavoranti, garzoni e famiglie intere disposte a stabilirsi: chi conosca l'arte della vigna, la cura dei campi di grano e la raccolta dei frutti troverà qui patto giusto e tetto sicuro. \nLa terra di Alfiano ripaga con abbondanza chi la tratta con rispetto e pazienza.\nAlla comunità non mancano artigiani di necessità, falegnami, fabbri e calzolai, che servono i bisogni del borgo e dei lavoranti dei campi; e a chi porti con sé un mestiere utile, vi sarà sempre posto e richiesta. \nNon è Alfiano città di grandi traffici né di fiere rumorose: è luogo di vita quieta, di lavoro onesto e di gente che mantiene la parola data. \nA chi cerchi stabilità più che fortuna, qui troverà l'una e, col tempo, anche l'altra. \nScritto per volontà della comunità di Alfiano, affinché chi cerca possa trovare e chi trova possa restare."
     }
   ]
 }

@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Lu\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-04-30T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Lu, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Lu, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Dalla cima del colle più alto del basso Monferrato, ove il vento porta lontano ogni notizia e lo sguardo abbraccia la pianura alessandrina fino all'orizzonte, sia noto che Lu, borgo antico e ben munito, apre le proprie porte a chi sappia rendersi utile con onestà e dedizione. \nLa cinta muraria che racchiude il borgo, con le sue porte, le sue torri e i suoi bastioni, è presidio solido e di vitale importanza per la difesa del Monferrato verso la pianura: si cercano uomini robusti e di provata fedeltà per il servizio di guardia e la sorveglianza delle porte, muratori capaci di mantenere in ordine le strutture della cinta, e fabbri esperti nel ferro degli elementi di difesa. \nLa posizione di Lu non ammette negligenze, chi veglia su queste mura veglia su tutto il Monferrato Casalese. \nTre chiese animano la vita spirituale del borgo, San Pietro, San Nazario e San Giacomo, tutte fondate nei secoli passati e oggi cuore della devozione luese. \nChi sappia servire le chiese, contribuire al loro mantenimento o assistere i loro chierici con discrezione e continuità troverà in Lu una comunità pia e riconoscente, ché la fede di questo borgo è antica e ben radicata. \nLe botteghe del borgo danno lavoro a fabbri, falegnami, calzolai e artigiani d'ogni sorta al servizio di una comunità ben organizzata e di buona vivacità commerciale. \nLe vigne e i campi che circondano le mura richiedono braccia laboriose in ogni stagione: massari e fattori cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà. \nLu non è borgo che si accontenta di poco: è terra ambiziosa, che sa da dove viene e sa dove vuole andare. \nChi viene qui con voglia di fare troverà sempre qualcosa che lo aspetta. \nScritto per volontà della comunità di Lu, dalla cima del colle che tutto vede e tutto ricorda."
     }
   ]
 }
