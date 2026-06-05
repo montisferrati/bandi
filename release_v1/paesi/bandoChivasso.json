@@ -2,23 +2,23 @@
   "_metaDatiJson": {
     "nomeJson": "bandoChivasso",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 1"
   },
   "title": "Chivasso\nTavola dei Bandi",
-  "updatedAt": "2026-04-30T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
+  "updatedAt": "2026-06-05T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXIIII",
   "bando": [
     {
-      "date": "Die III mensis Maii",
+      "date": "adi III de magio MCCCCXXXIIII",
       "type": "Bando Pubblico",
-      "title": " ",
-      "message": "A tutti gli abitanti di Chivasso e del suo contado, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, Amedeo VIII, Duca di Savoia e Protettore di Chivasso, provvediamo con mano ferma e giustizia al governo di questa città e del suo territorio. \nChivasso è sotto la nostra protezione e custodia: i suoi mercati, i suoi mestieri e i suoi traffici si tengano con regolarità e sicurezza, e nessuno arrechi turbamento alla quiete dei cittadini né al buon ordine delle cose pubbliche. \nChi abbia controversie o ragioni da far valere si presenti agli offici del nostro Podestà qui insediato, ove sarà udito secondo giustizia e secondo i diritti della terra. \nChi turbi l'ordine o manchi di obbedienza alle nostre disposizioni sarà punito secondo la gravità della colpa. \nIl cantiere della collegiata di Santa Maria Assunta prosegua senza interruzione, ché la sua edificazione è gloria di questa città e nostra volontà che sia condotta a termine con la dovuta diligenza e pietà. \nChe ciascuno viva nella pace che la nostra protezione garantisce, attendendo ai propri doveri con fedeltà e operosità. \nDatum sub sigillo ducali in Chivasso \ndie III mensis Maii. \nPer autorità di Amedeo VIII \nDuca di Savoia. \nIl Podestà ducale in Chivasso."
-	},
+      "title": "De lo stato de la Terra de Chivasso et de la protectione del Duca",
+      "message": "A tuti li homini et donne de Chivasso et de suo contado, salute.\n\nSia manifesto che per li pacti stipulati in Thonon l'anno MCCCCXXXII, confermati da la Santa Sede imperiale, Noi Ludovico de Savoia, primogenito de lo illustrissimo principe Amedeo duca de Savoia et suo locotenente generale de qua da monti, havemo recevuto in protectione et governo questa Terra de Chivasso, posta a la sinistra del Po.\n\nLo spectabile nostro cognato Johan Jacomo de li Paleologi, marchese de Monferrato, ha per sua voluntà translato la sua corte in Casale. Chivasso, che per più de cento anni fo sede de li marchesi, non perde per questo honore né franchigie.\n\nComandamo al nostro capitaneo et a li officiali de la Terra che tengano justicia, che li mercati, li mestieri et li trafichi se fazano con regula, et che le mura, lo porto et lo Castello con la sua torre octagona siano guardati con diligentia, ché Chivasso è chiave et porta tra Piemonte et Monferrato.\n\nChi serà fidele a Casa de Savoia trovarà merito et securo stato; chi vorrà ricordare lo tempo passato lo faza senza tumulto.\n\nDato in Chivasso, sotto nostro sigillo, adi III de magio MCCCCXXXIIII.\n\nLudovicus de Sabaudia"
+    },
 	{
-      "date": "Die III mensis Maii",
+      "date": "adi III de magio MCCCCXXXIIII",
       "type": "Pubblico Avviso",
-      "title": " ",
-      "message": "Grande è stata Chivasso, e grande essa rimane. \nPer più di un secolo questa città ha ospitato la corte dei marchesi del Monferrato, ha dato riparo a pittori, poeti e filosofi, ha visto coniare monete d'oro e d'argento nella sua zecca e ha visto nascere tra le sue mura il cantiere della collegiata di Santa Maria Assunta. \nChi viene oggi a Chivasso trova ancora tutto questo, e trova una città che non dimentica chi è, anche mentre aspetta di sapere cosa diventerà. \nIl cantiere della collegiata, voluto dal marchese Teodoro II e ora sostenuto con tenacia dalla Credenza cittadina, è aperto e cerca mastri muratori di buona mano capaci di lavorare il cotto con arte, carpentieri esperti nelle grandi strutture lignee, e manovali disposti a faticare con continuità. \nChi lavori bene in un cantiere di tale importanza guadagna non solo il salario ma anche la fama, ché l'opera che si costruisce sarà vista da ogni forestiero che passi per Chivasso per generazioni a venire. \nIl castello marchionale con la sua antica torre ottagonale, testimone di re e di marchesi, richiede cura e manutenzione: fabbri, muratori e falegnami trovano qui occupazione continuativa al servizio del governo che ora amministra la città. \nIl porto sul Po è ancora punto di transito e di traffici: barcaioli, facchini e operatori del commercio fluviale trovano in Chivasso un nodo di scambi che nessun cambio di governo ha potuto spegnere. \nMercatanti, notai e artigiani d'ogni sorta si cercano per i bisogni di una città che, grande o piccola che sia la sua fortuna politica, rimane sempre crocevia di genti e di merci. \nLe campagne attorno alla città offrono lavoro a braccianti e vignaiuoli in ogni stagione. \nChivasso non è più la capitale del Monferrato, quella corona è passata a Casale per volontà del marchese. \nMa Chivasso è ancora Chivasso: e per chi la conosce davvero, questo vuol dire tutto. \nPer volontà della Credenza di Chivasso, affinché la fama di questa città non si perda nel silenzio del cambiamento."
+      "title": "De li mestieri et de la memoria de Chivasso",
+      "message": "Grande fo Chivasso, et grande se vole mantenere.\n\nPer più de cento anni questa Terra albergò la corte de li marchesi Paleologi, vide battere moneta d'oro et d'argento ne la sua cecha, et diede casa a pictori, poeti et philosophi.\n\nHoggi, per li accordi predicti, la corte è partita verso Casale. Ma Chivasso non è terra abandonata.\n\nLo cantiere de le mura et del Castello è aperto: se cercano mastri da muro boni a lavorare lo cotto, marangoni usati a le grande travature, et manuali per fatica continua.\n\nLo Castello marchionale con la sua torre octagona demanda cura: fabri, muratori et marangoni trovarano qui lavorerio.\n\nLo porto sopra lo Po resta passo vivo: barcaroli, facchini, navaroli et mercatanti trovano in Chivasso nodo de scambi che nulla guerra ha spento.\n\nMercatanti, notari, spiciali et artefici d'ogni sorte sono rechesti per li bisogni de una Terra che muta signore ma non muta via.\n\nLe vigne et li campi d'intorno domandano braccia in ogni stagione.\n\nChivasso non è più sede de corte, ma è ancora Chivasso: et per chi la conosce, questo vole dire assai.\n\nPer comandamento de li Officiali de la Terra, a ciò che lo nome de Chivasso non cada in silentio, posto in publica tavola adi III de magio MCCCCXXXIIII."
     }
   ]
 }

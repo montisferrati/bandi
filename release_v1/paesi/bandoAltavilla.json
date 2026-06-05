@@ -1,11 +1,11 @@
 {
   "_metaDatiJson": {
-    "nomeJson": "altavillaNewsV2",
+    "nomeJson": "bandoAltavilla",
     "repoJson": "bandi",
     "note": "Release bandi"
   },
   "title": "Altavilla\nTavola dei Bandi",
-  "updatedAt": "2026-04-30T12:00:00Z",
+  "updatedAt": "2026-06-03T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {

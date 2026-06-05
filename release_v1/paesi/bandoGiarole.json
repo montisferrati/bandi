@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Giarole\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-06-03T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Giarole, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Giarole, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Chi cerchi luogo di saldo governo e di antica fedeltà sappia che Giarole, terra del Monferrato posta nella fertile pianura tra il Po e le colline, è feudo della famiglia Sannazzaro da così tante generazioni che la memoria d'uomo non ricorda altri signori. \nI Sannazzaro tennero questo castello dai tempi del Barbarossa e lo tengono ancora oggi, e chi serve bene una famiglia così radicata serve in un luogo che non cambierà domani quello che è oggi. \nIl castello dei Sannazzaro, con il suo fossato, il ponte levatoio e la torre d'ingresso che lo proteggono da ogni lato, è dimora signorile stabile e ben governata: si cercano servitori di specchiata fedeltà e buona condotta, cuochi, stallieri e uomini di fiducia capaci di assistere la famiglia nelle sue necessità quotidiane. \nMuratori e falegnami trovano altresì lavoro nella manutenzione delle strutture, che i Sannazzaro tengono con cura e orgoglio generazione dopo generazione. \nLa chiesa di San Giacomo, costruita nel secolo scorso accanto all'ala più antica del castello e ad essa collegata, è il cuore spirituale del borgo: chi sappia servire la chiesa, assistere i sacerdoti o contribuire al suo decoro e mantenimento troverà nei Sannazzaro patroni devoti e riconoscenti. \nSotto il castello si estendono profondi sotterranei, con cantine in mattoni e muratura ove il vino dei vigneti di famiglia riposa al fresco tutto l'anno: chi sappia governare tali ambienti, curare la conservazione del vino o lavorare nei vigneti di famiglia troverà qui impiego continuo e giusto compenso. \nLe pianure fertili che circondano Giarole danno grano abbondante e buone uve: massari e fattori dei Sannazzaro cercano lavoranti robusti per la semina, la cura delle biade, la vendemmia e la raccolta. \nChi sia abituato alla fatica della pianura troverà qui patto equo e pane assicurato. \nGiarole non è luogo di grandi traffici né di fiere rumorose: è terra di vita tranquilla, di governo antico e di gente che sa da sempre chi è il proprio signore. \nChi cerca stabilità più che fortuna, qui troverà l'una e col tempo anche l'altra. \nScritto per volontà della comunità di Giarole, nell'anno in cui Casale è proclamata Capitale del Monferrato, e i Sannazzaro continuano a tenere il loro castello come hanno sempre fatto."
+	}
   ]
 }

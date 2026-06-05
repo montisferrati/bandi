@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Frassineto\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-06-03T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Frassineto, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
-    }
+      "message": "A tutti gli abitanti di Frassineto, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Sia noto a tutti gli abitanti di Frassineto e a chiunque voglia stabilirsi in questa terra: il castello, il feudo e il luogo di Frassineto sono ora sotto la diretta e immediata giurisdizione del Serenissimo Principe Gian Giacomo Paleologo, Marchese del Monferrato, al quale i nobili conti di Cavaglià hanno spontaneamente rimesso ogni diritto e ragione su questo territorio. \nFrassineto è terra del Marchesato, e tale rimarrà. \nQuesto è tempo di rinnovamento e di nuove opportunità: chi venga a Frassineto con volontà di lavorare e di rendersi utile troverà una comunità che guarda avanti con fiducia, sotto la protezione diretta dei marchesi Paleologi. \nLe pianure fertili che si stendono attorno al borgo richiedono braccia laboriose in ogni stagione: massari e fattori del marchesato cercano lavoranti per la semina, la cura delle biade e la raccolta. \nChi sia abituato alla fatica della pianura bassa troverà qui patto giusto e pane assicurato. \nIl Po scorre a poca distanza dalle porte del borgo: barcaioli pratici delle acque, facchini per il carico e scarico delle merci di transito, e uomini disposti a lavorare lungo le rive troveranno qui occupazione continua. \nChi conosca il fiume, le sue correnti, i suoi banchi e i suoi capricci stagionali, è persona di grande valore in questa terra. \nCon il passaggio al diretto governo marchionale si cercano altresì uomini capaci di scrittura e di conto, atti ad assistere negli offici della nuova amministrazione: notai, scrivani e uomini di governo troveranno in Frassineto occasioni di impiego stabile presso i rappresentanti del Principe. \nNon mancano artigiani di necessità al servizio della comunità, fabbri, falegnami e muratori, e chi porti con sé un mestiere utile non resterà senza clientela. \nLa chiesa del borgo accoglie la devozione della comunità con antica pietà: chi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione da tutti. \nFrassineto non chiede a nessuno da dove viene: chiede solo che sappia lavorare bene e mantenere la parola data. \nIl Marchesato garantisce. \nScritto per volontà della comunità di Frassineto, nel primo anno del governo diretto dei marchesi Paleologi."
+	}
   ]
 }

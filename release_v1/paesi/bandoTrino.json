@@ -2,24 +2,23 @@
   "_metaDatiJson": {
     "nomeJson": "bandoTrino",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 1"
   },
   "title": "Trino\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
+  "updatedAt": "2026-06-05T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXIIII",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
-      "title": " ",
-      "message": "A tutti gli abitanti di Trino, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Bando Pubblico",
+      "title": "De la nova sede de la corte in Casale",
+      "message": "A tuti li homini et donne de Trino, salute in Domino sempiternam.\n\nSia noto ad ogni homo, femina et fio de questa Terra, che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, nato tra queste mura a dì XXIII de marzo MCCCLXXXXV, havemo deliberato che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia, salva sempre la fidelitate che dovemo al nostro signore et cognato Amedeo duca de Savoia per li pacti de Thonon.\n\nTrino, che è la più cara terra che ne resta a la dextra del Po et che intendemo lassare in signoria al nostro primogenito Johanne, non perda honore per questo, anzi se ne alegri: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, in Trino, adi III de magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
+    },
+    {
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Pubblico Avviso",
+      "title": "De li honori et de li mestieri de Trino",
+      "message": "Sappia chi cerca terra franca et lavorero securo che Trino è borgo antiquo, chiamato dai Celti Rigomagus, che vole dire 'mercato del re', et dal secondo secolo avanti Cristo fo mansio romana posta al guado del Po, a lo incrocio de le vie che menano da Taurini a Ticinum et da Augusta a Asta.\n\nQui fo introdutta per la prima volta la coltivatione del riso, che hoggi è speranza nova per tutta la regione.\n\nLa pieve de San Michele in Insula, fora de le mura, con affreschi del XII secolo, et la giesa de San Bartolomeo patrono, vegliano sopra una terra che li Marchesi hanno sempre tenuta cara.\n\nLo Po domanda barcaroli experti al passo, facchini al carico de grano et de riso, et guardiani de argini quando le acque crescono.\n\nNe le campagne basse se cercano mondine et risaioli usati a la novele coltura, massari che sappiano governare l'acqua, et garzoni per le stagioni de semina et de ricolta.\n\nLi mulini lungo le bealere — Trino ne haverà sette ne li secoli a venire — cercano mugnai boni a macinare grano et, da qui inanti, a brillare riso.\n\nArtieri, notari et mercatanti trovano in Trino mercato vivo per lo transito del Po et per la vicinanza a le colline del Monferrato: chi sappia tenere libri, pesare mercantie o conciare cuoi haverà sempre botega aperta.\n\nChi vene a Trino con mane laboriose et core leale, trova terra de passo, de pane et, da poco, de riso, et trova lo favore de la casa Paleologa che qui nacque.\n\nDato in Trino, per li Officiali de la Terra, adi III de magio MCCCCXXXIIII."
     }
   ]
 }

@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Lignano\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-06-03T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Lignano, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Lignano, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Sia portata questa voce lontano tra le colline del Monferrato: Lignano, terra posta sulle alture della Val Ghenza, è feudo concesso per volontà del marchese Gian Giacomo Paleologo ai Cane di Casale, famiglia di lunga tradizione guerriera, che vi esercitano la loro signoria con mano ferma e cercano uomini capaci di rendersi utili. \nIl castello che domina il borgo dall'alto del colle, antico castrum curtense con la sua Caminata tardogotica, ampia sala dalle arcate pregevoli ove signori e vassalli si raccolgono attorno al fuoco per consiglio e convivio, richiede cura continua e uomini di fiducia: muratori capaci di lavorare in pietra, falegnami esperti nelle strutture lignee e fabbri abili nel ferro dei cancelli e degli strumenti di difesa troveranno qui committenza stabile presso i signori Cane. \nIl castello svolge altresì funzioni di governo e amministrazione della corte soggetta, chi sappia scrivere con mano ferma o assistere nelle pratiche amministrative del feudo sarà ben accolto e ricompensato. \nLe colline che circondano Lignano danno vigne di buona qualità e campi fertili: massari e fattori dei Cane cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà nelle stagioni del campo. \nChi conosca l'arte della vigna o del grano troverà qui patto equo e buona ricompensa. \nLa cappella del castello accoglie la devozione della comunità: chi sappia servire la chiesa con discrezione e continuità sarà tenuto in buona considerazione dai signori del luogo. \nChi porta con sé un mestiere utile e un animo retto non resterà senza impiego a Lignano, ché i Cane sanno riconoscere chi vale."
     }
   ]
 }

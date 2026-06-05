@@ -2,24 +2,23 @@
   "_metaDatiJson": {
     "nomeJson": "bandoMoncalvo",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 1"
   },
   "title": "Moncalvo\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
+  "updatedAt": "2026-06-05T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXIIII",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
-      "title": " ",
-      "message": "A tutti gli abitanti di Moncalvo, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Bando Pubblico",
+      "title": "De la nova sede de la corte in Casale",
+      "message": "A tuti li homini et donne de Moncalvo, salute.\n\nSia manifesto che per li pacti de Thonon de l'anno MCCCCXXXII, Noi Ludovico de Savoia, primogenito de lo illustrissimo principe Amedeo duca de Savoia et suo locotenente generale de qua da monti, tenemo in guardia et regimento questa nobile Terra de Moncalvo con lo suo castello.\n\nLo spectabile nostro cognato Johan Jacomo de li Paleologi, marchese de Monferrato, ha deliberato che la sua corte, conseglio et justicia debiano da qui inanti residere in Casale.\n\nMoncalvo, che per secoli fo prima sede de li marchesi Aleramici et poi de li Paleologi, non perde per questo honore né memoria. Qui resta lo capitaneo sabaudo, qui se farà bona justicia.\n\nChe ciascuno se ne alegri con misura, et chi vorrà andare a Casale per trafichi lo faza con salvocondotto nostro.\n\nDato in Moncalvo, nel castello, sotto nostro sigillo, adi III de magio MCCCCXXXIIII.\n\nLudovicus de Sabaudia"
+    },
+    {
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Pubblico Avviso",
+      "title": "De li honori et de li mestieri de Moncalvo",
+      "message": "Sappia chi cerca terra nobile et lavorero honorato che Moncalvo è Terra antiqua, de origine romana, et per secoli fo capitale de li Marchesi de Monferrato.\n\nAncor hoggi tra queste mura et ne lo castello, una de le più forti opere de defesa de tutto lo Marchesato, stanno famigliari de la casata Paleologa sotto la nostra protectione.\n\nLo castello che signoregia la Terra da l'alto demanda cura continua: mastri da muro usati a la petra, marangoni experti ne le travature, et fabri boni a lavorare lo ferro de porte et de arme trovano qui lavorerio stabile et paga degna.\n\nGrandi opere de reforzo de le mura sono in provedimento: chi sappia hedificare con arte haverà in Moncalvo lavorero de longa durata.\n\nLa giesa de San Francesco, fundata da li frati Minori sopra lo sito de lo castello antiquo et sepultura de illustri Paleologi, è loco de grande devotione: chi serva li frati, porti victualia, overo attenda al decoro de li edifici sacri, troverà occupatione honesta.\n\nLa pieve de San Piero in Vincoli, con la lapide romana de lo terzo secolo ne lo muro de fora, è l'altra anima de la Terra.\n\nLi boschi d'intorno celano lo dono più pretioso de queste colline: lo tartufo bianco, cercato con cani et zapino ne li mesi de autunno et caro a le mense de li grandi signori. Chi sappia l'arte de la cerca, o voglia imparare da mastro, trova in Moncalvo mestiero raro et di bono guadagno.\n\nVigne et campi d'intorno dano vino et grano de bona sorte: massari cercano vignaioli, messori et garzoni acti a fatica honesta.\n\nArtieri, notari et mercatanti trovano in Moncalvo Terra de rango et de trafichi, dove lo mestiero ben facto è sempre pregiato.\n\nChi vene a Moncalvo con mane aperte et core sincero, trova sempre cosa che lo aspecta.\n\nDato in Moncalvo, per li Officiali de la Terra, adi III de magio MCCCCXXXIIII."
     }
   ]
 }

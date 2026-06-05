@@ -2,23 +2,23 @@
   "_metaDatiJson": {
     "nomeJson": "bandoAcqui",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 1"
   },
   "title": "Acqui\nTavola dei Bandi",
-  "updatedAt": "2026-04-30T12:00:00Z",
+  "updatedAt": "2026-06-04T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "Die III mensis Maii",
-      "type": "Bando Pubblico",
-      "title": " ",
-      "message": "A tutti gli abitanti di Acqui e del suo contado, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà e autorità di Filippo Maria Visconti, Duca di Milano e Signore di Acqui, provvediamo al buon governo di questa città e del suo territorio, affinché pace, ordine e giustizia siano mantenuti in ogni contrada. \nSotto la nostra protezione, i mercati si tengano con regolarità, i mestieri siano esercitati secondo gli usi e i diritti della terra, e nessuno arrechi turbamento alla quiete dei cittadini. Chi abbia controversie o ragioni da far valere si presenti agli offici del nostro Luogotenente, ove sarà udito secondo giustizia. \nChe ciascuno adempia i propri doveri con fedeltà e diligenza, e viva nella pace che la nostra signoria garantisce. \nChi turbi l'ordine pubblico o manchi di obbedienza alle nostre disposizioni sarà punito secondo la gravità della colpa. \nDatum sub sigillo ducali, in Acqui, die III mensis Maii. \nPer autorità di Filippo Maria Visconti, Duca di Milano. \nIl Luogotenente ducale in Acqui."
+      "date": "adì III magio MCDXXXIV",
+      "type": "Grida Ducale",
+      "title": "De lo bono governo de la Cità de Acqui",
+      "message": "A tutti li homini et donne de Acqui et de lo suo contado, salute.\n\nSia manifesto che Noi, per voluntà et auctorità de lo illustrissimo et excellentissimo signore nostro Philippo Maria, Duca de Milano, Conte de Pavia et de Angleria, Signore de Acqui, provedemo a lo bono regimento de questa Cità et de lo suo territorio, a ciò che pace, ordene et justicia siano mantenuti in ogni contrada.\n\nSotto la protectione ducale, li mercati se tengano con regolaritate, li mestieri se exercitino secondo usanza et diricto de la terra, et nullo ardisca turbare la quiete de li citadini.\n\nChi habia questione o ragione da monstrare vegna dinanzi a lo officio de lo nostro Locotenente, et serà oldito secondo justicia.\n\nCiascuno adimpia li suoi debiti con fede et diligentia, et viva ne la pace che la signoria ducale guarenta.\n\nChi turbi lo ordene publico o manchi de obedientia a li nostri commandamenti, serà punito secondo la gravezza de la colpa.\n\nDato in Acqui, sotto sigillo ducale, adì III magio MCDXXXIV.\n\nPer auctoritate de Philippo Maria Visconti, Duca de Milano,\nLo Locotenente ducale in Acqui."
     },
-	{
-      "date": "Die III mensis Maii",
-      "type": "Pubblico Avviso",
-      "title": " ",
-      "message": "A chiunque cerchi terra ospitale ove posarsi e guadagnarsi il pane con onore, sia noto che Acqui, antica e nobile città, apre le sue porte con larghezza. \nLe acque calde che sgorgano dal suo suolo sono tra le più rinomate della regione: chi si intenda di cura dei corpi, di servizio ai bagni, di accoglienza e di conforto dei forestieri troverà qui impiego continuo, ché pellegrini, infermi e viandanti giungono in ogni stagione a ricercare sollievo e ristoro. \nÈ altresì Acqui sede vescovile di antica e venerabile tradizione, con la sua cattedrale di Santa Maria Assunta e la basilica di San Pietro, ove i monaci benedettini mantengono viva la vita religiosa e il servizio ai pellegrini. \nChi sappia servire le chiese, assistere i viandanti che giungono per devozione, o lavorare con le mani per il mantenimento e il decoro dei luoghi sacri, troverà in questa città occupazione continua e animo grato. \nLe botteghe della città danno lavoro a fabbri di buona mano, a calzolai, tessitori e fornai; e chiunque porti con sé un mestiere imparato con cura non tarderà a trovar dove esercitarlo. \nOsti e mercatanti cercano garzoni svelti e di fidata condotta.\nFuori dalle mura, le campagne e le vigne che cingono Acqui offrono fatica onesta a chi non tema il sole e la terra: braccianti, vignaiuoli e uomini d'ogni arte campestre sono ben accolti e ricompensati secondo il loro valore. \nNon vi è in questa città chi arrivi con volontà di lavorare e resti senza pane. \nAcqui dà a ciascuno secondo la sua opera. \nScritto per ordine dei buoni uomini di Acqui, affinché la fama di questa terra si diffonda lontano."
+    {
+      "date": "adì III magio MCDXXXIV",
+      "type": "Publico Avviso",
+      "title": "De li bagni, de le giesie et de li mestieri de Acqui",
+      "message": "A chiunque cerca terra hospitale dove posarse et guadagnare lo pane con honore, sia noto che Acqui, antiqua et nobile Cità, apre le sue porte con larghezza.\n\nLe aque calde che nascono da lo suo solo sono de le più nomate de la regione: chi se intenda de cura de li corpi, de servitio a li bagni, de albergare et confortare li forestieri, troverà qui lavorero continuo, ché pellegrini, infermi et viandanti veneno in ogni stagione a cercare sollievo et reposo.\n\nÈ ancora Acqui sede episcopale de antiqua et venerabile traditione, con la cathedrale de Sancta Maria Assumpta et la basilica de Sancto Petro, dove li monaci de Sancto Benedicto tengono vita religiosa et servitio a li pellegrini.\n\nChi sappia servire le giesie, adiutare li viandanti che veneno per devotione, o lavorare con le mane per mantenimento et decoro de li loghi sacri, haverà in questa Cità occupatione continua et animo grato.\n\nLe botege de la Terra dano lavorero a fabri de bona mano, caligari, texitori et fornari; et chiunque porti mestiero imparato con cura non tarderà a trovare dove exercitarlo.\n\nHosti et mercatanti cercano garzoni svegli et de fidata conducta.\n\nFora de le mura, campagne et vigne che cingono Acqui dano fatica honesta a chi non teme sole et terra: brazanti, vignaioli et homini d’ogni arte campestre sono bene accolti et pagati secondo lo loro valore.\n\nNon è in questa Cità chi vegna con voluntà de lavorare et resti senza pane.\n\nAcqui dà a ciascuno secondo la sua opera.\n\nScripto per comandamento de li boni homini de Acqui, a ciò che la fama de questa Terra vada lontano."
     }
   ]
 }

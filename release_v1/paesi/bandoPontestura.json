@@ -2,24 +2,23 @@
   "_metaDatiJson": {
     "nomeJson": "bandoPontestura",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 1"
   },
   "title": "Pontestura\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
+  "updatedAt": "2026-06-05T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXIIII",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
-      "title": " ",
-      "message": "A tutti gli abitanti di Pontestura, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Bando Pubblico",
+      "title": "De la nova sede de la corte in Casale",
+      "message": "A tuti li homini et donne de Pontestura, salute in Domino sempiternam.\n\nSia manifesto che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la nostra corte, conseglio et justicia debiano da qui inanti residere et fermarse in la nostra Terra de Casale, la quale instituimo capitale.\n\nIn essa starà lo core del regimento et de li trafichi de tutto lo Marchesato, salva sempre la fidelitate et homagio che dovemo al nostro illustrissimo signore et cognato Amedeo duca de Savoia, per li pacti de Thonon.\n\nSia questo honore a Casale et a tutto lo populo che sta sotto lo nostro stendardo. Pontestura, che ne fo sede et nido, se ne alegri, ché la gloria de una Terra è gloria de tutte.\n\nDato sotto nostro sigillo, adi III de magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
+    },
+    {
+      "date": "adi III de magio MCCCCXXXIIII",
+      "type": "Pubblico Avviso",
+      "title": "De li honori et de li mestieri de Pontestura",
+      "message": "Sappia chi va per lo Monferrato che Pontestura è borgo antiquo, nato là dove lo ponte se unì a la Stura, et da longevo tempo electa stanza de li Marchesi Paleologi.\n\nQui lo castello ha veduto nascere marchesi — et qui, a dì XXIIII de zugno MCCCCXIII, nacque lo nostro primogenito Johanne — et ha hostato parlamenti; et solo due anni fa, qui fo convocato lo Parlamento de Monferrato che tractò li grandi facti de lo Stato.\n\nLo castello, dimora estiva de li Paleologi et sede de la corte quando se move, demanda servitori de fede provata: cochi, stallieri, scriptori, camerieri et homini de governo usati a servire la corte ne le sue stanze troveranno in Pontestura officio de rango et paga conveniente.\n\nSe cercano ancora mastri da muro, marangoni et fabri boni a tenere in ordine lo castello con cura continua.\n\nCampi et vigne d'intorno dano bono fructo a chi li lavora con honestate: massari et fattori de la corte cercano vignaioli, messori et garzoni acti a fatica ne le stagioni. Chi sappia tractare vigna o grano con respecto troverà patto justo et bona mercede.\n\nArtieri d'ogni sorte trovano in Pontestura comunità viva per la presentia de la corte: quando li Paleologi stanno qui, li bisogni de lo borgo crescono et ogni mestiero ha sua occasione.\n\nLa pieve de Sancta Agatha, con la bella faza de matoni et de preda che guarda la comunità da trecento anni, è core de la vita spirituale: chi serva la giesa o aiuti a mantenerla serà tenuto in bono conto da la Terra et da la corte.\n\nChi vene a Pontestura con mane aperte et core presto, trova sempre cosa che lo aspecta, et trova Terra che li Marchesi elegono quando voleno posare da lo peso de lo governo.\n\nDato in Pontestura, per li Officiali de la Terra, adi III de magio MCCCCXXXIIII."
     }
   ]
 }

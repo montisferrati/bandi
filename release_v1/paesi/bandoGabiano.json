@@ -5,21 +5,20 @@
     "note": "Release bandi"
   },
   "title": "Gabiano\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
+  "updatedAt": "2026-06-03T12:00:00Z",
   "dataAggiornamento": "MCDXXXIV",
   "bando": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
+      "date": "Die III mensis Maii",
+      "type": "Bando Pubblico",
       "title": " ",
-      "message": "A tutti gli abitanti di Gabiano, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "message": "A tutti gli abitanti di Gabiano, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
+    },
+	{
+      "date": "Die III mensis Maii",
+      "type": "Pubblico Avviso",
+      "title": " ",
+      "message": "Sappia chi legge e chi ascolta che Gabiano, terra del Monferrato di origine romana posta sul promontorio che domina la grande valle del Po, è tra i luoghi più antichi e venerabili del Marchesato, citata negli atti di Carlo Magno, onorata da Federico Barbarossa, contesa dai potenti per la sua posizione e la sua ricchezza, e ora saldamente nelle mani dei marchesi Paleologi che la tengono come uno dei loro possessi più preziosi. \nIl castello che svetta sul punto più alto del promontorio, antico baluardo militare nato per controllare i traffici che attraversavano il Po verso il Nord Europa e ora in fase di trasformazione in dimora signorile degna del nome dei Paleologi, richiede maestranze di alta qualità: muratori e scalpellini capaci di lavorare la pietra con arte, falegnami esperti nelle strutture lignee di pregio, pittori e decoratori in grado di abbellire le sale interne secondo il gusto del tempo. \nChi porti con sé un mestiere raffinato troverà a Gabiano un castello che aspira alla grandezza e che paga bene chi la sa realizzare. \nLa vigna è l'anima più antica di Gabiano: già mille anni fa i registri del borgo registravano l'acquisto di vigne e di vino, e da allora la tradizione non si è mai interrotta. \nSi cercano vignaiuoli esperti, garzoni di campagna e uomini capaci di attendere alla vinificazione e alla conservazione del vino con cura e perizia. \nChi conosca l'arte della vigna troverà a Gabiano una terra che quella stessa arte pratica da più generazioni di quante se ne possano contare. \nLa posizione sul Po fa di Gabiano anche un punto di transito e di controllo dei traffici fluviali: barcaioli, facchini e uomini pratici delle acque trovano qui occupazione continuativa, ché il fiume non smette mai di portare merci e persone. \nLa chiesa romanica di Santa Maria Assunta veglia sulla comunità con la sua antica pietà: chi sappia servire la chiesa o contribuire al suo mantenimento sarà tenuto in buona considerazione da tutti. \nGabiano non chiede a nessuno da dove viene: chiede solo che sappia lavorare bene e che rispetti una terra che ha visto passare imperatori e re. \nChi viene qui porta con sé la consapevolezza di calpestare una delle più antiche storie del Monferrato."
     }
   ]
 }
