@@ -2,4 +2,5 @@
 
 folder: release_v1/mappe   ->  1 bando json  </br>
 folder: release_v1/paesi   -> 60 bandi json  </br>
-tag: v0.0.8
+
+tag: v0.0.9 06 Giugno 2026
