@@ -1,0 +1,24 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "bandoMontalero",
+    "repoJson": "bandi",
+    "note": "Release bandi - rev 1 volgare"
+  },
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-06-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXIIII",
+  "bando": [
+    {
+      "date": "adì III magio MCCCCXXXIIII",
+      "type": "Grida",
+      "title": "De la nova sede de la corte in Casale",
+      "message": "A tuti li homini, done et fioli de Montalero, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nMontalero, lo cui castello da quaranta sei anni li nostri fideli Montaleri tengono in bona guardia sopra la Valle Cerrina, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
+    },
+    {
+      "date": "adì III magio MCCCCXXXIIII",
+      "type": "Bando",
+      "title": "De li mestieri et de lo castello de Montalero",
+      "message": "A chi cerca loco fermo et ben guardato ove vivere con honore, sia noto che Montalero, terra de la Valle Cerrina posta sopra lo torrente Stura, è feudo de antiqua origine, governato fidelmente da li signori Montaleri per voluntà de li marchesi Paleologi.\n\nLo castello che domina questa contrata sorse intorno a l'anno Mille et già nel mille septanta ne troviamo memoria; li signori Montaleri, investiti del maniero quaranta sei anni a dietro, lo ristrutturarono con cura et lo tengono hoggi in bona defesa.\n\nLe sue mura et torri rechieono manutentione continua: fabri, marangoni et mastri da muro de bona mano troveranno qui comittentia stabile presso la casa Montaleri, et homini de fiducia sono cercati per lo servitio de guardia.\n\nLe terre intorno al castello, fertile et bene irrigate da lo Stura, dano bono fructo a chi le lavora con cura: massari et fattori de la casa Montaleri cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate et continuità.\n\nChi conosca l'arte de la vigna o del campo troverà a Montalero patto equo et justa ricompensa.\n\nLa antiqua parochiale de Sancta Maria, che da longo tempo accoglie la devotione de questa comunità, è loco caro a tuti: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione da la Terra et da la casa Montaleri.\n\nMontalero è terra picciola ma fidele, ove la casa che la governa et lo populo che la habita vivono in mutuo respecto da generationi.\n\nScripto per voluntà de la comunità de Montalero, a ciò che chi cerca possa trovare et chi trova possa restare."
+    }
+  ]
+}

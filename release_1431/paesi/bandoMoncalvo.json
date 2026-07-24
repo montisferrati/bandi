@@ -1,0 +1,24 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "bandoMoncalvo",
+    "repoJson": "bandi",
+    "note": "Release bandi - rev 1 volgare"
+  },
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-07-24T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXXI",
+  "bando": [
+    {
+      "date": "adì III magio MCCCCXXXI",
+      "type": "Grida",
+      "title": "De la nova sede de la corte in Casale",
+      "message": "A tuti li homini, done et fioli de Moncalvo, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nMoncalvo, che per più de cento anni fo sede de li marchesi de questo stato et hoggi ancora alberga ne lo convento de San Francesco, caro a la nostra casata, le sepulture de li nostri antecessori, non perda per questo honore né memoria; resta Terra nostra et de la casata, cara al core de Noi et de tuta nostra gente.\n\nLo nostro castello et li nostri officiali in questa Terra continuarano lo regimento et la justicia como è usanza.\n\nChe ciascuno se ne alegri con misura, et chi vorrà andare a Casale per trafichi lo faza securo, sotto la nostra pace.\n\nDato in Casal, sotto nostro sigillo secreto, adì III magio MCCCCXXXI.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
+    },
+    {
+      "date": "adì III magio MCCCCXXXI",
+      "type": "Bando",
+      "title": "De li honori et de li mestieri de Moncalvo",
+      "message": "Sappia chi cerca terra nobile et lavorero honorato che Moncalvo è Terra antiqua, de origine romana, et per secoli fo sede de li marchesi de Monferrato.\n\nAncor hoggi tra queste mura et ne lo castello, dimora antiqua de la casata Paleologa, stanno famigliari et gente de la corte.\n\nLo castello che signoregia la Terra da l'alto demanda cura continua: mastri da muro usati a la petra, marangoni experti ne le travature, et fabri boni a lavorare lo ferro de porte et de arme trovano qui lavorerio stabile et paga degna.\n\nOpere de manutentione et de reforzo de le mura sono in provedimento: chi sappia hedificare con arte haverà in Moncalvo lavorero de longa durata.\n\nLa pieve de San Piero in Vincoli, ne la fration de Gessi, antiquissima et de origine che alcuni dicono fin da li tempi de li primi christiani, è la matrice de la devotione de questa Terra. Sopra la piazza del mercato sorge anche la giesa de la comunità, ove se aduna lo populo de Moncalvo.\n\nLo convento de San Francesco, de antiqua fundatione et caro a la nostra casata, ove reposano per voluntà de Dio illustri membri de la familia Paleologa, è loco de grande devotione: chi serva li frati, porti victualia, overo attenda al decoro de li edifici sacri, troverà occupatione honesta.\n\nLi boschi d'intorno celano lo dono più pretioso de queste coline: lo tartufo bianco, cercato con cani et zapino ne li mesi de autunno et caro a le mense de li grandi signori. Chi sappia l'arte de la cerca, o voglia imparare da mastro, trova in Moncalvo mestiero raro et di bono guadagno.\n\nVigne et campi d'intorno dano vino et grano de bona sorte: massari cercano vignaioli, messori et garzoni acti a fatica honesta.\n\nArtieri, notari et mercatanti trovano in Moncalvo Terra de rango et de trafichi, dove lo mestiero ben facto è sempre pregiato.\n\nChi vene a Moncalvo con mane aperte et core sincero, trova sempre cosa che lo aspecta.\n\nDato in Moncalvo, per li Officiali de la Terra, adì III magio MCCCCXXXI."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "_metaDatiJson": {
+    "nomeJson": "bandoMappa",
+    "repoJson": "bandi",
+    "note": "Release bandi"
+  },
+  "title": "Monferrato\nTavola dei Bandi",
+  "updatedAt": "2026-07-24T12:00:00Z",
+  "dataAggiornamento": "2026",
+  "bando": [
+    {
+      "date": "22 Luglio",
+      "type": "Annuncio",
+      "title": "Siamo on-line",
+      "message": "Siete pronti per vivere questa avventura nel Monferrato del XV secolo? La storia segue gli eventi tra il 1431 e il 1434, quando Casale divenne la Capitale del Monferrato"
+    },
+	{
+      "date": "21 Luglio",
+      "type": "Informazione",
+      "title": "Per iniziare...",
+      "message": "Segui il tutorial per imparare le basi del gioco, immergiti nel Monferrato del XV secolo e vivi la tua storia medievale"
+    }
+  ]
+}
