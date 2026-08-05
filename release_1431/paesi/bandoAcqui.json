@@ -5,20 +5,22 @@
     "note": "Release bandi - rev 1 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-07-24T12:00:00Z",
+  "updatedAt": "2026-08-05T12:00:00Z",
   "dataAggiornamento": "MCCCCXXXI",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXI",
-      "type": "Grida",
-      "title": "De lo bono governo de la Cità de Acqui",
-      "message": "A tuti li homini et done de Acqui et de lo suo contado, salute.\n\nSia manifesto che Noi, per voluntà et auctorità de lo illustrissimo et excellentissimo signore nostro Philippo Maria, Duca de Milano, Conte de Pavia et de Angleria, Signore de Acqui, provedemo a lo bono regimento de questa Cità et de lo suo territorio, a ciò che pace, ordene et justicia siano mantenuti in ogni contrada.\n\nSotto la protectione ducale, li mercati se tengano con regolaritate, li mestieri se exercitino secondo usanza et diricto de la terra, et nullo ardisca turbare la quiete de li citadini.\n\nChi habia questione o ragione da monstrare vegna dinanzi a lo officio de lo nostro Locotenente, et serà oldito secondo justicia.\n\nCiascuno adimpia li suoi debiti con fede et diligentia, et viva ne la pace che la signoria ducale guarenta.\n\nChi turbi lo ordene publico o manchi de obedientia a li nostri commandamenti, serà punito secondo la gravezza de la colpa.\n\nDato in Acqui, sotto sigillo ducale, adì III magio MCCCCXXXI.\n\nPer auctoritate de Philippo Maria Visconti, Duca de Milano,\nLo Locotenente ducale in Acqui."
-    },
-    {
-      "date": "adì III magio MCCCCXXXI",
-      "type": "Bando",
+  "infoLuogo": [
+    { 
+	  "type": "Bando",
       "title": "De li bagni, de le giese et de li mestieri de Acqui",
       "message": "A chiunque cerca terra hospitale dove posarse et guadagnare lo pane con honore, sia noto che Acqui, antiqua et nobile Cità, apre le sue porte con larghezza.\n\nLe aque calde che nascono da lo suo solo sono de le più nomate de la regione, celebrate già da li antiqui scrittori romani et usate sença interruttione fin da quei tempi: chi se intenda de cura de li corpi, de servitio a li bagni, de albergare et confortare li forestieri, troverà qui lavorero continuo, ché pellegrini, infermi et viandanti veneno in ogni stagione a cercare sollievo et reposo.\n\nÈ ancora Acqui sede episcopale de antiqua et venerabile traditione, con la cathedrale de Sancta Maria Assumpta — grande basilica romanica a tre navate con cripta vastissima, consecrata nel mille sessanta sette — et la basilica de Sancto Petro, dove li monaci de Sancto Benedicto tengono vita religiosa et servitio a li pellegrini.\n\nSapia chi viene che la Cità hoggi è divisa in dui nuclei: lo borgo incoronato de mura con lo castello sopra lo colle, et lo Borgo San Piero che ancora jace fora de le mura verso la pianura. Chi sappia servire le giese, adiutare li viandanti che veneno per devotione, o lavorare con le mane per mantenimento et decoro de li loghi sacri, haverà in questa Cità occupatione continua et animo grato.\n\nLe botege de la Terra dano lavorero a fabri de bona mano, caligari, texitori et fornari; et chiunque porti mestiero imparato con cura non tarderà a trovare dove exercitarlo.\n\nHosti et mercatanti cercano garzoni svegli et de fidata conducta.\n\nFora de le mura, campagne et vigne che cingono Acqui dano fatica honesta a chi non teme sole et terra: brazanti, vignaioli et homini d'ogni arte campestre sono bene acolti et pagati secondo lo loro valore.\n\nNon è in questa Cità chi vegna con voluntà de lavorare et resti senza pane.\n\nAcqui dà a ciascuno secondo la sua opera.\n\nScripto per comandamento de li boni homini de Acqui, a ciò che la fama de questa Terra vada lontano."
     }
+  ],
+  "grida": [
+    { 
+	  "id": "bandoAcqui_guerra", 
+	  "date": "die 10 mensis febbraio MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "Filippo Maria rompe la tregua",
+      "message": "Il Duca di Milano Filippo Maria Visconti dichiara decaduti i patti con Johan Jacomo. Le truppe ducali si radunano ad Acqui."
+	}
   ]
 }

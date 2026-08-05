@@ -2,23 +2,32 @@
   "_metaDatiJson": {
     "nomeJson": "bandoChivasso",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare - assedio"
+    "note": "Release bandi - rev 1 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-07-24T12:00:00Z",
+  "updatedAt": "2026-08-05T12:00:00Z",
   "dataAggiornamento": "MCCCCXXXI",
-  "bando": [
-    {
-      "date": "die tertio mensis maii MCCCCXXXI",
-      "type": "Grida",
-      "title": "De la protectione et bono regimento de la Terra de Chivasso",
-      "message": "A tuti li homini et donne de Chivasso et de suo contado, salute.\n\nNoi Ludovico de Savoia, figlio primogenito et herede de lo illustrissimo et excellentissimo principe domino Amedeo duca de Savoia, et per la gratia de Dio suo locotenente generale de qua da monti, facemo a sapere.\n\nConciosiaché per li pacti et conventioni stipulati in Thonon l'anno de la Natività MCCCCXXXII, lo spectabile nostro caro consanguineo marchese Johan Jacomo de li Paleologi habia posto questa Terra de Chivasso, cum le sue pertinentie, soto la protectione et guardia de la Casa nostra de Savoia, et che de presente le bandere ducale siano levate sopra le mura et lo Castello, salva sempre la suprema auctoritate de la Sacra Majestà Imperiale et la dignità marchionale,\n\nPer tanto, ad conservatione de la pace et del bono stato de li subditi, volemo et comandamo che lo nostro capitaneo, lo podestà et tuti li officiali tengano ragione et justicia in nome nostro, che li mercati, li mestieri et li trafichi se fazano con regula, et che le mura, lo porto sopra lo Po et lo Castello con la sua torre octagona siano guardati con diligentia.\n\nLo predicto marchese ha translato la sua corte in Casale, et Chivasso per questo non perde honore né franchigie. Anzi, stando soto l'ombra de li nostri vessilli, trovarà magiore securità contra ogni inimico.\n\nPromettemo a chi serà fidele a Casa de Savoia merito et defensione; et a chi contrafarà serano date quelle pene che a li turbatori de la pace se convengono.\n\nData in lo campo nostro appresso Chivasso, sotto nostro sigillo, die tertio mensis maii, anno Domini MCCCCXXXI, Indictione duodecima.\n\nLudovicus de Sabaudia"
-    },
-    {
-      "date": "die tertio mensis maii MCCCCXXXI",
-      "type": "Bando",
+  "infoLuogo": [
+    { 
+	  "type": "Bando",
       "title": "De li mestieri rechesti in Chivasso durante lo campo",
-      "message": "Per parte de li Officiali de la Terra et de lo magnifico capitaneo de Casa Savoia se fa publico bando.\n\nAncora che la corte habbia mutato sua residentia, Chivasso resta Terra honorata et degna de essere mantenuta.\n\nPer più de cento anni questa Terra accolse sovente la corte de li marchesi Paleologi, vide battere moneta d'oro et d'argento ne la sua cecha, et diede casa a letterati, maestri et homini docti.\n\nHoggi li officiali marchionali et parte de la corte frequentano più spesso Casale, et lo campo del signor Ludovico sta presso le mura. Ma Chivasso non è terra morta.\n\nSe cercano homini per lo reparo de le mura et del Castello: mastri da muro boni a lavorare lo cotto, marangoni per mantelleti et bertesche, fabri per serraie et bombarde, manuali per portare terra et fascine.\n\nLo porto sopra lo Po domanda barcaroli et navaroli armati, ché lo trafego non se vole interompere né per lo Duca né per lo Marchese.\n\nHosti, tavernieri et spiciali tengano fornimento de pane, vino et medicamenti per li feriti, ché serano pagati in bona moneta da li thesorieri de lo campo.\n\nMercatanti, notari et artefici che vorano stare dentro le mura habiano salvacondotto; chi vorà exire lo faza senza arme et con licentia del capitaneo.\n\nLe vigne et li campi d'intorno non restino deserti: chi lavora la terra haverà parte de la recolta et protectione de le gente d'arme.\n\nAncora che la corte vada raccogliendosi altrove, Chivasso resta luogo de traffego, de arti et de memoria marchionale; et chi la aiuterà in questo passo serà ricordato quando tornerà la pace.\n\nPublicato a sono de tromba et affixo a la porta del palatio et del Castello marchionale, die tertio mensis maii MCCCCXXXI."
+      "message": "Per parte de li Officiali de la Terra et de lo magnifico capitaneo de Casa Savoia se fa publico bando.\n\nAncora che la corte habbia mutato sua residentia, Chivasso resta Terra honorata et degna de essere mantenuta.\n\nPer più de cento anni questa Terra accolse sovente la corte de li marchesi Paleologi, vide battere moneta d'oro et d'argento ne la sua cecha, et diede casa a letterati, maestri et homini docti.\n\nHoggi li officiali marchionali et parte de la corte frequentano più spesso Casale, et lo campo del signor Ludovico sta presso le mura. Ma Chivasso non è terra morta.\n\nSe cercano homini per lo reparo de le mura et del Castello: mastri da muro boni a lavorare lo cotto, marangoni per mantelleti et bertesche, fabri per serraie et bombarde, manuali per portare terra et fascine.\n\nLo porto sopra lo Po domanda barcaroli et navaroli armati, ché lo trafego non se vole interompere né per lo Duca né per lo Marchese.\n\nHosti, tavernieri et spiciali tengano fornimento de pane, vino et medicamenti per li feriti, ché serano pagati in bona moneta da li thesorieri de lo campo.\n\nMercatanti, notari et artefici che vorano stare dentro le mura habiano salvacondotto; chi vorà exire lo faza senza arme et con licentia del capitaneo.\n\nLe vigne et li campi d'intorno non restino deserti: chi lavora la terra haverà parte de la recolta et protectione de le gente d'arme.\n\nAncora che la corte vada raccogliendosi altrove, Chivasso resta luogo de traffego, de arti et de memoria marchionale; et chi la aiuterà in questo passo serà ricordato quando tornerà la pace.\n\nPublicato a sono de tromba et affixo a la porta del palatio et del Castello marchionale, die tertio mensis maii MCCCCXXXIIII."
     }
+  ],
+  "grida": [
+    { 
+	  "id": "bandoChivasso_lutto_savoia", 
+	  "date": "die 15 mensis Ianuarii MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "Lutto alla corte di Savoia",
+      "message": "Notizie da Torino: Amedeo, primogenito del Duca Amedeo VIII e principe di Piemonte, e' morto improvvisamente. Si dice che il Duca, gia' provato dal lutto per la moglie, meditera' di ritirarsi dal governo attivo. Il titolo passa al secondogenito Ludovico."
+	},
+	{ 
+	  "id": "bandoChivasso_voci_alleanza", 
+	  "date": "die 25 mensis Ianuarii MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "Voci di un'alleanza segreta",
+      "message": "Corrono voci alla corte di Chivasso: il Duca di Milano e il Duca di Savoia avrebbero stretto un patto segreto contro il Marchesato. Nessuno osa dirlo apertamente, ma i mercanti che tornano da Milano parlano di truppe che si muovono."
+	}
   ]
 }

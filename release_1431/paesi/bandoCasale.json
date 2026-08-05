@@ -5,20 +5,22 @@
     "note": "Release bandi - rev 1 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-07-24T12:00:00Z",
+  "updatedAt": "2026-08-05T12:00:00Z",
   "dataAggiornamento": "MCCCCXXXI",
-  "bando": [
-    {
-      "date": "die tertio mensis maii MCCCCXXXI",
-      "type": "Grida",
-      "title": "De la translatione de la nostra corte in Casale",
-      "message": "A tuti li fideli nostri de Casal et de tuto lo Marchesato, de qualuncha stato, grado et conditione siano, salute et gratia.\n\nSapiate che, considerati li longhi et gravosi travagli occorsi in questi ultimi tempi, et havuto maturo consiglio sopra lo stato, la conservatione et lo bene commune de li nostri dominii, havemo deliberato quanto segue.\n\nPer le mutationi de li tempi et per le guerre et travagli sostenuti contra lo illustrissimo signore duca de Milano, dai quali per gratia de Dio et per nostra costantia siamo usciti cum la restitutione de le nostre terre et castella, et essendo tuttavia incerta et periclitante la conditione de la Terra de Chivasso, per le pretensioni et angarie del illustrissimo signore duca de Savoia, havemo ordinato che la sede principale del nostro regimento sia transferita et stabilita nella fidelissima Terra de Casal, la quale mai ne mancò de fede né de soccorso in tanta calamità de tempi.\n\nPer tanto statuimo, ordinamo et volemo che da questo dì innanti la nostra corte, lo nostro conseglio, la cancelleria, li officiali et la summa administratione de la justicia residano stabilmente in detta Terra.\n\nIn essa se terranno le audientie, se expediranno li negotii concernenti lo bene de lo Stato et se administrarà la justicia a tutti li nostri subditi secondo li privilegii, statuti et bone consuetudini.\n\nEt perché la Terra de Casal, per sito, forteza et commodità, è degna de sostenere tanto carico, intendemo che essa sia mantenuta, fortificata et exaltata ad honore nostro et utilità commune de tuto lo Marchesato, confidando nella gratia de Dio et nella intercessione del glorioso Sancto Evasio, patrono de la Terra.\n\nRestando, per la gratia de Dio, in via de trattato la concordia cum li stati vicini, intendemo con maior quiete attendere al governo de questo nostro Stato, salva sempre la suprema majestà de la Sacra Corona Imperiale, da la quale tenemo in feudo lo nostro Marchesato.\n\nComandamo adoncha che questa nostra grida sia publicata per tutte le Terre, Ville et Castelli del Marchesato et inviolabilmente observata da ciaschuno, sotto pena de la indignatione nostra et de quelle altre che pareranno a Nui convenevoli.\n\nData in castro nostro Casalis, sub nostro sigillo secreto, die tertio mensis maii, anno Domini MCCCCXXXI, Indictione duodecima.\n\nJohan Jacobus Paleologus\n\nMarchio Montisferrati"
-	  },   
-	{
-      "date": "die tertio mensis maii MCCCCXXXI",
-      "type": "Bando",
+  "infoLuogo": [
+    { 
+	  "type": "Bando",
       "title": "De li mestieri che se cercano in Casale",
       "message": "Per parte de lo magnifico vicario et de li spectabili consiglieri de la Terra de Casal se fa manifesto et publico bando ad ogni persona.\n\nSia noto ad ogni habitante et forestiero che vegnirà in questa Terra.\n\nEssendo che, per comandamento de lo illustrissimo signore nostro lo Marchese, la sua corte, lo conseglio, la cancelleria et molti officiali sono reducti et stabiliti in questa Terra de Casal, et cum essi sono venuti cavalieri, doctori, notari, homini d'arme et loro fameglie, cresce ogni dì lo bisogno de case, victualia, servitii et opere de ogni bona arte.\n\nPer tanto se fa sapere che ciaschuno homo da bene et de bona fama potrà trovare exercitio secondo l'arte sua.\n\nSe cercano marangoni, fabri, muratori, scalpellini, spiciali, mercatanti, sellari, calzolari, sartori et ogni altro artefice experto, insieme cum garzoni diligenti et de bona fede.\n\nLi officii de la Comunità receveno homini acti a leggere, scrivere, tenere libri, computare conti et servire fidelmente ne le cose publiche.\n\nApresso lo castello et le mura se cercano homini per la guardia, per lo servitio de le bombarde, per lo mantenimento de li fossi et de le altre opere de defesa, perché la securità de la sede marchionale è beneficio commune de tuto lo paese.\n\nLa glesia maggiore de Sancto Evasio, cum li suoi canonici, et li conventi de li Frati Minori et de Sancto Augustino, hano continuo bisogno de mastri, lavoranti et servitiali per le opere necessarie et per lo divino culto.\n\nMercati se tengono ogni septimana et più fiere durante l'anno, dove se trafegano grani, vini, bestiame, sale, panni et molte altre mercantie.\n\nJace questa Terra sopra la ripa del Po, per lo quale ogni dì passano navilii et burchielli. Se cercano patroni de barcha, barcaroli, portadori, facchini, guardiani de magazeni et homini pratici del commercio fluviale.\n\nApresso lo porto exercita la sua arte la honorata compagnia de li calafati. Chi sapia conzare stoppa et pexe, racconciare et mantenere li scafi serà recevuto a garzonato et, provata la peritia dinanti a li mastri, potrà essere facto mastro\n\nContinua similmente lo trafego de li panni de lana, fustagni, bombace et tele, onde se cercano tessitori, tentori, cardatori, filaresse et ogni altra persona experta in tale exercitio.\n\nHostarie, taverne et alberghi receveno forestieri ogni dì, et hano bisogno de servitori, cozinieri, stallieri et altre persone de bona voluntà.\n\nA ciaschuno che vegnirà cum bona fama, voglia de lavorare et fidelità serà dato conveniente salario secundo la sua arte et la sua conditione, observando li statuti et le consuetudini de questa Terra.\n\nEt perché niuno possa allegare ignorantia, lo presente bando sia publicato a sono de tromba per le piaze et contrade, et affixo a la porta del palatio de la Comunità et ne li lochi consueti.\n\nScripto in Casal, die tertio mensis maii MCCCCXXXI.\n\nPer comandamento de li spectabili signori vicario et consiglieri de la Comunità de Casal,\n\nEgo Georgius de Valperga, publicus imperiali auctoritate notarius et comunis Casalis cancellarius, scripsi et in fidem me subscripsi."
-	  }
+	}
+  ],
+  "grida": [
+    { 
+	  "id": "bandoCasale_0", 
+	  "date": "die 3 mensis marzo MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "La corte si trasferisce a Casale",
+      "message": "Con Chivasso sempre più esposta alle pretese sabaude, Gian Giacomo Paleologo ordina che la sede principale della corte, del consiglio e della cancelleria sia trasferita a Casale. Chivasso resta terra del Marchesato, ma non più suo cuore pulsante."
+	}
   ]
 }
