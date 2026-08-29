@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoBozzole",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Bozzole, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nBozzole, che fin da li tempi antiqui de Octo imperatore sta fidele a questa Marca, et che tene per Noi lo porto sopra lo Po, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de lo porto de Bozzole",
-      "message": "Chiunque habia gambe da caminare et braccia da adoperare sapia che Bozzole, terra de Monferrato posta sopra lo bordo del grande Po — lo cui nome medesimo parla de acque et de boschi — è loco de lavorero honesto et vita simplice a chi non teme né la pianura aperta né lo fiume che scorre a dui passi da le porte.\n\nDirimpecto a Bozzole, sopra lo colle de l'altra riva, sorge lo castello de Pomaro che guarda tuta questa contrata: chi vegna qui sapia che è loco ben presidiato, ove lo porto sopra lo Po è prerogativa de questo borgo et non d'altri.\n\nLa storia de Bozzole è la storia del fiume: li acti de la comunità parlano sempre de argini, de dighe, de piene et de inondationi. Per questo se cercano con urgentia homini esperti a governare le acque, a lavorare a li argini, a custodie de lo porto et a mantenimento de le difese contra le piene.\n\nLe pianure fertile che se distendono intorno a lo borgo dano bono grano a chi le lavora con cura: massari et patroni de terre cercano lavoranti robusti per la semina, la cura de le biade et la ricolta.\n\nMa è lo Po la vera anima de Bozzole. Sopra lo fiume et ne le sue acque se trovano mestieri continui: barcaroli pratici de le correnti et de li guadi, pescatori, facchini per lo carico et lo discarico de le mercantie de transito, et homini disposti a lavorare lungo le rive et li canali che solcano la pianura. Chi conosca lo fiume, li suoi humori, le sue piene, li suoi bassi fondi, è persona più che benvenuta in questa terra.\n\nFabri et marangoni trovano parimenti lavorero al servitio de la comunità et a la reparatione de li atrecci et de le imbarcatione che lo fiume consuma senza posa.\n\nBozzole non è terra de grandi fortune né de castelli sontuosi: è loco de gente tenace, che da secoli convive con le acque del Po et sa rialzarse ogni volta che lo fiume se fa prepotente.\n\nChi se ferma con bona voluntà non ha raxone de andarsene.\n\nScripto per voluntà de la comunità de Bozzole, a ciò che chi cerca possa trovare et chi trova possa restare."
+      "title": "De li mestieri et de lo fiume de Bozzole",
+      "message": "Sappia ciascuno, homo et femina, che sta in Bozzole o che ci passa: per voluntà de la comunità de Bozzole se fa bando publico ad ogni persona.\n\nBozzole è terra de Monferrato, posta ne la pianura presso lo grande Po. È loco de lavorero honesto et vita simplice a chi non teme né la pianura aperta né lo fiume che scorre presso le case.\n\nDirimpecto a Bozzole, sopra lo colle de l'altra riva, sorge lo castello de Pomaro, che per longo tempo ha guardato questa contrata et le vie de la pianura. Chi vene qui trova terra vicina a li passi de lo fiume et a li camini che menano verso Casal, Valenza et le terre d'oltre Po.\n\nChi sappia governare le acque, lavorare a li argini, nettare li fossi et mantenere le difese contra le piene, venga: la vita de Bozzole è posta sotto lo segno de l'acqua, et qui non manca mai occasione.\n\nChi sia usato a la fatica de la pianura venga: le pianure fertile che se distendono intorno a lo borgo dano bono grano et altre biade a chi le lavora con cura, et massari et patroni de terre cercano lavoranti robusti per la semina, la cura de le biade, lo taglio de li prati et la ricolta.\n\nChi sa fare lo pescatore, chi sa fare lo tagliatore de legname, chi sa fare lo barcarolo pratico de le correnti et de li guadi, chi sa fare lo facchino per lo carico et lo discarico de le mercantie, venga: lo Po è gran parte de la vita de Bozzole, et chi conosce lo fiume, li suoi humori, le sue piene et li suoi bassi fondi, è persona più che benvenuta in questa Terra.\n\nFabri et marangoni trovano parimenti lavorero al servitio de la comunità, per li ferramenti, li carri, li attrezzi de li campi et la reparatione de le barche et de li legnami che lo fiume consuma senza posa.\n\nBozzole non è terra de grandi fortune né de castelli sontuosi: è loco de gente tenace, che da longo tempo convive con le acque de lo Po et sa rialzarse quando lo fiume se fa prepotente.\n\nChi se ferma con bona voluntà non ha raxone de andarsene.\n\nBandito in Bozzole, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Die tertio Novembris, anno del Signore MCCCCXXX."
     }
   ]
 }

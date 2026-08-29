@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoAlfiano",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Alfiano, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nAlfiano, che con lo suo castello sopra lo Montebaldo da tempo antiquo è feudo de la fidele casa Alfiano Guala, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de la vita de Alfiano",
-      "message": "A chiunque cerca terra bona ove metter radice et guadagnarse lo pane con la fatica de le proprie mane, sia noto che Alfiano, terra de Monferrato sul versante meridionale del Montebaldo, feudo de la casa Alfiano Guala sotto la alta signoria de li marchesi Paleologi, offre ciò che più vale: campi fecondi, vigne generose et una comunità che acoglie chi lavora con honestate.\n\nLo castello de la casa Alfiano, posto sopra la colina del borgo, demanda cura continua: mastri da muro, fabri et marangoni troveranno qui comittentia stabile et compenso puntuale.\n\nNe la fration de Cardona se cavano le pietre de Cardona, pregiato materiale da costruttione molto usato in tuto questo territorio: chi conosca l'arte de cavare et squadrare questa petra troverà qui mestiero raro et bene pagato, ché ogni cascina et ogni muro de questi colli parla de questo materiale.\n\nLi massari et li patroni de le terre intorno cercano lavoranti, garzoni et famiglie disposte a stabilirse: chi conosca l'arte de la vigna, la cura de li campi de grano et la ricolta de li fructi troverà qui patto justo et tecto securo.\n\nLa terra de Alfiano repaga con abondantia chi la tracta con respecto et patientia.\n\nLa pieve de San Marziano, antiqua de più de cinque secoli et legata a la giesa de Asti, et la giesa de Sancta Maria de Razzani, con essa associata, sono lo core spirituale de questa Terra.\n\nNon è Alfiano cità de grandi trafichi né de fiere rumorose: è loco de vita quieta, de lavoro honesto et de gente che mantene la parola data.\n\nA chi cerca stabilitate più che fortuna, qui troverà l'una et, col tempo, anche l'altra.\n\nScripto per voluntà de la comunità de Alfiano, a ciò che chi cerca possa trovare et chi trova possa restare."
+      "message": "Sappia ciascuno, homo et femina, che sta in Alfiano o che ci passa: per voluntà de la comunità de Alfiano se fa bando publico ad ogni persona.\n\nAlfiano è terra de Monferrato, posta sul versante meridionale del Montebaldo. È feudo de la casa Alfiano Guala, sotto la alta signoria de li marchesi Paleologi, et offre a chi la cerca campi fecondi, vigne generose et gente che acoglie chi lavora con honestate.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello, posto sopra la colina del borgo, demanda cura continua, et troverà qui comittentia stabile et compenso puntuale.\n\nNe la fration de Cardona se cava la petra, materiale bono da costruttione: chi conosca l'arte de cavare et squadrare questa petra trova qui mestiero raro et bene pagato, ché ogni cascina et ogni muro de questi colli parla de questo materiale.\n\nChi conosca l'arte de la vigna, chi sa curare li campi de grano, chi sa fare lo messore ne la ricolta de li fructi, venga: li massari et li patroni de le terre intorno cercano lavoranti, garzoni et famiglie disposte a stabilirse, con patto justo et tecto securo.\n\nLa pieve de San Marziano, antiqua de più de cinque secoli et legata a la giesa de Asti, et la giesa de Sancta Maria de Razzani, con essa associata, sono lo core spirituale de questa Terra.\n\nNon è Alfiano cità de grandi trafichi né de fiere rumorose: è loco de vita quieta, de lavoro honesto et de gente che mantene la parola data.\n\nA chi cerca stabilitate più che fortuna, qui troverà l'una et, col tempo, anche l'altra.\n\nBandito in Alfiano, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Anno del Signore MCCCCXXX."
     }
   ]
 }

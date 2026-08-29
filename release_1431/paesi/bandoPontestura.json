@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoPontestura",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Pontestura, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nPontestura, dove a dì XXIIII de zugno MCCCCXIII nacque lo nostro primogenito Johanne et altri figlioli de la casata trovaro nido, et lo cui porto et molini da cento cinque anni sono fideli affidati a li nostri Scarampi de Camino, non perda per questo lo amore nostro: lo castello resta dimora de la casata, et ne li tempi de riposo da lo governo qui sapemo de essere securi como in casa propria.\n\nDato sotto nostro sigillo, adì III de magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Bando",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      }, 
+	  "type": "Bando",
       "title": "De li honori et de li mestieri de Pontestura",
-      "message": "Sappia chi va per lo Monferrato che Pontestura è borgo antiquo, nato là dove lo ponte se unì a la Stura, et da longo tempo cara stanza de li Marchesi Paleologi.\n\nQui, a dì XXIIII de zugno MCCCCXIII, nacque lo marchesino Johanne, primogenito de lo nostro signore; et ne le sue sale la corte, quando se move, trova sempre riposo et conforto.\n\nLo castello, dimora de li Paleologi quando voleno posare da lo peso de lo governo, è altresì sede de lo porto sopra lo Po, de li molini et de li pedagi, che da cento cinque anni lo marchese Theodoro, de bona memoria, affidò in feudo a li signori Scarampi de Camino: chi sappia governare le acque, servire al porto o lavorare a li molini troverà qui occupatione stabile et bona paga.\n\nSe cercano ancora mastri da muro, marangoni et fabri boni a tenere in ordine lo castello con cura continua.\n\nCampi et vigne d'intorno dano bono fructo a chi li lavora con honestate: massari et fattori de la corte cercano vignaioli, messori et garzoni acti a fatica ne le stagioni. Chi sappia tractare vigna o grano con respecto troverà patto justo et bona mercede.\n\nArtieri d'ogni sorte trovano in Pontestura comunità viva per la presentia de la corte: quando li Paleologi stanno qui, li bisogni de lo borgo crescono et ogni mestiero ha sua occasione.\n\nLa pieve de Sancta Agatha, antiqua giesa già retta da li canonici de Mortara et hoggi legata anche a lo priorato de Crea, con la sua faza de matoni et de preda, è core de la vita spirituale: chi serva la giesa o aiuti a mantenerla serà tenuto in bono conto da la Terra et da la corte.\n\nChi vene a Pontestura con mane aperte et core presto, trova sempre cosa che lo aspecta, et trova Terra che li Marchesi elegono quando voleno posare da lo peso de lo governo.\n\nDato in Pontestura, per li Officiali de la Terra, adì III de magio MCCCCXXXIIII."
+      "message": "Sappia ciascuno, homo et femina, che sta in Pontestura o che ci passa: per parte de li Officiali de la Terra se fa bando publico ad ogni persona.\n\nPontestura è borgo antiquo. Qui lo ponte antiquo se accostò a la Stura, et da longo tempo questa Terra è cara a li Marchesi Paleologi.\n\nSappia ciascuno che qui, a dì vigesimo quarto de zugno MCCCCXIII, nacque lo marchesino Johanne, primogenito de lo nostro signor marchese. Ne le sale de quello castello, ove nacque lo marchesino, la Terra serba memoria de la corte et de la casata Paleologa.\n\nChi sa fare lo mastro da muro venga: lo castello demanda cura continua.\n\nChi sa fare lo marangone venga.\n\nChi sa fare lo fabro venga.\n\nChi sa governare le acque, chi sa servire al porto, chi sa lavorare a li molini: lo porto sopra lo Po, li molini et li pedagi, che da cento anni lo marchese Theodoro, de bona memoria, affidò in feudo a li signori Scarampi de Camino, cercano bone mane. Chi ha tale arte trova qui occupatione stabile et bona paga.\n\nChi sa lavorare la vigna, chi sa fare lo messore, garzoni acti a fatica: campi et vigne d'intorno dano bono fructo a chi li lavora con honestate. Chi sappia tractare vigna o grano con respecto troverà patto justo et bona mercede.\n\nArtieri d'ogni sorte trovano in Pontestura comunità viva: quando li Paleologi stanno qui, li bisogni de lo borgo crescono, et ogni mestiero ha sua occasione.\n\nLa pieve de Sancta Agatha, antiqua giesa già retta da li canonici de Mortara et hoggi legata a lo priorato de Crea, è core de la vita spirituale. Chi serva la giesa o aiuti a mantenerla serà tenuto in bono conto da la Terra et da la corte.\n\nChi vene a Pontestura con mane aperte et core presto, trova sempre cosa che lo aspecta, et trova Terra che li Marchesi elegono quando voleno posare da lo peso de lo governo.\n\nBandito in Pontestura, per li Officiali de la Terra, die decimo sexto Octobris, anno del Signore MCCCCXXX."
     }
   ]
 }

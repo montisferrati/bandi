@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCastagnole",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Castagnole, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCastagnole, terra de confine che lo nostro bisavo Theodoro primo, de bona memoria, condusse sotto la diretta nostra signoria, et che già ospitò lo valoroso Facino Cane quaranta tre anni a dietro, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de lo vino de Castagnole",
-      "message": "A tuti coloro que cerca loco de bona vita et de vino honesto, sia noto que Castagnole, terra de Monferrato posta sopra l'altura tra Asti et Casale, è borgo antiquo et orgoglioso, raccolto intorno a lo suo ricetto et a le sue vigne, governato senza mediatori da la corona marchionale dal tempo de lo nostro bisavo Theodoro primo.\n\nLo ricetto del borgo, con la sua cinta muraria et le arcate in cotto et tufo, demanda cura continua et homini de fiducia per lo suo mantenimento: mastri da muro pratici del tufo et del matone, marangoni capaci de tenere in ordene porte et strutture lignee, et homini disposti a lo servitio de guardia con senso del dovere et carattere fermo troveranno qui comittentia stabile et justo compenso.\n\nMa è lo vino la vera anima de Castagnole.\n\nLe vigne che revestono li pendii del colle producono lo Ruché, vitigno raro et pretioso, le cui uve dano un vino aromatico et singolare que non se trova altrove in lo Monferrato.\n\nSe cercano vignaioli experti ne la cura de questo vitigno delicato, garzoni de campagna disposti a faticare sopra li versanti con patientia et peritia, et homini capaci de attendere a la vinificatione et a la conservatione del vino ne li crutin, le cantine scavate ne lo tufo vivo de la colina.\n\nChi conosca l'arte de la vigna et del tino troverà qui occupatione continua et ricompensa justa. Fabri, marangoni et artieri d'ogni sorte servono li bisogni de la comunità, et chi porti con sé mestiero utile serà bene acolto da una terra que sa tenere in bona consideratione chi lavora con le proprie mane.\n\nLa giesa parochiale de San Martino, antiqua de più de cento septanta anni et unica parochiale de questa Terra, è loco de devotione cara a la comunità: chi sappia servire la giesa o contribuire a lo suo mantenimento troverà in Castagnole gente grata et pia.\n\nScripto per voluntà de la comunità de Castagnole, perché chi è in cerca de loco honesto et de vino bono sappia dove trovare entrambi."
+      "message": "Sappia ciascuno, homo et femina, che sta in Castagnole o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCastagnole è terra de Monferrato, posta sopra le coline tra Asti et Casal. È borgo antiquo, raccolto tra le sue case, li campi et le vigne, sotto la alta signoria de li marchesi Paleologi et de li nobili Malaspina, che tengono ragione sopra lo feudo.\n\nChi sa fare lo mastro da muro pratico de petra et matone, chi sa fare lo marangone capace de reparare porte, tetti et strutture lignee, venga: lo castello, le mura, le porte et le altre opere de defensa de lo borgo domandano cura continua. Homini de bona fama per la custodia de li passi et de le opere communi troveranno qui comittentia stabile et mercede convenevole.\n\nMa li campi et le vigne sono gran parte de la riccheza de Castagnole. Li pendii de le coline dano bon vino et fructi de la terra, et li homini de la comunità godono de antiche franchise sopra lo commercio de li vini.\n\nChi conosca l'arte de la vigna et del tino venga: se cercano vignaioli experti ne la cura de le vite, garzoni de campagna disposti a faticare sopra li versanti, et homini capaci de attendere a la vendemia, a lo tino, a le botti et a la custodia de lo vino con cura et peritia. Troverà qui opera continua et mercede justa.\n\nChi sappia governare carro et bestie venga: se cercano ancora massari, bovari, carrettieri et lavoranti per li prati, li orti, li campi et le biade.\n\nFabri, marangoni, fornari, bottari et artieri d'ogni sorte servono li bisogni de la comunità; et chi porti con sé mestiero utile serà bene acolto da una Terra che tene in bona consideratione chi lavora con le proprie mane.\n\nLa giesa de San Martino, attestata ne li tempi de li antiqui et cara a li homini de Castagnole, è loco de devotione per lo borgo et le contrade vicine. Chi sappia servir la giesa o contribuire a lo suo mantenimento serà tenuto in bono conto.\n\nBandito in Castagnole, per voluntà de la comunità, perché chi è in cerca de loco honesto et de vino bono sappia dove trovare entrambi. Die quinto Octobris, anno del Signore MCCCCXXX."
     }
   ]
 }

@@ -2,16 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoMoncalvo",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-08-05T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXI",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
   "infoLuogo": [
     { 
-	  "type": "Bando",
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      }, 
+      "type": "Bando",
       "title": "De li honori et de li mestieri de Moncalvo",
-      "message": "Sappia chi cerca terra nobile et lavorero honorato che Moncalvo è Terra antiqua, de origine romana, et per secoli fo sede de li marchesi de Monferrato.\n\nAncor hoggi tra queste mura et ne lo castello, dimora antiqua de la casata Paleologa, stanno famigliari et gente de la corte.\n\nLo castello che signoregia la Terra da l'alto demanda cura continua: mastri da muro usati a la petra, marangoni experti ne le travature, et fabri boni a lavorare lo ferro de porte et de arme trovano qui lavorerio stabile et paga degna.\n\nOpere de manutentione et de reforzo de le mura sono in provedimento: chi sappia hedificare con arte haverà in Moncalvo lavorero de longa durata.\n\nLa pieve de San Piero in Vincoli, ne la fration de Gessi, antiquissima et de origine che alcuni dicono fin da li tempi de li primi christiani, è la matrice de la devotione de questa Terra. Sopra la piazza del mercato sorge anche la giesa de la comunità, ove se aduna lo populo de Moncalvo.\n\nLo convento de San Francesco, de antiqua fundatione et caro a la nostra casata, ove reposano per voluntà de Dio illustri membri de la familia Paleologa, è loco de grande devotione: chi serva li frati, porti victualia, overo attenda al decoro de li edifici sacri, troverà occupatione honesta.\n\nLi boschi d'intorno celano lo dono più pretioso de queste coline: lo tartufo bianco, cercato con cani et zapino ne li mesi de autunno et caro a le mense de li grandi signori. Chi sappia l'arte de la cerca, o voglia imparare da mastro, trova in Moncalvo mestiero raro et di bono guadagno.\n\nVigne et campi d'intorno dano vino et grano de bona sorte: massari cercano vignaioli, messori et garzoni acti a fatica honesta.\n\nArtieri, notari et mercatanti trovano in Moncalvo Terra de rango et de trafichi, dove lo mestiero ben facto è sempre pregiato.\n\nChi vene a Moncalvo con mane aperte et core sincero, trova sempre cosa che lo aspecta.\n\nDato in Moncalvo, per li Officiali de la Terra, adì III magio MCCCCXXXI."
+      "message": "Sappia ciascuno, homo et femina, che sta in Moncalvo o che ci passa: per parte de li Officiali de la Terra, a nome de lo illustre et magnifico signor Zoanne Iacomo Paleologo, marchese de Monferrato, se fa bando publico ad ogni persona.\n\nMoncalvo è Terra antiqua, de origine romana, et per secoli fo sede de li marchesi de Monferrato. Anco hoggi, tra queste mura et ne lo castello, dimora antiqua de la casata Paleologa, stanno famigliari et gente de la corte.\n\nChi sa fare lo mastro da muro, usato a la petra, venga: lo castello che signoregia la Terra demanda cura continua.\n\nChi sa fare lo marangone, experto ne le travature, venga.\n\nChi sa fare lo fabro, bono a lavorare ferro de porte et de arme, venga.\n\nChi sappia hedificare con arte trova in Moncalvo lavorero de longa durata: le mura hano besogno de reforzo et de manutentione.\n\nNe la fration de Gessi sta la pieve de San Piero in Vincoli, antiquissima, che alcuni dicono fin da li tempi de li primi christiani. Sopra la piaza del mercato sorge anco la giesa de la comunità, ove se aduna lo populo.\n\nLo convento de San Francesco, caro a la nostra casata, ove reposano per voluntà de Dio illustri membri de la familia Paleologa, è loco de grande devotione. Chi sa servire li frati, chi sa portare victualia, chi sa attendere al decoro de li edifici sacri, trova occupatione honesta.\n\nNe li boschi d'intorno sta lo dono più pretioso de queste coline: lo tartufo bianco, caro a le mense de li grandi signori. Chi sa cercarlo cum cani et zapino ne li mesi de autunno, o vole imparare da mastro, trova in Moncalvo mestiero raro et de bono guadagno.\n\nChi sa lavorare la vigna, chi sa fare lo messore, garzoni acti a fatica honesta: le vigne et li campi d'intorno dano vino et grano de bona sorte.\n\nArtieri, notari et mercatanti trovano in Moncalvo Terra de rango et de trafichi, dove lo mestiero ben facto è sempre pregiato.\n\nChi vene a Moncalvo con mane aperte et core sincero, trova sempre cosa che lo aspecta.\n\nBandito in Moncalvo, per li Officiali de la Terra, die vigesimo nono Septembris, anno del Signore MCCCCXXX."
     }
   ]
 }

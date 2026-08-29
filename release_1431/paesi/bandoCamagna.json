@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCamagna",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Camagna, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCamagna, che fin da li tempi de li Aleramici sta fidele a questa Marca, governata da li nostri fideli Sannazzaro, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le vigne de Camagna",
-      "message": "Sia manifesto a tuti, homini et done de bona voluntà, che ne la terra de Camagna, posta in lo Monferrato tra li torrenti Rotaldo et Grana, se trovano opere et mestieri utili per chi voglia dimorarvi et prestar fatica honesta.\n\nNe le campagne et ne le vigne se rechiede opera diligente per la coltura de la terra, la cura de le vite et la ricolta de li fructi. Massari et patroni de terre cercano lavoranti, garzoni et famiglie disposte a stabilirse et a trahere sostentamento da le arti de la terra.\n\nSub le coline de Camagna se cava la Petra da Cantoni: mastri cantonieri experti ne la cavatura et squadratura de questa petra chiara et lavorabile troveranno qui mestiero raro et molto pregiato, ché tuto lo Monferrato cerca homini periti in questa opera per construire case, muri et fundamenta.\n\nCamagna è terra de antiqua devotione: la giesa de Sancto Eusebio, patrono de questa Terra, già citata in le decime papali più de octanta anni a dietro, scande la vita de lo borgo con la preghiera et le festività de lo calendario christiano. Chi sappia servire la giesa o contribuire con lo proprio mestiero a lo suo decoro et mantenimento serà bene acolto da la comunità.\n\nLa comunità de Camagna, con li suoi propri ordeni et officiali, governa con saviezza li beni comuni et li confini de la terra — sole vinti septe anni a dietro fissati con Rosignano sua vicina.\n\nNon mancano artieri et mastri de bisogno, quali fabri, marangoni et altri lavoranti al servitio de la comunità.\n\nA chi voglia vivere con diligentia et bona fama, se dano occasioni de sostentamento stabile et guadagno licito.\n\nDato et scripto in Camagna, sotto bono sigillo, a ciò che nullo possa dir de non sapere."
+      "message": "Sappia ciascuno, homo et femina, che sta in Camagna o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCamagna è terra de coline et de campi, posta in lo Monferrato tra li torrenti Rotaldo et Grana, tenuta in feudo da li nobili Sannazzaro sotto la alta signoria de li marchesi Paleologi. Lo suo borgo se stende a gradi verso la sommità del colle, et intorno li piccoli poderi domandano cura, fatica et mano experta.\n\nChi conosca l'arte de la vigna et de lo campo venga: ne le campagne et ne le vigne se rechiede opera diligente per la coltura de la terra, la cura de le vite, la semina de le biade et la ricolta de li fructi. Massari et patroni de terre cercano lavoranti, garzoni et famiglie disposte a stabilirse et a trahere sostentamento da le arti de la terra.\n\nChi sappia governare carri et bestie, chi sa reparare strumenti, chi sa lavorare legname, venga: troverà qui mestiero utile al servitio de la comunità, de li poderi et de le vigne. Fabri, marangoni, carrettieri et altri artieri de bisogno sono ben recevuti.\n\nCamagna è terra de antiqua devotione: la giesa de questo borgo è ricordata già ne le decime de le giese de Vercelli ne l'anno MCCXCIX, allora sença titolo particulare; solo ne li registri de le decime papale de l'anno MCCCXXXXVIII porta per la prima volta lo nome de Sancto Eusebio, titolo che anco hoggi mantene. Chi sappia servir la giesa o contribuire con lo proprio mestiero a lo suo decoro et mantenimento serà bene acolto da la comunità.\n\nLa pieve de Medilano, nel territorio de Lu, ha anticamente cura spirituale sopra queste contrade; onde chi venga con bona fama et reverentia a la giesa et a li ordinamenti de la Terra troverà loco de pace et de lavoro.\n\nLa comunità de Camagna, con li suoi homini et officiali, attende a li beni comuni, a le acque et a li confini de la Terra. Li confini con Rosignano furono fissati vintitré anni a dietro, et per questo è volere de la comunità che ogni lavorante, massaro et forestiero rispetti li termini, li sentieri et le possessioni altrui.\n\nA chi voglia vivere con diligentia et bona fama, se dano occasioni de sostentamento stabile et guadagno licito.\n\nBandito in Camagna, sotto bono sigillo, a ciò che nullo possa dir de non sapere. Die vigesimo Februarii, anno del Signore MCCCCXXX."
     }
   ]
 }

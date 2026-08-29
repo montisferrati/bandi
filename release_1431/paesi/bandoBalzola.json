@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoBalzola",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Balzola, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nBalzola, che lo nostro padre Theodoro, de bona memoria, recuperò a la casata con justa raxone, et lo cui castello con fossato et corte è hoggi ne le mane de li fideli Tizzoni, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de le risaie de Balzola",
-      "message": "A chi non teme la pianura aperta né lo lavoro che l'acqua impone, sia noto che Balzola, terra de Monferrato posta ne la grande pianura solcata da rogie et canali, offre mestieri abondanti et vita honesta a chi voglia fermarse.\n\nLo castello de li signori Tizzoni, cinto da fossato et con li suoi edifici intorno a la corte, è presidio solido de questa terra: se cercano homini de fiducia per lo servitio de guardia et la manutentione de le strutture, et fabri, mastri da muro et marangoni troveranno qui comittentia stabile.\n\nLe pianure che se stendono intorno a la terra sono tra le più fertile de lo Monferrato: massari et patroni de campi cercano lavoranti robusti per la semina, la cura de le biade et la ricolta. Chi sia usato a la fatica de la pianura bassa et a lo ritmo de le stagioni troverà qui patto justo et pane assicurato.\n\nMa è la fitta rete de rogie che solcano lo territorio la vera richeza de Balzola: le risaie che esse alimentano rechieono braccia instancabile per la semina, la cura et la ricolta de lo riso, coltura pretiosa et de grande rendimento in questi loghi.\n\nChi sappia governare le acque, aprire et chiudere le chiuse, mantenere in ordene li canali et lavorare ne le risaie con patientia et methodo troverà qui occupatione continua et compenso justo.\n\nNon mancano mugnai presso li molini ad acqua che sfructano le rogie, né artieri, fabri et marangoni, che servono li bisogni de la comunità et tengono in ordene li atrecci de lo lavoro.\n\nLa collegiata plebana del borgo, con li suoi canonici in officio divino, è lo core de la vita spirituale de Balzola: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione.\n\nBalzola è terra de acqua et de grano, de risaie et de rogie, de fatica silentiosa et de guadagno securo.\n\nChi se ferma con bona voluntà non ha raxone de andarsene.\n\nScripto per voluntà de la comunità de Balzola, a ciò che chi cerca possa trovare et chi trova possa restare."
+      "title": "De li mestieri et de le acque de Balzola",
+      "message": "Sappia ciascuno, homo et femina, che sta in Balzola o che ci passa: per voluntà de la comunità de Balzola se fa bando publico ad ogni persona.\n\nBalzola è terra de Monferrato, posta ne la grande pianura presso lo Po. Offre mestieri abondanti et vita honesta a chi voglia fermarse.\n\nLo castello de la Terra, tenuto da li signori Tizzoni per investitura de li marchesi Paleologi, con fossato et edifici intorno a la corte, è presidio de questo loco. Chi sa fare lo fabro, chi sa fare lo mastro da muro, chi sa fare lo marangone, venga: se cercano homini de fiducia per lo servitio de guardia et per la manutentione de le strutture, et troveranno qui comittentia stabile.\n\nChi sia usato a la fatica de la pianura bassa venga: le pianure che se stendono intorno a la Terra sono fertili et atte a grano, biade, prati et orti, et li massari et patroni de campi cercano lavoranti robusti per la semina, la cura de le biade et la ricolta, con patto justo et pane assicurato.\n\nChi sappia governare le acque, aprire et serrare le chiuse, nettare li fossi et tenere in ordene li argini, venga: le rogge et li canali che solcano lo territorio portano acqua a li campi et a li molini, et qui troverà occupatione utile et compenso honesto.\n\nNon mancano mugnai presso li molini ad acqua, né barcaroli, portadori et facchini per lo trafego del Po, né homini usati a transportare grano, legname et altre mercantie.\n\nArtieri, fabri et marangoni servono li bisogni de la comunità et tengono in ordene li atrecci de lo lavoro. Calzolai, sartori, fornari et hosti potranno exercitare la loro arte per lo servitio de li habitanti et de li forestieri.\n\nLa giesa parochiale del borgo, con li suoi sacerdoti et ministri, è lo core de la vita spirituale de Balzola: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione.\n\nBalzola è terra de acqua, de grano, de molini et de fatica silentiosa; terra de campi fertili, de passaggio et de lavoro honesto.\n\nChi se ferma con bona voluntà non ha raxone de andarsene.\n\nBandito in Balzola, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Die decimo Septembris, anno del Signore MCCCCXXX."
     }
   ]
 }

@@ -2,32 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoChivasso",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-08-05T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXI",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
   "infoLuogo": [
     { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
 	  "type": "Bando",
-      "title": "De li mestieri rechesti in Chivasso durante lo campo",
-      "message": "Per parte de li Officiali de la Terra et de lo magnifico capitaneo de Casa Savoia se fa publico bando.\n\nAncora che la corte habbia mutato sua residentia, Chivasso resta Terra honorata et degna de essere mantenuta.\n\nPer più de cento anni questa Terra accolse sovente la corte de li marchesi Paleologi, vide battere moneta d'oro et d'argento ne la sua cecha, et diede casa a letterati, maestri et homini docti.\n\nHoggi li officiali marchionali et parte de la corte frequentano più spesso Casale, et lo campo del signor Ludovico sta presso le mura. Ma Chivasso non è terra morta.\n\nSe cercano homini per lo reparo de le mura et del Castello: mastri da muro boni a lavorare lo cotto, marangoni per mantelleti et bertesche, fabri per serraie et bombarde, manuali per portare terra et fascine.\n\nLo porto sopra lo Po domanda barcaroli et navaroli armati, ché lo trafego non se vole interompere né per lo Duca né per lo Marchese.\n\nHosti, tavernieri et spiciali tengano fornimento de pane, vino et medicamenti per li feriti, ché serano pagati in bona moneta da li thesorieri de lo campo.\n\nMercatanti, notari et artefici che vorano stare dentro le mura habiano salvacondotto; chi vorà exire lo faza senza arme et con licentia del capitaneo.\n\nLe vigne et li campi d'intorno non restino deserti: chi lavora la terra haverà parte de la recolta et protectione de le gente d'arme.\n\nAncora che la corte vada raccogliendosi altrove, Chivasso resta luogo de traffego, de arti et de memoria marchionale; et chi la aiuterà in questo passo serà ricordato quando tornerà la pace.\n\nPublicato a sono de tromba et affixo a la porta del palatio et del Castello marchionale, die tertio mensis maii MCCCCXXXIIII."
-    }
-  ],
-  "grida": [
-    { 
-	  "id": "bandoChivasso_lutto_savoia", 
-	  "date": "die 15 mensis Ianuarii MCCCCXXXI", 
-	  "type": "Grida", 
-	  "title": "Lutto alla corte di Savoia",
-      "message": "Notizie da Torino: Amedeo, primogenito del Duca Amedeo VIII e principe di Piemonte, e' morto improvvisamente. Si dice che il Duca, gia' provato dal lutto per la moglie, meditera' di ritirarsi dal governo attivo. Il titolo passa al secondogenito Ludovico."
-	},
-	{ 
-	  "id": "bandoChivasso_voci_alleanza", 
-	  "date": "die 25 mensis Ianuarii MCCCCXXXI", 
-	  "type": "Grida", 
-	  "title": "Voci di un'alleanza segreta",
-      "message": "Corrono voci alla corte di Chivasso: il Duca di Milano e il Duca di Savoia avrebbero stretto un patto segreto contro il Marchesato. Nessuno osa dirlo apertamente, ma i mercanti che tornano da Milano parlano di truppe che si muovono."
+      "title": "De li mestieri et lavori cercati in Chivasso per lo verno MCCCCXXX",
+      "message": "Sappia ciascuno, homo et femina, che sta in Chivasso o che ci passa: per parte de li Officiali de la Terra et de lo capitaneo et castellano per lo illustre et magnifico signor Zoanne Iacomo Paleologo, marchese de Monferrato, se fa bando publico, secondo lo statuto de la Città et li ordinamenti antichi.\n\nChivasso è Terra nobile et antica. Qui sta la corte del marchese, qui se fa mercato, qui se lavora de bone arti. Mo' vene lo verno de l'anno MCCCCXXX, la corte se aduna in città, et serveno braccia et mestieri.\n\nChi sa fare lo mastro da muro venga: le case et le mura hanno besogno de reparo, ché lo freddo et l'acqua rompeno le pietre et li tetti.\n\nChi sa fare lo marangone et lo falegname venga: se cercano usci, finestre, cascie et mobili bone per le case de li signori et de li mercatanti.\n\nChi sa fare lo fabro venga: se cerca ferro lavorato per serraie, chiodi, ferramenta da carro et da aratro, et ferri da cavallo per la gente d'arme et per li mercatanti.\n\nChi sa filare, tessere et lavorare la lana tenga bottega aperta: la lana del Monferrato è bona, et li panni de Chivasso se vendeno per tutto lo Piemonte.\n\nChi sa conciare cuoio et fare scarpe se metta a lavorare: per lo verno serveno scarpe et stivali boni.\n\nChi sa scrivere — notaro, scrivano o copista che sia — stia pronto: la corte et li mercatanti hanno besogno de lettere, contratti et carte.\n\nChi sa pingere et fare figure belle, dorate, trove lavoro ne le chiese et ne le case de li signori.\n\nOsti, tavernieri et fornari: tegnano pronto pane, vino, formaggio et carne salata, per li viandanti et per la gente d'arme.\n\nSpiciali et medici da piaghe: curino li malati et li feriti con onguenti et medicine.\n\nBarcaroli et navaroli del Po: portino sale, grano, vino et legname da Vercelli, da Casale et da Torino, secondo l'antico privilegio del porto de Chivasso, che è del monastero de S. Genuario de Lucedio.\n\nCarrettieri et someggiatori: transportino le mercatantie per le strade del marchesato.\n\nContadini et vignaioli: lavorate la terra et le vigne. Chi ara, chi pota, chi semena per la primavera avrà parte de la recolta et serà tenuto socto protectione.\n\nMercatanti de panni, de ferro, de sale et de spezie: possono stare dentro le mura et fare fiera ogni settimana, secondo li ordinamenti de la Credenza de Chivasso.\n\nChi vole exire da la città lo faza senza arme et con licentia del capitaneo.\n\nChivasso resta terra de lavoro et de mercato. Chi la aiuta in questo verno serà ricordato quando tornerà la bona stagione.\n\nBandito a sono de tromba et affixo a la porta del palatio et del Castello marchionale, die decimo quinto mensis decembris, anno del Signore MCCCCXXX."
 	}
   ]
 }

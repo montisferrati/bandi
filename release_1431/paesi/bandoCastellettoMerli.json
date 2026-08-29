@@ -2,20 +2,17 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCastellettoMerli",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Castelleto, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCastelleto, che con li suoi consorti signori Bava, Radicati, Merli et De la Sala sta sotto la alta nostra signoria, et che già nel mille trecento vinti mandò li suoi al Parlamento de Chivasso de lo nostro bisavo Theodoro primo, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le cantone de Castelleto",
       "message": "A tuti coloro che cerca loco tranquillo ove metter radice et guadagnarse lo pane con honestate, sia noto che Castelleto, terra de Monferrato posta sopra le alture tra Alfiano et Moncalvo, sulle coline che segnano lo spartiacque tra Stura et Tanaro, è borgo de tre antique ville — Perno, Guazzolo et Casalino — governato in consortio da le famiglie Bava, Radicati, Merli et De la Sala, sotto la alta signoria de li marchesi Paleologi.\n\nChi vene qui trova gente de rango che sa tenere le proprie parole et tracta con respecto chi lavora bene.\n\nLi cantoni sparsi sopra li pendii de la terra demandano cura continua: fabri, mastri da muro et marangoni capaci de lavorare con continuità troveranno qui comittentia stabile presso più signori.\n\nLi boschi et gerbidi de le coline de Castelleto offrono legname abondante et pasture: boscaroli et pastori trovano in questa terra materia de lavorero in ogni stagione, et la comunità guarda con cura questo suo patrimonio.\n\nLe campagne et le vigne che revestono li pendii rechieono braccia laboriose in ogni stagione: massari et fattori de le famiglie nobili cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate et continuità.\n\nNon mancano artieri de necessitate al servitio de la comunità, fabri, marangoni et caligari, et chi porti con sé mestiero utile troverà ne la borgata clientela presta et modo de exercitarlo con dignità.\n\nLa giesa de Sancto Eusebio, parochiale del borgo sotto la jurisdictione del vescovo de Asti, et le numerose cappelle de li cantoni — San Nicolao ne li boschi de Terfangato, San Vincenzo a Guazzolo, San Defendente, et molte altre — vegliano sopra la vita spirituale de ogni cantone: chi sappia servire la giesa o contribuire al suo mantenimento troverà in Castelleto gente recognoscente.\n\nLa fama de questa terra parli per sé, ché li facti valeno più de le parole: a Castelleto chi serve bene non manca mai de chi lo apprezza."

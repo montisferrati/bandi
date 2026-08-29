@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoBorgoSM",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Borgo San Martino, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nBorgo San Martino, comunità franca che da cento cinquanta sei anni lo marchese Guglielmo, de bona memoria, fundò presso la grangia de Lucedio, et che lo valoroso Facino Cane tenne in signoria per la fedelitate mostrata a questa corona, sappia che con Casale capitale la sua importanza cresce: qui i marchesi tengono forte presidio, et de questa Terra fidele habiamo bisogno più che mai.\n\nChe ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-     "title": "De li mestieri et de la grangia de Borgo San Martino",
-      "message": "A chiunque cerca loco fermo et ben ordenato ove vivere con honore et prestar opera secondo justicia, sia noto che Borgo San Martino, terra de Monferrato posta in pianura presso lo torrente Rotaldo, è comunità franca et fidele a li marchesi Paleologi, fundata con acto solenne et munita de fossato, porte et spalti fin da la sua origine.\n\nOggi che Casale è proclamata capitale, lo borgo cresce in importantia: li marchesi tengono qui forte presidio, et chi sappia mantenere arme et mura, guardare porte et ponti, serà recevuto con favore et bona paga.\n\nLa rogia Molinara, che con le acque del Rotaldo alimenta li fossati de questo borgo et de la vicina Occimiano, demanda homini boni a governare le chiuse et mantenere in ordene li argini, ché lo bono stato de le defese de la Terra dipende da chi sappia tractare l'acqua con peritia.\n\nApresso lo castello è lo arale de la corte marchionale — grangia et deposito de derrate et de atrecci — ove se cercano massari et garzoni boni a lavorare la terra con methodo et a caricare et transportare le derrate con cura et honestate.\n\nLe pianure fertile che circondano lo borgo rechieono braccia laboriose in ogni stagione: massari et patroni de campi cercano lavoranti per la semina, la cura de le biade et la ricolta. Chi sia usato a la fatica de la pianura troverà qui patto equo et bono compenso, ché la terra de questo borgo repaga chi la lavora con dedicatione.\n\nLa grangia de San Martino, antiqua proprietate de la abbatia de Sancta Maria de Lucedio et de la giesa de Pavia, è core agricolo et spirituale de questa terra: li monaci cistercensi che la regono custodiscono semente et derrate con ordene et peritia, et cercano lavoranti et garzoni disposti a faticare ne li campi et ne li granai secondo lo methodo che li religiosi insegnano.\n\nNe le botege de lo borgo operano fabri, marangoni et fornari al servitio de la comunità; chi porti con sé mestiero utile troverà a Borgo San Martino clientela presta et modo de exercitarlo con dignità.\n\nLa giesa de li Sancti Quirico et Giulitta, che la comunità de Sarmazia portò con sé fin da la sua origine et che hoggi sorge rinnovata in stile romanico-gotico, è lo core de la vita spirituale de questa comunità: chi sappia servire la giesa o contribuire a lo suo decoro et mantenimento serà acolto con gratitudine.\n\nScripto per voluntà de la comunità de Borgo San Martino, terra franca de Monferrato, a ciò che chi cerca possa trovare et chi trova possa restare."
+      "title": "De li mestieri et de la grangia de Borgo San Martino",
+      "message": "Sappia ciascuno, homo et femina, che sta in Borgo San Martino o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nBorgo San Martino è terra de Monferrato, posta in pianura a la dextra de lo torrente Rotaldo, comunità franca et fidele a li marchesi Paleologi, fundata con acto solenne et munita de fossato, porte, ponti et spalti fin da la sua origine.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello et le mura de lo borgo, con fossati, porte et ponti, domandano continua cura. Chi sia experto a guardar li passi, reparare li legnami, mantenere li fossi et attendere a le opere de defensa, troverà opera utile et mercede convenevole, et chi sappia reparare porte, serraglie, travature et arme serà recevuto con favore.\n\nApresso lo borgo sta la grangia de San Martino, legata già da longo tempo a la abbatia de Sancta Maria de Lucedio, ove se raccolgono grani, biade, fieni et altre derrate de le terre circostanti. Chi sia massaro, garzone, bovaro o homo bono al carico et al trasporto trova qui exercitio utile et fatica honesta.\n\nChi sia usato a la fatica de la pianura venga: le pianure fertili che circondano lo borgo rechieono braccia laboriose in ogni stagione, per la semina, la cura de le biade, lo taglio de li prati et la ricolta, con patto equo et bono compenso.\n\nChi sappia governare le acque, nettare fossi et rivi, reparare le chiuse et mantenere lo corso de li canali, venga: l'acqua ben condutta guarda le terre, giova a li campi et difende lo borgo.\n\nFabri, marangoni, fornari, calzolai et altri artieri operano ne le botege de lo borgo al servitio de la comunità: chi porti con sé mestiero utile troverà qui clientela presta et modo de exercitarlo con dignità.\n\nLa giesa de li Sancti Quirico et Giulitta, titolo già caro a la comunità de Sarmazia et portato ne lo nuovo borgo da li primi habitanti, è lo core de la vita spirituale de questa Terra. Chi sappia servir la giesa o contribuire a lo suo decoro et mantenimento serà acolto con gratitudine.\n\nBorgo San Martino è terra raccolta, de campi fertili, de bona guardia et de gente laboriosa. Chi vene con bona fama et voluntà de lavorare troverà loco dove fermarse et pane guadagnato con honore.\n\nBandito in Borgo San Martino, per voluntà de la comunità, terra franca de Monferrato, a ciò che chi cerca possa trovare et chi trova possa restare. Die vigesimo Augusti, anno del Signore MCCCCXXX."
     }
   ]
 }

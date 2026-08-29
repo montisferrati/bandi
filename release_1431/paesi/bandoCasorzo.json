@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCasorzo",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Casorzo, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCasorzo, che da cinquanta nove anni gode de propri Statuti, confirmati anco tre anni a dietro con nova fidelitate, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le vigne de Casorzo",
-      "message": "Udite, udite, voi che siete in cerca de pane et de opera honesta: Casorzo, antiqua terra de Monferrato posta sopra l'altura tra Asti et Casale, è comunità de homini liberi che da cinquanta nove anni godono de propri Statuti, concessione guadagnata con la fidelitate a li marchesi et confirmata anco tre anni a dietro.\n\nLo castello che un tempo dominava lo borgo ha veduto le truppe del Marchese fronteggiare quelle de Asti sopra questi stessi colli: Casorzo è terra che sa defendersi et che conosce lo valore de la lealtate.\n\nChi vegna qui con animo recto et bona voluntà serà acolto como se acoglie chi merita respecto.\n\nLe vigne che revestono li pendii de Casorzo dano un vino che non se trova altrove: la Malvasia, aromatica et pregiata, è lo fructo più pretioso de questa terra. Se cercano vignaioli experti ne la cura de questo vitigno delicato, garzoni de campagna disposti a faticare sopra li versanti soleggiati, et homini capaci de attendere a la vinificatione et a la conservatione del vino con cura et peritia.\n\nChi conosca l'arte de la vigna et del tino troverà qui occupatione continua et justa ricompensa.\n\nNe le botege de lo borgo operano fabri, marangoni et artieri d'ogni sorte al servitio de la comunità; et chi porti con sé mestiero utile serà bene acolto, ché Casorzo è terra che tene in consideratione chi sa fare le cose con le proprie mane.\n\nLe giese de San Giorgio et de San Vincenzo, ambe due parochiali de questa Terra, accoglieno la devotione de tuti: chi sappia servirle o contribuire al loro mantenimento troverà in Casorzo gente recognoscente et pia.\n\nLa fama de questa terra parli per sé, ché li facti valeno più de le parole: venite a Casorzo, et la Malvasia ve dirà lo resto."
+      "message": "Sappia ciascuno, homo et femina, che sta in Casorzo o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCasorzo è antiqua terra de Monferrato, posta sopra le coline tra Asti et Casal. È comunità de homini liberi che se regono per propri statuti concessi già cinquanta cinque anni a dietro, et per fidelitate mostrata a li marchesi Paleologi conserva le sue usanze et franchise.\n\nQuesta Terra ha conosciuto le contese de li tempi passati tra lo Monferrato et lo contado de Asti, et perciò li homini de Casorzo sanno lo valore de la parola data, de la bona guardia et de la concordia fra vicini. Chi vegna qui con animo recto et bona voluntà serà acolto como se acoglie chi merita respecto.\n\nChi conosca l'arte de la vigna et del tino venga: le vigne che revestono li pendii de Casorzo dano vino bono et fructo pregio. Se cercano vignaioli experti ne la cura de le vite, garzoni de campagna disposti a faticare sopra li versanti soleggiati, et homini capaci de attendere a la vendemia, a lo tino et a la custodia de lo vino con cura et peritia. Chi ha tale arte troverà qui opera continua et mercede justa.\n\nChi sappia governare carro, aratro, bue et semenza venga: ne le campagne se cercano ancora massari, bovari et lavoranti per li campi, le biade, li prati et li bestiami, con patto equo et pane guadagnato con honore.\n\nFabri, marangoni, fornari et artieri d'ogni sorte operano ne le botege de lo borgo al servitio de la comunità; et chi porti con sé mestiero utile serà bene acolto, ché Casorzo tene in consideratione chi sa fare le cose con le proprie mane.\n\nLa giesa de San Giorgio, la più antiqua de questa Terra et posta a la cura de lo populo, è loco de devotione et de bona memoria. La giesa de San Vincenzo similmente serve li homini de Casorzo et de le contrade vicine. Chi sappia servir le giese o contribuire al loro mantenimento serà tenuto in bono conto.\n\nLa fama de questa Terra parli per sé, ché li facti valeno più de le parole: vegna chi vole a Casorzo, et troverà opera, pane et bona compagnia.\n\nBandito in Casorzo, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Die octavo Septembris, anno del Signore MCCCCXXX."
     }
   ]
 }

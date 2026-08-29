@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCalliano",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Calliano, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCalliano, che cento quindeci anni a dietro giurò fidelitate al nostro bisavo Theodoro primo, de bona memoria, et che da allora sta sença mediatori sotto la nostra diretta signoria, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le giese de Calliano",
-      "message": "È voluntà de questa comunità che se sapia in ogni contrada: Calliano, terra de Monferrato arroccata sopra la sua massa tufacea et cinta da fossato de acqua, è loco de antiqua fede et de castello inexpugnabile, governato senza mediatori da la corona marchionale fin da cento quaranta anni a dietro, quando lo nostro signore Johan primo lo recuperò difinitivamente al Monferrato.\n\nLo castello et le sue defese demandano cura continua: se cercano mastri da muro experti, fornaxari capaci de cuocere matoni in quantità, manuali et trasportatori de materiali per la manutentione de le mura et de lo fossato. Chi voglia guadagnarse lo pane con la fatica de lo cantiere troverà qui lavorero stabile.\n\nCalliano è altresì terra de antiqua devotione: la veneranda San Piero, citata già ne lo anno de l'octocento octanta sei, è la più antiqua giesa de tuto lo Astesana, ben che resti sotto la pieve de Grana. Atorno ad essa sorgono altre giese minori, che insieme servono la devotione de questo populo.\n\nChi sappia servire le giese, tenerne li loghi in ordene, o contribuire con arte et mestiero a lo decoro de li loghi sacri, è persona grata in questa terra.\n\nNe le campagne et ne le vigne se rechiede opera diligente, et massari et patroni de terre cercano lavoranti et garzoni disposti a faticare con honestate.\n\nFabri, marangoni et artieri d'ogni bisogno trovano altresì modo de exercitare lo proprio mestiero al servitio de la comunità.\n\nVegna chi vole: troverà porta aperta et lavorero che lo aspecta."
+      "message": "Sappia ciascuno, homo et femina, che sta in Calliano o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCalliano è terra de Monferrato, posta sopra la schena de una collina et munita de castello. È loco de antiqua fede et de bona guardia, tenuto direttamente sotto la signoria de li marchesi Paleologi.\n\nChi sa fare lo mastro da muro, chi sa fare lo fornaxaro capace de cuocere matoni in quantità, chi sa fare lo manuale et lo trasportatore de materiali, venga: lo castello et le sue defese demandano cura continua, per lo mantenimento de le mura, de le porte et de le altre opere de defensa. Chi voglia guadagnarse lo pane con la fatica de lo cantiere troverà qui lavorero utile et mercede convenevole.\n\nCalliano è altresì terra de antiqua devotione. La veneranda giesa de San Piero, attestata già ne l'anno de l'octocento octanta sei et soggetta a la pieve de Grana, è de le più antique giese de lo Astesano. La pieve de Grana tene sopra questa Terra cura spirituale et temporal, et altre giese et cappelle de lo territorio servono la devotione de lo populo.\n\nChi sappia servire le giese, tenerne li loghi in ordene, o contribuire con arte et mestiero a lo decoro de li edifici sacri, è persona grata in questa Terra.\n\nChi conosca l'arte de lo campo et de la vigna venga: ne le campagne et ne le vigne se rechiede opera diligente, ché li terreni de Calliano sono lavorati a arativo et vigneto, et massari et patroni de terre cercano lavoranti et garzoni disposti a faticare con honestate ne la semina, ne la cura de le vigne et ne la ricolta.\n\nFabri, marangoni, fornari, mulattieri et artieri d'ogni bisogno trovano altresì modo de exercitare lo proprio mestiero al servitio de la comunità, de li campi et de li viandanti che passano per questa contrata de confine tra Monferrato et Astesana.\n\nVegna chi vole: troverà terra de bona guardia, de fede antiqua et lavorero che lo aspecta.\n\nBandito in Calliano, per voluntà de la comunità, terra de Monferrato, a ciò che chi cerca possa trovare et chi trova possa restare. Die decimo quinto Martii, anno del Signore MCCCCXXX."
     }
   ]
 }

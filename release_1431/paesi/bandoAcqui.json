@@ -2,25 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoAcqui",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-08-05T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXI",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
   "infoLuogo": [
     { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
 	  "type": "Bando",
       "title": "De li bagni, de le giese et de li mestieri de Acqui",
-      "message": "A chiunque cerca terra hospitale dove posarse et guadagnare lo pane con honore, sia noto che Acqui, antiqua et nobile Cità, apre le sue porte con larghezza.\n\nLe aque calde che nascono da lo suo solo sono de le più nomate de la regione, celebrate già da li antiqui scrittori romani et usate sença interruttione fin da quei tempi: chi se intenda de cura de li corpi, de servitio a li bagni, de albergare et confortare li forestieri, troverà qui lavorero continuo, ché pellegrini, infermi et viandanti veneno in ogni stagione a cercare sollievo et reposo.\n\nÈ ancora Acqui sede episcopale de antiqua et venerabile traditione, con la cathedrale de Sancta Maria Assumpta — grande basilica romanica a tre navate con cripta vastissima, consecrata nel mille sessanta sette — et la basilica de Sancto Petro, dove li monaci de Sancto Benedicto tengono vita religiosa et servitio a li pellegrini.\n\nSapia chi viene che la Cità hoggi è divisa in dui nuclei: lo borgo incoronato de mura con lo castello sopra lo colle, et lo Borgo San Piero che ancora jace fora de le mura verso la pianura. Chi sappia servire le giese, adiutare li viandanti che veneno per devotione, o lavorare con le mane per mantenimento et decoro de li loghi sacri, haverà in questa Cità occupatione continua et animo grato.\n\nLe botege de la Terra dano lavorero a fabri de bona mano, caligari, texitori et fornari; et chiunque porti mestiero imparato con cura non tarderà a trovare dove exercitarlo.\n\nHosti et mercatanti cercano garzoni svegli et de fidata conducta.\n\nFora de le mura, campagne et vigne che cingono Acqui dano fatica honesta a chi non teme sole et terra: brazanti, vignaioli et homini d'ogni arte campestre sono bene acolti et pagati secondo lo loro valore.\n\nNon è in questa Cità chi vegna con voluntà de lavorare et resti senza pane.\n\nAcqui dà a ciascuno secondo la sua opera.\n\nScripto per comandamento de li boni homini de Acqui, a ciò che la fama de questa Terra vada lontano."
+      "message": "Sappia ciascuno, homo et femina, che sta in Acqui o che ci passa: per comandamento de li boni homini de Acqui se fa bando publico ad ogni persona.\n\nAcqui è Cità antiqua et nobile. Le sue aque calde son fra le più nomate de la regione, celebrate già da li antiqui scrittori romani et usate sença interruttione fin da quei tempi.\n\nChi se intenda de cura de li corpi, chi sa servire a li bagni, chi sa albergare et confortare li forestieri, venga: pellegrini, infermi et viandanti veneno in ogni stagione a cercare sollievo et reposo, et lavorero qui non manca mai.\n\nAcqui è ancora sede episcopale de antiqua et venerabile traditione. La cathedrale de Sancta Maria Assumpta, grande basilica romanica a tre navate con cripta vastissima, fo consecrata nel mille sessanta sette. La basilica de Sancto Petro, dove li monaci de Sancto Benedicto tengono vita religiosa et servitio a li pellegrini, sta fora da le mura, verso lo Borgo che porta lo suo nome.\n\nChi sa servire le giese, chi sa adiutare li viandanti che veneno per devotione, chi sa lavorare con le mane per mantenimento et decoro de li loghi sacri, trova qui occupatione continua et animo grato.\n\nSapia chi vene che la Cità hoggi è divisa in dui nuclei: lo borgo incoronato de mura con lo castello sopra lo colle, et lo Borgo San Piero che ancora jace fora de le mura verso la pianura.\n\nChi sa fare lo fabro venga: le botege de la Terra cercano bone mane.\n\nChi sa fare lo caligaro, chi sa tessere panni, chi sa fare lo fornaro, venga anch'egli.\n\nHosti et mercatanti cercano garzoni svegli et de fidata conducta.\n\nFora de le mura, campagne et vigne che cingono Acqui dano fatica honesta a chi non teme sole et terra: brazanti, vignaioli et homini d'ogni arte campestre sono bene acolti et pagati secondo lo loro valore.\n\nNon è in questa Cità chi vegna con voluntà de lavorare et resti sença pane. Acqui dà a ciascuno secondo la sua opera.\n\nBandito in Acqui, per comandamento de li boni homini de la Cità, a ciò che la fama de questa Terra vada lontano. Die primo mensis Maii, anno del Signore MCCCCXXX."
     }
-  ],
-  "grida": [
-    { 
-	  "id": "bandoAcqui_guerra", 
-	  "date": "die 10 mensis febbraio MCCCCXXXI", 
-	  "type": "Grida", 
-	  "title": "Filippo Maria rompe la tregua",
-      "message": "Il Duca di Milano Filippo Maria Visconti dichiara decaduti i patti con Johan Jacomo. Le truppe ducali si radunano ad Acqui."
-	}
   ]
 }

@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoAltavilla",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Altavilla, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nAltavilla, che da sessanta anni è feudo de la fidele casa Zabaldano sotto la nostra alta signoria, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-08-20T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de la vita de Altavilla",
-      "message": "A chi cerca loco sano et ben posto ove vivere con honore et fatica honesta, sia noto che Altavilla, terra de Monferrato posta in posizione eminente sopra le coline, con aere bono et veduta ampla sopra li campi et li boschi d'intorno, è feudo de la casa Zabaldano sotto la alta signoria de li marchesi Paleologi.\n\nLe vigne che vestono li pendii dano fructi pregiati, et li massari et patroni de le terre cercano con premura vignaioli experti, garzoni de campagna et famiglie disposte a metter radice: chi conosca l'arte de la vigna et la fatica de li campi in altura troverà qui patto honesto, tecto et sostentamento.\n\nLi grandi boschi communali che circondano la terra — cedui et con piante de alto fusto, roveri in testa a tutti — offrono legname abondante ad ogni stagione: boscaroli et marangoni trovano qui materia de lavoro continuo, et la communità stessa trae da questi boschi la sua principal richeza.\n\nFiorisse anche in questa terra l'arte de la distillatione de la aquavite da le vinaccie, la quale gode de bona fama per le sue virtù corroboranti; et chi sia experto in tale arte o voglia apprenderla troverà qui maestra botega ove exercitarse et honesto salario.\n\nFabri et altri mastri d'arte servono li bisogni de la comunità et de li lavoranti, et a chi porti con sé mestiero utile non mancherà occasione de exercitarlo.\n\nLa giesa de San Julio, parochiale del borgo con titolo de prepostura, et la cappella de San Andrea fora de le mura, et la giesa de Sancta Maria de Molignano, sono le tre anime spirituale de questa terra, tute et tre antiche de più de cento anni et rette sotto la pieve de San Vittore de Rosignano.\n\nAltavilla non è terra de pianura né de grandi vie: è loco raccolto, de gente laboriosa et de costumi simplici, ove chi lavora con le mane et mantene la parola è tenuto in bona stima da tuti.\n\nScripto per voluntà de la comunità de Altavilla, perché chi è in cerca de loco quieto et honesto sappia dove trovarlo."
+      "message": "Sappia ciascuno, homo et femina, che sta in Altavilla o che ci passa: per voluntà de la comunità de Altavilla se fa bando publico ad ogni persona.\n\nAltavilla è terra de Monferrato, posta in loco eminente sopra le coline, con aere bono et veduta ampla sopra li campi et li boschi d'intorno. È feudo de la casa Zabaldano, sotto la alta signoria de li marchesi Paleologi.\n\nChi conosca l'arte de la vigna venga: le vigne che vestono li pendii dano fructi pregiati, et li massari et patroni de le terre cercano con premura vignaioli experti, garzoni de campagna et famiglie disposte a metter radice, con patto honesto, tecto et sostentamento.\n\nChi sa fare lo boscarolo, chi sa fare lo marangone, venga: li grandi boschi communali che circondano la terra dano legname abondante ad ogni stagione, et son richeza principale de la comunità.\n\nChi sa fare lo fabro et li altri mastri d'arte serveno li bisogni de la comunità et de li lavoranti: a chi porti con sé mestiero utile non mancherà occasione de exercitarlo.\n\nLa giesa de San Julio, parochiale del borgo, et la cappella de San Andrea fora de le mura, et la giesa de Sancta Maria de Molignano, sono le tre anime spirituale de questa terra — antiche tute, testimoniate già da più de cento anni — et rette sotto la pieve de San Vittore de Rosignano.\n\nAltavilla non è terra de pianura né de grandi vie: è loco raccolto, de gente laboriosa et de costumi simplici, ove chi lavora con le mane et mantene la parola è tenuto in bona stima da tuti.\n\nBandito in Altavilla, per voluntà de la comunità, perché chi è in cerca de loco quieto et honesto sappia dove trovarlo. Die decimo Aprilis, anno del Signore MCCCCXXX."
     }
   ]
 }
