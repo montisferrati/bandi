@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCerroTanaro",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Cerro, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCerro, che sola tra tante terre strecte intorno dal dominio de Milano mantene da più de setanta anni la sua fidelitate a Noi et a li nostri antecessori, et che con coraggio defende ogni giorno li suoi confini sopra lo Tanaro contra chi vorrebbe sopraffarla, non perda per questo lo favore nostro: anzi sapia que a nullo altra terra è più cara la sua constantia.\n\nChe ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de la fidelitate de Cerro",
-      "message": "A chi cerca loco ben posto et de antiqua historia ove guadagnarse lo pane con honestate, sia noto que Cerro, terra del Monferrato posta sopra la sponda sinistra del Tanaro, è isola fidele de lo marchesato, strecta tuto intorno da le terre del Duca de Milano, ma salda ne la sua fidelitate a li marchesi Paleologi da più de setanta anni, sença mai venir meno.\n\nCerro non è terra de quiete: è terra de confine, ove ogni giorno se difendono li termini de lo stato nostro contra Roccheta et li altri loghi de la sponda milanesa del Tanaro. Chi voglia servire con arme et coraggio a la custodia de lo porto et de li confini troverà in Cerro impiego honorato et necessario.\n\nLo castello del secolo tertio decimo que domina lo paese da l'alto de la colina è presidio solido et ben tenuto: se cercano homini de fiducia per lo servitio de guardia et la custodia de le strutture, et mastri da muro, fabri et marangoni capaci de lavorare con continuità troveranno qui comittentia stabile presso li signori del loco.\n\nLe coline que circondano Cerro, affaciate sopra la valle del Tanaro, dano vigne de bona qualità: massari et patroni de terre cercano vignaioli experti, garzoni de campagna et famiglie disposte a faticare sopra li versanti con honestate et dedicatione.\n\nLi campi et li boschi que completano lo territorio offrono altresì lavorero a messori, boscaroli et artieri d'ogni sorte.\n\nLa cappella de San Giovanni Battista, antiqua devotione de questa terra, accoglie la pietà de la comunità: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione da tuti.\n\nCerro non è terra grande, ma è terra que non se piega: et questo, in tempi come questi, vale più de ogni mura.\n\nScripto per voluntà de la comunità de Cerro, perché chi è in cerca de loco honesto et de terra bona sappia dove trovarlo."
+      "title": "De li mestieri et de la guardia de Cerro",
+      "message": "Sappia ciascuno, homo et femina, che sta in Cerro o che ci passa: per voluntà de li homini et de li officiali de Cerro se fa bando publico ad ogni persona.\n\nCerro è terra de lo Monferrato, posta sopra la sponda sinistra de lo Tanaro, sotto la alta signoria de li marchesi Paleologi. È loco de confine et de bona guardia.\n\nHoggi, mentre le terre vicine de Non, Rocchetta, Masio et Quattordio segueno le ragioni de lo Duca de Milano, Cerro resta fedele a lo Monferrato. Per questo se rechiede homini de bona fama, coragio et fede provata per la custodia de lo porto, de li passi, de le rive et de li termini de la Terra.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello de Cerro, posto in alto per guardare lo Tanaro, lo porto et le vie de passagio, domanda cura continua, per muri, porte, tetti, fossi, ferramenti et atrecci de defesa. Troveranno opera utile et mercede convenevole presso li signori et li homini del loco.\n\nChi sappia condurre nave o barcha, custodire lo passo, portare mercantie, lavorare a le rive o aiutare ne le opere de lo fiume, venga: li homini pratici de le acque, de le barche et de li transiti sono parimenti ben recevuti, et troveranno occupatione honesta, secondo la stagione et lo bisogno de la Terra.\n\nChi sappia curare la vigna, seminare biade, condurre bestie, governare carro et falce, o lavorare lo legname, venga: le coline et le terre presso lo Tanaro danno vigne, campi, prati et boschi. Massari et patroni de terre cercano vignaioli experti, garzoni de campagna, bovari, messori, tagliatori de legna et famiglie disposte a faticare con diligentia. Troverà patto equo et bono compenso.\n\nLa giesa de Cerro, già nota ne li registri de le decime de la diocesi de Asti, è loco de devotione per li habitanti de questa Terra. Chi sappia servir lo culto, portar viveri, mantener in ordene li edifici sacri o contribuire a le opere necessarie serà tenuto in bono conto.\n\nCerro non è terra grande, ma è Terra posta sopra bono passo et in confine importante. Chi vene con buona voluntà, fede leale et mane laboriose troverà opera, rispetto et pane guadagnato con honore.\n\nBandito per voluntà de li homini et de li officiali de Cerro, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca loco honesto et terra bona sappia dove trovarlo. Die tertio Aprilis, anno del Signore MCCCCXXX."
     }
   ]
 }

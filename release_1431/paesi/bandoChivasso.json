@@ -5,7 +5,7 @@
     "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-08-20T12:00:00Z",
+  "updatedAt": "2026-09-15T12:00:00Z",
   "dataAggiornamento": "MCCCCXXX",
   "infoLuogo": [
     { 
@@ -16,6 +16,22 @@
 	  "type": "Bando",
       "title": "De li mestieri et lavori cercati in Chivasso per lo verno MCCCCXXX",
       "message": "Sappia ciascuno, homo et femina, che sta in Chivasso o che ci passa: per parte de li Officiali de la Terra et de lo capitaneo et castellano per lo illustre et magnifico signor Zoanne Iacomo Paleologo, marchese de Monferrato, se fa bando publico, secondo lo statuto de la Città et li ordinamenti antichi.\n\nChivasso è Terra nobile et antica. Qui sta la corte del marchese, qui se fa mercato, qui se lavora de bone arti. Mo' vene lo verno de l'anno MCCCCXXX, la corte se aduna in città, et serveno braccia et mestieri.\n\nChi sa fare lo mastro da muro venga: le case et le mura hanno besogno de reparo, ché lo freddo et l'acqua rompeno le pietre et li tetti.\n\nChi sa fare lo marangone et lo falegname venga: se cercano usci, finestre, cascie et mobili bone per le case de li signori et de li mercatanti.\n\nChi sa fare lo fabro venga: se cerca ferro lavorato per serraie, chiodi, ferramenta da carro et da aratro, et ferri da cavallo per la gente d'arme et per li mercatanti.\n\nChi sa filare, tessere et lavorare la lana tenga bottega aperta: la lana del Monferrato è bona, et li panni de Chivasso se vendeno per tutto lo Piemonte.\n\nChi sa conciare cuoio et fare scarpe se metta a lavorare: per lo verno serveno scarpe et stivali boni.\n\nChi sa scrivere — notaro, scrivano o copista che sia — stia pronto: la corte et li mercatanti hanno besogno de lettere, contratti et carte.\n\nChi sa pingere et fare figure belle, dorate, trove lavoro ne le chiese et ne le case de li signori.\n\nOsti, tavernieri et fornari: tegnano pronto pane, vino, formaggio et carne salata, per li viandanti et per la gente d'arme.\n\nSpiciali et medici da piaghe: curino li malati et li feriti con onguenti et medicine.\n\nBarcaroli et navaroli del Po: portino sale, grano, vino et legname da Vercelli, da Casale et da Torino, secondo l'antico privilegio del porto de Chivasso, che è del monastero de S. Genuario de Lucedio.\n\nCarrettieri et someggiatori: transportino le mercatantie per le strade del marchesato.\n\nContadini et vignaioli: lavorate la terra et le vigne. Chi ara, chi pota, chi semena per la primavera avrà parte de la recolta et serà tenuto socto protectione.\n\nMercatanti de panni, de ferro, de sale et de spezie: possono stare dentro le mura et fare fiera ogni settimana, secondo li ordinamenti de la Credenza de Chivasso.\n\nChi vole exire da la città lo faza senza arme et con licentia del capitaneo.\n\nChivasso resta terra de lavoro et de mercato. Chi la aiuta in questo verno serà ricordato quando tornerà la bona stagione.\n\nBandito a sono de tromba et affixo a la porta del palatio et del Castello marchionale, die decimo quinto mensis decembris, anno del Signore MCCCCXXX."
+	}
+  ],
+  "grida": [
+    { 
+	  "id": "bandoChivasso_lutto_savoia", 
+	  "date": "die 15 mensis Ianuarii MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "Lutto alla corte di Savoia",
+      "message": "Notizie da Torino: Amedeo, primogenito del Duca Amedeo VIII e principe di Piemonte, e' morto improvvisamente. Si dice che il Duca, gia' provato dal lutto per la moglie, meditera' di ritirarsi dal governo attivo. Il titolo passa al secondogenito Ludovico."
+	},
+	{ 
+	  "id": "bandoChivasso_voci_alleanza", 
+	  "date": "die 25 mensis Ianuarii MCCCCXXXI", 
+	  "type": "Grida", 
+	  "title": "Voci di un'alleanza segreta",
+      "message": "Corrono voci alla corte di Chivasso: il Duca di Milano e il Duca di Savoia avrebbero stretto un patto segreto contro il Marchesato. Nessuno osa dirlo apertamente, ma i mercanti che tornano da Milano parlano di truppe che si muovono."
 	}
   ]
 }

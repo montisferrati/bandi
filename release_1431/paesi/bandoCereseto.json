@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCereseto",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Cereseto, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCereseto, comune signorile che con li suoi diciocto notari et li suoi Statuti de più de settanta anni governa se stesso con saviezza, et hoggi parte de lo feudo è ne le mane de li nostri fideli Biandrate et parte ancora de la casata de Cereseto, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de li notari de Cereseto",
-      "message": "È voluntà de questa comunità che se sapia in ogni contrada: Cereseto, borgo del Monferrato Casalese arroccato sopra l'alto colle tra le coline de la Val Cerrina, è terra de antiqua origine et de sorprendente vitalità, ove chi porti con sé ingegno et mestiero troverà più occasioni de quante ne aspecta.\n\nLo castello, hoggi in parte feudo de li nobili Biandrate et in parte de la casata de Cereseto, demanda servitori de fede provata et mastri da muro, marangoni et fabri capaci de lavorare con cura et continuità troveranno qui comittentia stabile.\n\nMa ciò che rende Cereseto singulare tra li borghi del Monferrato è la sua extraordinaria vita civile et commerciale: lo comune signorile conta diciocto notari, più de quanti ne habiano loghi ben più grandi, et lo gettito de le sue entrate supera quello de molti comuni maggiori — quatro volte quello de li comuni maggiori, quindexe quello de li minori.\n\nChi sappia scrivere con mano ferma, redigere acti et contracti, assistere li notari ne le loro pratiche o simplicemente tener conto de le mercantie et de li trafichi troverà in Cereseto occupatione continuativa et bene retribuita.\n\nLa giesa de San Piero Apostolo, parochiale del borgo ove se aduna lo conseglio de la comunità, et la veneranda pieve de San Cassiano, antiqua de forse più de cinque secoli et hoggi retta da li monaci cistercensi de Lucedio, sono le due anime spirituale de questa Terra.\n\nSole dui anni a dietro, ne lo Parlamento de Pontestura, Cereseto sedeva tra le terre chiamate a tractare de tributi, de milicie et de justicia: segno de quanto questo borgo sia tenuto in conto da la corte marchionale.\n\nLe coline che circondano lo borgo, dicte Cereseto per li cerasi que le adornavano fin da l'antiquità, dano vigne de bona qualità et campi fertili: massari et patroni de terre cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate.\n\nArtieri d'ogni sorte sono bene acolti al servitio de la comunità et de li suoi numerosi notabili, et chi porti con sé mestiero utile non restarà senza clientela.\n\nLa fama de questa terra parli per sé, ché li facti valeno più de le parole: a Cereseto chi vale trova sempre chi lo sa apprezzare."
+      "title": "De li mestieri et de li trafichi de Cereseto",
+      "message": "Sappia ciascuno, homo et femina, che sta in Cereseto o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCereseto è borgo del Monferrato Casalese, arroccato sopra l'alto colle tra le coline de la Val Cerrina. È terra de antiqua origine et de sorprendente vitalità, ove chi porti con sé ingegno et mestiero troverà più occasioni de quante ne aspecta.\n\nLo castello è hoggi in parte feudo de li nobili Biandrate et in parte de la casata de Cereseto. Chi sa fare lo mastro da muro, chi sa fare lo marangone, chi sa fare lo fabro, venga: lo castello demanda servitori de fede provata et mastri capaci de lavorare con cura et continuità, et troveranno qui comittentia stabile.\n\nMa ciò che rende Cereseto singulare tra li borghi del Monferrato è la sua extraordinaria vita civile et commerciale: lo gettito de le sue entrate supera quello de molti comuni maggiori — quatro volte quello de li comuni maggiori, quindexe quello de li minori. In questa Terra, che già mostra tal fervore de trafichi et de vita civile, non tarderà a fiorir arte de scrittura et de notariato.\n\nChi sappia scrivere con mano ferma, redigere acti et contracti o simplicemente tener conto de le mercantie et de li trafichi troverà in Cereseto occupatione continuativa et bene retribuita.\n\nLa giesa de San Pietro Apostolo, parochiale del borgo ove se aduna lo conseglio de la comunità, et la veneranda pieve de San Cassiano, antiqua de forse più de cinque secoli et hoggi retta da li monaci cistercensi de Lucedio, sono le due anime spirituale de questa Terra.\n\nGià quaranta dui anni a dietro, ne lo Parlamento de Moncalvo, se tractò de questioni commerciali, de tributi, de milicie et de justicia che tocano anco Cereseto: segno de quanto questo borgo sia tenuto in conto da la corte marchionale.\n\nChi conosca l'arte de la vigna venga: le coline che circondano lo borgo, dicte Cereseto per li cerasi que le adornavano fin da l'antiquità, dano vigne de bona qualità et campi fertili. Massari et patroni de terre cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate.\n\nArtieri d'ogni sorte sono bene acolti al servitio de la comunità et de li suoi numerosi notabili, et chi porti con sé mestiero utile non restarà senza clientela.\n\nLa fama de questa terra parli per sé, ché li facti valeno più de le parole: a Cereseto chi vale trova sempre chi lo sa apprezzare.\n\nBandito in Cereseto, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Die secundo Februarii, anno del Signore MCCCCXXX."
     }
   ]
 }

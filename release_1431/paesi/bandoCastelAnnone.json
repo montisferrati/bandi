@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCastelAnnone",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì XII Martii MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la protectione ducale sopra Annone",
-      "message": "Per voluntà de Philippo Maria, Duca de Milano et Signore de Asti,\n\nSIA NOTO A TUTI\n\nChe lo castello et lo borgo de ANNONE, terra demaniale de la nostra corona et de la nostra diretta jurisdictione fin da lo anno mille trecento cinquanta sei, sono posti sotto la protectione et governo ducale.\n\nIn suo nome exercitarà la auctorità lo Podestà qui insediato, al quale ogni subdito deve obedientia.\n\nAnnone, per la sua importantia strategica, gode de ampi privilegii fiscali et legislativi de li nostri antecessori: tali privilegii sono confermati et mantenuti.\n\nChi se oppone a tale voluntà incorrerà ne la sua ira.\n\nDatum sub sigillo nostro, adì XII Martii MCCCCXXXIIII.\n\nPhilippo Maria Visconti, Duca de Milano."
-    },
-	{
-      "date": "adì XII Martii MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Ducato di Milano",
+        "dinastia": "Visconti"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de li trafichi de Annone",
-      "message": "Chi cerca terra de trafichi et de passagio, de mercatanti et de bone strade, sapia che Annone, borgo antiquo posto sopra la via che da Asti conduce a la Lombardia, è loco de grande movimento et de occasioni continue per chi habia mestiero et voluntà de guadagnare honestamente.\n\nLa posizione de questo borgo, sopra la via Fulvia che percorrono mercatanti, pellegrini, corrieri et soldati in ogni stagione, fa sì che qui non manchi mai chi habia bisogno de allogio, cibo, riparo per li animali et servitio per le mercantie.\n\nHosti, stallieri, mulatieri et fattori trovano lavorero continuo presso le locande et li magazeni del borgo; et chi sappia tractare con li viandanti de ogni conditione serà tenuto in bona consideratione.\n\nLo antiquo castello, la cui prima notizia risale a cinquecento et uno anni a dietro, rechiede cura continua: mastri da muro, fabri et marangoni sono recercati per lo mantenimento de le strutture de defesa et de le opere che guarentiscono la securtà de la via. Homini de fiducia et de bona conducta sono cercati per lo servitio de guardia et per li compiti de custodia affidati da lo Podestà.\n\nLe due giese de Sancta Maria et de San Giorgio, ambe et due rette sotto lo priorato de la abbatia de San Bartolomeo de Azzano, accoglieno la devotione de la comunità. Et lo hospitale de San Jacomo et San Cristoforo, aperto da più de ottanta anni, serve li pellegrini et li viandanti che passano sopra la via Fulvia con riparo et cura.\n\nNe le campagne intorno al borgo se coltivano vigne et campi: massari et patroni de terre cercano lavoranti disposti a faticare honestamente, et chi conosca l'arte de la vigna o del campo troverà patto equo et bono compenso.\n\nAnnone non è loco de quiete et de solitudine: è terra de movimento, de voci et de afari, ove ogni giorno passa cosa nova sopra la via.\n\nChi ami lo ritmo de la strada et sappia trahereve vantagio ha scelto lo posto justo.\n\nScripto per voluntà de la comunità de Annone, a ciò che chi viagia sapia che qui trova non solo la via ma anche chi lo sa servire bene."
+      "title": "De li mestieri et de li trafichi de Non",
+      "message": "Sappia ciascuno, homo et femina, che sta in Non, dicto anco ne li instrumenti latini Nonum, o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nNon è terra antiqua, posta sopra la via che da Asti mena verso Alexandria et la Lombardia. È loco de movimento et de occasione per chi habia mestiero et voluntà de guadagnare honestamente.\n\nChi sa fare l'hosto, chi sa fare lo tavernero, chi sa fare lo stalliero, chi sa fare lo mulattiero, chi sa fare lo carrettiero, venga: la positura de questo borgo, sopra una via antiqua percorsa da mercatanti, pellegrini, corrieri et homini d'arme, fa sì che qui non manchi chi habia bisogno de allogio, cibo, riparo per li animali et servitio per le mercantie.\n\nNon è Terra de longa guardia et de antiqui privilegi, posta ne le contrade ove se incontrano le ragioni de lo Stato de Milano, de lo Monferrato et de le terre d'Asti. Per questo se cercano homini de buona fama et de fede provata per la custodia de li passi, de le vie, de le porte et de le opere communi.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, chi sa cavar petra, chi sa fare lo fornaxaro, venga: lo castello et le altre difese de la Terra, reforzate in questi tempi, domandano manutentione et opera continua.\n\nLe due giese de Sancta Maria et de San Giorgio, rette sotto lo priorato de Sancta Maria dipendente da la abbatia de San Bartolomeo de Azzano, accoglieno la devotione de la comunità. Lo hospitale de San Jacomo et San Cristoforo, già noto ne li registri antiqui, reca conforto a pellegrini, infermi et viandanti. Chi sappia servire li poveri, governare lo hospitale, portar viveri, custodire li letti o mantenere in ordene li edifici sacri troverà opera honesta.\n\nChi conosca l'arte de lo campo, de la vigna, de lo carro o de la soma venga: ne le campagne intorno a la Terra se lavorano campi, prati et vigne. Massari et patroni de terre cercano lavoranti per la semina, la vendemia, la ricolta de le biade et la cura de li animali.\n\nFabri, caligari, fornari, marangoni, tessitori et artieri d'ogni necessitate possono trovare clientela fra li habitanti et li forestieri che continuamente passano per queste contrade.\n\nNon è loco de quiete et de solitudine: è Terra de movimento, de voci et de affari, ove sovente passa cosa nova sopra la via. Chi ami lo ritmo de la strada et sappia traherne vantagio, vegna con bona fama et volontà de lavorare.\n\nBandito in Non, per voluntà de la comunità, a ciò che chi viagia sapia che qui trova non solo la via ma anche chi lo sa servire bene. Die decimo Iulii, anno del Signore MCCCCXXX."
     }
   ]
 }

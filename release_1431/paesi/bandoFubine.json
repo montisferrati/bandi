@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoFubine",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Fubine, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nFubine, que con li suoi propri Statuti se governa da più de un secolo, et que lo castello de li fideli Valperga presidia lo confine verso Alexandria, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le vigne de Fubine",
-      "message": "Corrono queste parole de colina in colina et giungano a chi sia in cerca de loco ove vivere con honore et lavorare con fructo: Fubine, terra del Monferrato arroccata sopra lo suo colle et affaciata sopra la pianura del Tanaro, è comunità con propri Statuti, governata da li fideli Valperga sotto la alta signoria de li marchesi Paleologi.\n\nLe vigne que vestono li versanti del colle et li campi que se distendono verso la pianura rechieono braccia experte et volenterose: massari et patroni de terre cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate secondo lo ritmo de le stagioni. Chi conosca l'arte de la vigna o del campo troverà qui patto equo et ricompensa justa, ché a Fubine li diricti de li lavoranti sono tenuti in bona consideratione.\n\nLo castello del loco, con lo suo fossato et lo ponte de accesso, rechiede continua custodia et manutentione. Se cercano homini fidati per la guardia et lo servitio, et mastri et artieri capaci de mantenere et reparare le opere de legno et de petra necessarie a la defesa de la comunità.\n\nNe le botege del borgo operano fabri, marangoni et tessitori al servitio de la comunità et de li lavoranti; et chi porti con sé mestiero utile troverà a Fubine clientela presta et modo de exercitarlo con dignità.\n\nLa posizione del paese, a meza strada tra le coline monferrine et la pianura, favorisse altresì li piccoli trafichi et li scambi con le terre vicine.\n\nLa giesa de San Piero, antiqua parochiale fuor de le mura, et la giesa de Sancta Maria Assumpta, que a essa succede in la cura de le anime, accoglieno la devotione de la comunità: chi sappia servire le giese o contribuire al loro mantenimento troverà in Fubine gente recognoscente et pia.\n\nQueste parole siano portate de bocca in bocca finché giungano a chi ne ha bisogno: Fubine è terra de gente fiera et justa, et tracta con respecto chi vene a lavorare con honestate."
+      "message": "Sappia ciascuno, homo et femina, che sta in Fubine o che ci passa: per voluntà de li consoli, de la credenza et de li homini de Fubine se fa bando publico ad ogni persona.\n\nFubine è terra de lo Monferrato posta sopra lo suo colle et affaciata verso le pianure de lo Tanaro, comunità de antiqua forza, retta per statuti et franchigie confirmate da li marchesi Paleologi.\n\nLi homini de Fubine tengono consiglio et credenza secondo li loro ordini, et sotto la alta signoria de lo Marchese mantengono le loro consuetudini, li loro privilegi et la cura de le cose communi. Lo castello et le ragioni feudali de lo loco sono tenuti da li nobili Valperga, ma li homini de la Terra conservano li patti concessi da li marchesi et la loro fede diretta a la casa de Monferrato.\n\nChi conosca l'arte de la vigna venga: le vigne che vestono li versanti de lo colle et li campi che se stendono verso la pianura rechieono braccia experte et volonterose. Massari et patroni de terre cercano vignaioli, messori, bovari et garzoni de campagna disposti a faticare con honestate secondo lo ritmo de le stagioni. Chi conosca l'arte de la vigna, de lo campo, de lo carro o de li animali troverà qui patto equo et mercede justa.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello, antiquo et più volte provato da le contese passate, et le case de la Terra domandano manutentione ordinaria de muri, tetti et ferramenti. Se cercano homini fidati per lo servitio et la custodia de le porte.\n\nNe le botege de lo borgo operano fabri, marangoni, fornari, caligari, bottari et tessitori al servitio de la comunità, de li lavoranti et de li viandanti. Chi porti con sé mestiero utile troverà a Fubine clientela presta et modo de exercitarlo con dignità.\n\nLa giesa de San Pietro, antiqua parochiale de la Terra posta fora de lo recinto, in la contrada de Campus Serrae, è loco de devotione et de memoria de li homini de Fubine. Chi sappia servir lo culto, portar victualia, reparar muri et tetti, curare li paramenti o contribuire al mantenimento de lo edificio sacro serà tenuto in bono conto da li homini de Fubine.\n\nChi sa fare l'hosto, chi sa fare lo stalliero, chi sa fare lo mulattiero, chi sa fare lo carrettiero, venga: la positura de la Terra, ultima de lo Monferrato verso la Riviera de Genoa, presso li camini che menano ad Asti, ad Alexandria et verso lo mare, reca continuo passagio de mercatanti che conducono olio, sale et pesce salato da le contrade genovesi. Chi sappia governare magazeni, pesare et conservare tal mercantia troverà qui occasione de scambio.\n\nFubine è terra de gente fiera et justa, de vigne, de campi et de bona consuetudine: chi vene con mano laboriosa et parola leale troverà rispetto, sostentamento et lavorero honesto.\n\nBandito per voluntà de li consoli, de la credenza et de li homini de Fubine, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die nono Iulii, anno del Signore MCCCCXXX."
     }
   ]
 }

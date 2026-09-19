@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCerrina",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Cerrina et de li suoi cantoni, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCerrina, cantone de la terra de Mombello et demanio diretto de la nostra corona, con li suoi homini laboriosi che da tempo antiquo custodiscono li boschi et le vigne de questa valle, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de li cantoni de Cerrina",
-      "message": "A chi cerca loco tranquillo et de bona speranza, sia noto che Cerrina, cantone de la terra de Mombello posto tra li boschi de cerri et le coline de la Valle Stura, è demanio diretto de la nostra corona, ove chi voglia contribuire con le proprie braccia et lo proprio ingegno è bene acolto.\n\nLa comunità de Cerrina, che per propria voluntà ha cinto lo suo capoluogo de recinto et fossato, vive ne la sua traditione de cantoni sparsi — Miosengo con la antiqua chiesa de San Nazario, Rosingo con la sua chiesa de San Giorgio, Montaldo con la cappella de Sancta Maria — ognuno con la sua devota memoria et la sua gente.\n\nLi boschi de cerri et le vigne che revestono li versanti collinari sono le principali risorse de queste coline: boscaroli, taglialegna et carbonari trovano materia abondante ne li boschi, mentre massari et patroni de terre cercano vignaioli et garzoni de campagna disposti a faticare con honestate.\n\nChi conosca l'arte de la vigna o del bosco troverà in questa contrata patto equo et justa ricompensa.\n\nLi mestieri de la terra non mancano: fabri, marangoni et altri artieri al servitio de la comunità trovano qui occasione de exercitare lo proprio mestiero.\n\nCerrina non è ancora terra grande né signoria propria, ma è terra che cresce a passo de massaro: sicura, paciente, fidele a chi la lavora con cura.\n\nScripto per voluntà de la comunità, a ciò che chi è in cerca de loco honesto sappia dove trovarlo."
+      "title": "De li mestieri de Cerrina, cantone de Mombello",
+      "message": "Sappia ciascuno, homo et femina, che sta in Cerrina o che ci passa: per voluntà de li officiali de Mombello et de li homini de Cerrina se fa bando publico ad ogni persona.\n\nCerrina è cantone de la terra de Mombello, posto tra le coline de la Valle Stura, sotto la alta signoria de li marchesi Paleologi. È contrada de case, campi et picoli nuclei de habitanti.\n\nChi sa fare lo mastro da muro, chi sa fare lo marangone, chi sa fare lo fabro, venga: lo luogo de Cerrina, che da li tempi passati ha raccolto homini de le terre vicine, ha recinto et opere de guardia che domandano cura, per li muri, le porte, le case et le altre necessità de la contrada.\n\nNe le terre de Cerrina et de li vicini cantoni se trovano Miosengo, Rosingo et Montaldo, ognuno con la sua gente, le sue case et li suoi luoghi de devotione. A Miosengo è memoria de la giesa de San Nazario; a Rosingo se serve San Giorgio; a Montaldo è la giesa de Sancta Maria. Chi sappia lavorare a li edifici sacri, portare materia, mantenere tetti et muri, o attendere a li bisogni de lo culto, serà tenuto in bono conto.\n\nChi conosca l'arte de la vigna, chi sa curare li campi et li prati, chi sa tagliare legna et fare carbone, chi sa condurre carri o riparare strumenti, venga: le coline, li campi, le vigne, li prati et li boschi rechieono mano laboriosa, et troverà presso li patroni et li homini de queste contrade patto equo et mercede justa.\n\nFabri, marangoni, fornari, caligari et altri artieri de necessitate possono exercitare lo loro mestiero al servitio de li cantoni, de li poderi et de li viandanti che passano per la Valle Stura.\n\nCerrina non è comunità separata né signoria per sé, ma cantone de Mombello, terra paciente et laboriosa, ove chi porta bona fama et voluntà de lavorare può trovare sostentamento et rispetto.\n\nBandito per voluntà de li officiali de Mombello et de li homini de Cerrina, a ciò che chi cerca opera honesta sappia dove trovarla. Die vigesimo Iunii, anno del Signore MCCCCXXX."
     }
   ]
 }

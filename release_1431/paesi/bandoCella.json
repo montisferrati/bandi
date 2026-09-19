@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCella",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Cella, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCella, che fin da li tempi de lo imperatore Federico primo sta fidele a questa Marca, et che con li suoi consorti signori guarda lo core de le coline de la Petra da Cantoni, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et de la preda de Cella",
-      "message": "Chiunque cerca loco de antiqua memoria et de lavorero honesto sapia che Cella, terra de Monferrato nata intorno a una cella monastica lungo l'antiqua via romana de la Valle Cerrina, è borgo singolare et ben posto sopra le coline, ove li signori consorti presidiano lo territorio sotto la alta signoria de li marchesi Paleologi.\n\nLa Petra da Cantoni, la roccia chiara et lavorabile che compone queste stesse coline — le più ricche de tuta la regione per qualità et quantità de questa preda — è la vera richeza de Cella et dà lavorero a chi sappia maneggiarla con peritia.\n\nLi mastri cantonieri cavano ne le coline con piccone et scalpello, ricavando blochi de petra boni per ogni opera: case, muri, archi et fundamenta. Chi conosca l'arte de cavare et squadrare la petra troverà qui comittenti numerosi et lavorero ne le stagioni fredde, quando li campi reposano et la roccia aspecta de essere lavorata. La preda de Cella è conosciuta et pregiata in tuto lo Monferrato et ben oltre.\n\nLa stessa petra serve per construire et rinnovare le case, li muri et le strutture de ogni sorte del borgo et de le contrade vicine, onde li mastri da muro et li tagliapetre trovano in questa terra materia abondante et lavorero continuo.\n\nLe vigne che revestono li pendii de Cella dano bono fructo a chi le lavora con cura: massari et patroni de le famiglie consortili cercano vignaioli experti et garzoni de campagna disposti a faticare sopra li versanti con honestate et continuità.\n\nLa giesa de San Quirico, parochiale de questo borgo et già citata più de dui secoli a dietro, et la cappella de Sancta Maria, sono li due core spirituale de questa comunità, rette sotto la pieve de Rosignano et la diocesi de Vercelli: chi sappia servirle o contribuire al loro mantenimento serà tenuto in bona consideratione da tuti.\n\nVegna chi vole: troverà porta aperta et lavorero che lo aspecta, che se tracti de vigna, de petra o de guardia."
+      "title": "De li mestieri et de le terre de Cella",
+      "message": "Sappia ciascuno, homo et femina, che sta in Cella o che ci passa: per voluntà de li signori et de li homini de Cella se fa bando publico ad ogni persona.\n\nCella è terra de Monferrato, posta sopra le coline de la contrada de Rosignano. È borgo raccolto et ben posto, ove li signori de Cella tengono ragione et giurisdictione sotto la alta signoria de li marchesi Paleologi.\n\nChi sa fare lo fabro, chi sa fare lo mastro da muro, chi sa fare lo marangone, chi sa tagliare legna, venga: lo borgo et le case de li signori domandano opera de mastri de bona mano, per reparare muri, tetti, porte, ferramenti et atrecci de lo lavorero.\n\nChi sappia lavorare la terra, governare bestie, condurre carri o reparare strumenti, venga: li sentieri, le vigne, li campi et li poderi de le coline rechieono continuamente braccia laboriose.\n\nChi conosca l'arte de la vigna venga: le vigne che revestono li pendii de Cella dano bono fructo a chi le lavora con cura. Massari et patroni de terre cercano vignaioli experti, bovari, garzoni de campagna et famiglie disposte a faticare con honestate ne la semina, ne la cura de le vite, ne la vendemia et ne la ricolta de le biade.\n\nChi sia experto a custodire li boschi, tagliare et apparecchiare legname, trasportare fascine o provedere a li forni et a li focolari de le case, venga: li boschi et le terre alte de la contrada danno materia de continuo lavorero.\n\nHomini de bona fama et de fede provata sono parimenti utili per la custodia de le case, de li passi et de li luoghi de la Terra, secondo le necessità de li signori et de la comunità.\n\nLa giesa de Cella, già ricordata quasi un secolo et mezo a dietro ne li registri de le decime, è loco de devotione per li habitanti de lo borgo et de le contrade vicine, sotto la cura de la pieve de San Vittore de Rosignano et de la diocesi de Vercelli. Chi sappia servir lo culto, portar materia, mantener in ordene lo edificio sacro o attendere a li bisogni de lo sacerdote serà tenuto in bono conto.\n\nCella non è terra de grandi piaze né de traffichi rumorosi: è loco de coline, de vigne, de campi et de case de signori, ove chi lavora con bona fede trova rispetto et sostentamento.\n\nVegna chi vole: troverà opera ne la terra, ne le vigne, ne li boschi et ne le case de Cella.\n\nBandito in Cella, per voluntà de li signori et de li homini, a ciò che chi cerca possa trovare et chi trova possa restare. Die decimo octavo Martii, anno del Signore MCCCCXXX."
     }
   ]
 }

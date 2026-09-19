@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCuccaro",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Cuccaro, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCuccaro, lo cui castello da più de tre secoli sta sotto la nostra alta signoria, hoggi governato in consortio dal fidele casato de li Colombo, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et del castello de Cuccaro",
-      "message": "Portino queste parole lontano chi le lege et chi le ascolta: Cuccaro, antiquo borgo del Monferrato que lo «castrum Cucari» ricorda già in carte imperiali de tre secoli a dietro, è terra de alta pertinentia marchionale, governata in consortio dal casato de li Colombo et da li altri signori que con loro se dividono la jurisdictione.\n\nLo castello del borgo demanda cura continua: se cercano homini de fiducia per lo servitio de guardia et la manutentione de le strutture, et fabri, mastri da muro et marangoni capaci de lavorare con continuità troveranno qui comittentia presso li signori Colombo et li loro consorti.\n\nLe coline que circondano lo borgo dano vigne de bona qualità et campi fertili: massari et fattori cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate ne le stagioni del campo.\n\nChi sappia tractare la vigna o lo campo con respecto troverà a Cuccaro patto equo et bona ricompensa.\n\nLa giesa de Sancta Maria, retta da lo arciprete sotto la jurisdictione del venerabile vescovo de Acqui, veglia sopra la vita spirituale del borgo: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione da la comunità.\n\nChi vene a Cuccaro con mane aperte et core presto trova sempre cosa que lo aspecta, et trova una terra que li marchesi tengono cara da generationi."
+      "message": "Sappia ciascuno, homo et femina, che sta in Cuccaro o che ci passa: per voluntà de li signori consorti et de li homini de Cuccaro se fa bando publico ad ogni persona.\n\nCuccaro è antiquo borgo de lo Monferrato, del quale lo «castrum Cucari» è ricordato già ne le carte imperiali de più de tre secoli a dietro. È terra sotto la alta signoria de li marchesi Paleologi, ove antiquo consortile de più case nobili tene ragione et jurisdictione.\n\nChi sa fare lo fabro, chi sa fare lo mastro da muro, chi sa fare lo marangone, venga: lo castello de lo borgo, le case de li signori, le porte et le opere de guardia domandano cura continua. Se cercano ancora homini de fiducia per custodire li luoghi necessari et per attendere a le opere de la Terra.\n\nChi conosca l'arte de la vigna venga: le coline che circondano lo borgo danno vigne de bono fructo, campi, prati et boschi. Massari et fattori cercano vignaioli, messori, bovari et garzoni de campagna disposti a faticare con honestate ne le stagioni de la semina, de la cura de le vite, de la vendemia et de la ricolta.\n\nChi sappia tractare la vigna, lo campo, li buoi, lo carro o li strumenti de la terra troverà a Cuccaro patto equo et bona mercede. Chi sappia tagliare et condurre legname, reparare carri, forgiare ferramenti o mantenere le case et li poderi troverà parimenti opera utile.\n\nLa giesa de lo borgo, retta da lo arciprete sotto la jurisdictione de lo venerabile vescovo de Acqui, è loco de devotione per li homini de Cuccaro et de le contrade vicine. Chi sappia servir lo culto, portar materia, mantener in ordene lo edificio sacro o contribuire a le opere necessarie serà tenuto in bono conto da li signori et da li habitanti de la Terra.\n\nFabri, marangoni, fornari, caligari et altri artieri de necessitate possono exercitare lo loro mestiero al servitio de le case, de li campi, de li viandanti et de li homini de Cuccaro.\n\nChi vene a Cuccaro con mane aperte et core presto trova cosa che lo aspecta: è terra de coline, de vigne, de castello et de homini che tengono in pregio lo lavorero ben facto.\n\nBandito per voluntà de li signori consorti et de li homini de Cuccaro, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die decimo quarto Novembris, anno del Signore MCCCCXXX."
     }
   ]
 }

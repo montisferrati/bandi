@@ -2,24 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoMirabello",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 3 volgare"
   },
-  "title": "Mirabello\nTavola dei Bandi",
-  "updatedAt": "2026-04-15T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
-  "bando": [
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
     {
-      "date": "15-04-2026",
-      "type": "BANDO PUBBLICO",
-      "title": " ",
-      "message": "A tutti gli abitanti di Mirabello, salute e grazia.
-\nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio.
-\nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia.
-\nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato a questa città e, con essa, a tutto il popolo del Monferrato.
-\nDatum sub sigillo nostro,
-die III mensis Maii
-\nGian Giacomo Paleologo
-Marchio Montisferrati"
+      "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
+      "type": "Bando",
+      "title": "De li mestieri et de lo castello de Mirabello",
+      "message": "Sappia ciascuno, homo et femina, che sta in Mirabello o che ci passa: per voluntà de messer Antonio Della Valle da Lu et de li homini de Mirabello se fa bando publico ad ogni persona.\n\nMirabello è terra antiqua de lo Monferrato, posta fra acque, campi et coline, in loco ben veduto per le vie che menano verso Casal, Occimiano, Lu et le altre terre del contado. Lo nome de Mirabello è già noto ne le scritture de li imperatori: dicta Mirabellum in uno diploma de l'anno MLXIX, et lo suo castello dicto castellum in uno privilegio de l'anno MLXXXIII. Fo già de la Chiesa de Vercelli, poi passò nel dominio de li marchesi de Monferrato.\n\nHoggi Mirabello è tenuto per voluntà marchionale da messer Antonio Della Valle da Lu, al quale lo marchese Johan Jacomo Paleologo infeudò la terra et la sua giurisdictione ne l'anno MCCCCXXI. Chi venga a servire lo signore et lo castello troverà lavoro, purché sia persona fidata, obediente et de bona fama.\n\nChi sa fare lo mastro da muro, chi sa fare lo scalpellino, chi sa fare lo marangone, chi sa fare lo fabro, venga: lo castello et lo recinto de la terra, tenuti nuovamente in feudo, hano bisogno de continua cura, per fossati, porte, ponti, mura, torri, travature et coperture. Chi sappia acconciare serrature, chiavi, cardini, ferramenti da porta, zappe, vanghe, vomeri et falci serà tenuto in bona consideratione.\n\nHomini forti et leali sono cercati per la guardia de lo castello, de lo recinto et de le porte, al servitio de la casa Della Valle, specialmente ne li tempi de maggior pericolo.\n\nChi conosca l'arte de lo campo venga: le terre de Mirabello sono lavorate a biada, grano et altre sementi, et domandano ogni anno molte braccia. Massari, bifolchi, aratori, seminatori et messori sono richiesti per lo governo de le possessioni, ché la terra è grande et molte cascine se stendono intorno al recinto.\n\nChi conosca l'arte de la vigna venga: vignaioli et potatori sono cercati per legare le viti, riparare li sostegni, custodire l'uva et condurre lo vino a la cantina, ché Mirabello è terra de bono vino.\n\nChi sappia governare buoi, cavalli, muli et altre bestie da lavoro, chi sa fare lo bovaro, chi sa fare lo stalliero, venga: la casa signorile et li patroni de le possessioni cercano homini fidati per la cura de le stalle et de le mandrie.\n\nChi sa fare lo carrettiero, chi sa fare lo mulattiero, venga: se domandano homini che sappiano transportare grano, vino, legna, pietra et calcina tra Mirabello et le terre vicine, et che conoscano le strade, li guadi et li ponti.\n\nChi sa fare lo fornaro, chi sa fare lo mugnaro, venga: la terra ha bisogno de chi macini lo grano, prepari la farina et tenga cura del forno per lo pane de la comunità.\n\nChi sa fare lo tessitore, chi sa filare lana, lino et canapa, venga: le famiglie de la terra domandano panni semplici per vestire et per la casa.\n\nChi sa fare lo calzolaro, chi sa fare lo conciatore, venga: contadini, mulattieri et famigli hano bisogno de scarpe, corregge et finimenti per le bestie.\n\nLa giesa de San Vincenzo, già nota ne le scritture antiche, et la giesa de San Giorgio, similmente attestata, sono loco de devotione per la comunità. Chi sappia custodire li luoghi sacri, preparare cere et lumi, tenere in ordine li arredi et prestare aiuto ne le feste, serà tenuto in bono conto. Sono ben acolti ancora scrivani et chierici che sappiano tenere conto de le rendite et de le decime.\n\nChi conosca l'arte de lo speziale o de la cura de le ferite potrà trovare opera presso lo castello et tra le famiglie de la terra.\n\nA Mirabello troveranno inoltre opera servi, garzoni et giornalieri disposti a lavorare secondo lo bisogno de la stagione, con maggior richiesta ne la semina, ne la vendemia et ne la mietitura.\n\nChi venga con strumenti propri, con bestie da lavoro o con arte conosciuta potrà trattare salario, vitto, alloggio o parte del raccolto secondo la qualità de l'opera. Li homini de bona condotta saranno preferiti a li vagabondi.\n\nMirabello è terra antiqua, fortificata et ben posta, con campi, vigne, acque et case ove lo lavoratore può trovare pane. Chi cerca opera venga con honestate; chi sappia lavorare et mantener fede al patto troverà favore presso la terra et presso la casa Della Valle.\n\nBandito per voluntà de messer Antonio Della Valle et de li homini de Mirabello, a ciò che chi cerca possa trovare et chi trova possa restare. Die sexto Novembris, anno del Signore MCCCCXXX."
     }
   ]
 }

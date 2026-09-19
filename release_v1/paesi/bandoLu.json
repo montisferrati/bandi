@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoLu",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 3 volgare"
   },
-  "title": "Lu\nTavola dei Bandi",
-  "updatedAt": "2026-06-03T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
-  "bando": [
-    {
-      "date": "Die III mensis Maii",
-      "type": "Bando Pubblico",
-      "title": " ",
-      "message": "A tutti gli abitanti di Lu, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
-    },
-	{
-      "date": "Die III mensis Maii",
-      "type": "Pubblico Avviso",
-      "title": " ",
-      "message": "Dalla cima del colle più alto del basso Monferrato, ove il vento porta lontano ogni notizia e lo sguardo abbraccia la pianura alessandrina fino all'orizzonte, sia noto che Lu, borgo antico e ben munito, apre le proprie porte a chi sappia rendersi utile con onestà e dedizione. \nLa cinta muraria che racchiude il borgo, con le sue porte, le sue torri e i suoi bastioni, è presidio solido e di vitale importanza per la difesa del Monferrato verso la pianura: si cercano uomini robusti e di provata fedeltà per il servizio di guardia e la sorveglianza delle porte, muratori capaci di mantenere in ordine le strutture della cinta, e fabbri esperti nel ferro degli elementi di difesa. \nLa posizione di Lu non ammette negligenze, chi veglia su queste mura veglia su tutto il Monferrato Casalese. \nTre chiese animano la vita spirituale del borgo, San Pietro, San Nazario e San Giacomo, tutte fondate nei secoli passati e oggi cuore della devozione luese. \nChi sappia servire le chiese, contribuire al loro mantenimento o assistere i loro chierici con discrezione e continuità troverà in Lu una comunità pia e riconoscente, ché la fede di questo borgo è antica e ben radicata. \nLe botteghe del borgo danno lavoro a fabbri, falegnami, calzolai e artigiani d'ogni sorta al servizio di una comunità ben organizzata e di buona vivacità commerciale. \nLe vigne e i campi che circondano le mura richiedono braccia laboriose in ogni stagione: massari e fattori cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà. \nLu non è borgo che si accontenta di poco: è terra ambiziosa, che sa da dove viene e sa dove vuole andare. \nChi viene qui con voglia di fare troverà sempre qualcosa che lo aspetta. \nScritto per volontà della comunità di Lu, dalla cima del colle che tutto vede e tutto ricorda."
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
+      "type": "Bando",
+      "title": "De li mestieri et de le defese de Lu",
+      "message": "Sappia ciascuno, homo et femina, che sta in Lu o che ci passa: dalla cima del colle che guarda la pianura alessandrina, ove lo vento porta lontano ogni notitia et lo sguardo corre sopra le coline et le terre del Monferrato, per voluntà de li consoli et de li homini de Lu se fa bando publico ad ogni persona.\n\nLu è borgo antiquo et ben munito, che apre le sue porte a chi sappia rendersi utile con honestate et diligentia.\n\nLo ricetto et la cinta de la Terra, con le porte, le torri, li muri et le altre opere de guardia, sono de grande importantia per la securità del borgo et de le vie verso la pianura. Et sappia ciascuno che la Terra de Lu è tenuta, quando lo illustrissimo Marchese ne fa richiesta, a mandar sei militi per lo servitio et la defensa de lo Stato de Monferrato. Chi sia pratico de le arme, de bona fama et fede provata, et voglia guardare le porte, stare a le ronde, difendere li passi et seguire la insegna de lo Marchese quando vegnirà comandato, serà tenuto in bono conto da li consoli et officiali de la Terra.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: la cinta demanda cura continua, per serraglie, cardini et ferramenti. Chi sappia portar petra, calce, legname et terra, riparar tetti, porte, travature et opere de defensa, o mantenere li fossi et li camini de accesso, serà bene accolto da li officiali et da li homini de Lu.\n\nLu è terra de antica devotione. La giesa de San Pietro, eretta in parochia già da li tempi antiqui, et le giese de San Nazario et de San Jacomo, già esistenti ne la Terra, accoglieno la preghiera de li habitanti et de le contrade vicine. Chi sappia servir li sacerdoti et li chierici, portar victualia, curare li paramenti, reparar muri et tetti o contribuire al mantenimento de li loghi sacri troverà in Lu opera honesta et bona consideratione.\n\nChi conosca l'arte de la vigna, de lo campo, de lo carro o de li animali venga: le vigne et li campi que circondano le mura richiedono braccia laboriose in ogni stagione. Massari et patroni de terre cercano vignaioli, aratori, messori, falciatori, bovari et garzoni de campagna disposti a faticare con honestate. Troverà patto equo et bono compenso.\n\nLe botege de la Terra danno opera a fabri, marangoni, caligari, fornari et altri artieri al servitio de li habitanti, de li campi et de li homini de passagio. Chi porti con sé mestiero utile non tarderà a trovare modo de exercitarlo con dignità.\n\nLu è terra de colle, de guardia, de vigne et de campi, tenuta sotto la alta signoria de li marchesi Paleologi. Li consoli et homini de questa Terra tengono a la cura de le mura, de le giese et de le cose communi; chi vene con bona fama et voluntà de lavorare troverà sempre opera che lo aspecta.\n\nBandito per voluntà de li consoli et de li homini de Lu, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die decimo Februarii, anno del Signore MCCCCXXX."
     }
   ]
 }

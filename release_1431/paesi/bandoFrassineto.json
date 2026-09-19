@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoFrassineto",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Frassineto, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nFrassineto, que pochi giorni a dietro — lo dì XII de Martio de questo anno — ha remesso a Noi per liberà voluntà dei nobili de Cavaglià ogni ragione sopra lo suo castello et suo territorio, et que hoggi per la prima volta sta sotto la nostra diretta et immediata signoria, riceva questo honore como primizia de una nova et feconda unione: Noi la teremo cara et la guardemo como si conviene.\n\nChe ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et del porto de Frassineto",
-      "message": "A chi cerca terra de trafichi et de acque, de mercatanti et de bone vie, sia noto que Frassineto, borgo antiquo posto là dove la strada che viene da Vercelli et da Asti incontra lo grande Po, è terra de grande movimento et de occasioni continue per chi habia mestiero et voluntà de guadagnare honestamente.\n\nPochi giorni a dietro, li nobili de Cavaglià hanno rimesso a lo nostro signore marchese ogni loro ragione sopra questo castello et questo territorio: Frassineto è da questo dì directamente sotto la corona marchionale, et lo signore marchese ha già deliberato de fare, a sue proprie spese, una nova giesa degna de questo borgo, sul sito que li canonici de Casale hanno liberamente concesso.\n\nLo castello con la sua cinta muraria et le sue porte demanda cura et homini de fiducia per lo servitio de guardia: mastri da muro, fabri et marangoni troveranno qui comittentia stabile presso li officiali del marchese.\n\nLo porto sopra lo Po, ancora de la nostra corona, è via continua de mercantie: barcaroli, traghettatori et facchini al carico et discarico trovano qui mestiero de ogni stagione. Chi conosca lo fiume et le sue correnti è persona assai pregiata in questa terra.\n\nFrassineto è pieve de antiqua dignità, con li suoi canonici in officio divino: chi sappia servire la giesa, portare victualia o attendere al decoro de li edifici sacri troverà occupatione honesta et bene vista da la comunità.\n\nLe campagne intorno al borgo, fertile per la presentia del Po et de la Sesia, dano bono grano et prato a chi le lavora con cura: massari et patroni de terre cercano lavoranti et garzoni in ogni stagione.\n\nFrassineto non è terra de quiete: è terra de confine, de acque et de trafichi, ove ogni giorno passa nova sopra la via et sopra lo fiume.\n\nScripto per voluntà de la comunità de Frassineto, adì III magio MCCCCXXXIIII."
+      "message": "Sappia ciascuno, homo et femina, che sta in Frassineto o che ci passa: per voluntà de li homini et officiali de Frassineto se fa bando publico ad ogni persona.\n\nFrassineto è borgo antiquo, posto là dove le vie che vegnono da Vercelli et da Asti se accostano a lo grande Po. È terra de movimento et de occasione per chi habia mestiero et voluntà de guadagnare honestamente.\n\nFrassineto è tenuto sotto la alta signoria de li marchesi Paleologi, et li nobili conti de Cavaglià vi tengono ancora ragioni antiche sopra lo castello et lo territorio. Per questo chi serve con bona fama, mano experta et fede leale può trovare favore presso li signori, li officiali et li homini de la Terra.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, chi sa fare lo fornaxaro, venga: lo castello, le porte, li muri et le opere de guardia domandano cura. Homini de fiducia sono altresì utili per la custodia de li passi, de le porte et de le rive.\n\nChi sa fare lo barcarolo, chi sa fare lo traghettatore, chi sa fare lo facchino, chi sa fare lo carrettiero, venga: lo passo sopra lo Po reca continuo movimento de barche, homini, bestie et mercantie, et troverà qui opera secondo la stagione et lo bisogno de li viandanti. Chi conosca lo fiume, le correnti, le piene et li guadi serà tenuto in bono conto.\n\nFrassineto è pieve de antiqua dignità, con prevosto et canonici che attendono a l'officio divino. Chi sappia servire la giesa, portare victualia, reparar muri et tetti, curare li paramenti o provedere a li bisogni de lo culto troverà opera honesta et rispetto presso li homini de la Terra.\n\nChi sappia condurre carri, governare bestie, raccogliere fieno et trasportare grano et altre derrate, venga: ne le terre vicine, verso la Grangia de Gazo, se lavorano campi, prati, pascoli et terreni presso le acque. Massari et patroni de terre cercano lavoranti, bovari, garzoni et falciatori.\n\nChi sappia tagliare et condurre legna, nettare fossi, difendere li campi da le acque o lavorare ne le terre novellamente lasciate da lo fiume, venga: le ghiare, le alluvioni, li boschi et li rivi de la pianura domandano altresì cura continua, et troverà lavoro utile et mercede justa.\n\nFrassineto non è terra de quiete: è terra de confine, de acque et de trafichi, ove ogni giorno passa nova sopra la via et sopra lo fiume.\n\nVegna chi vole con bona fama et mane laboriose: troverà opera presso li campi, la pieve, lo castello et lo Po.\n\nBandito per voluntà de li homini et officiali de Frassineto, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, die tertio mensis maii, anno del Signore MCCCCXXX."
     }
   ]
 }

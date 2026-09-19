@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoCastellettoMonf",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Castelleto Scazoso, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nCastelleto Scazoso, che da più de cento dixe octo anni guarda fidele lo confine verso Alexandria per mano de li nostri fideli Scazoso, et che con Casale capitale diventa ancor più importanta sentinella de lo nostro stato, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le vigne de Castelleto Scazoso",
-      "message": "A tuti coloro che sia in cerca de bona terra ove metter radice et guadagnarse lo pane con honestate, sia noto che Castelleto Scazoso, terra de Monferrato posta sopra l'altura che guarda la pianura alexandrina, è borgo antiquo et bene governato, primo baluardo de le milicie marchionali de lo Monferrato, fidele a li marchesi Paleologi atraverso li signori Scazoso che ne tengono lo feudo da più de cento dixe octo anni.\n\nLo castello che domina lo borgo da l'alto del colle, sentinella de lo confine verso Alexandria, rechiede homini de fiducia per lo servitio de guardia et la manutentione de le strutture: mastri da muro, marangoni et fabri capaci de lavorare con cura et continuità troveranno qui comittentia stabile et compenso justo, ché con Casale capitale la importantia de questo presidio cresce.\n\nLe coline che circondano Castelleto Scazoso sono naturalmente predisposte a la vigna: lo terreno argilloso et calcareo, ricco de antiqui sedimenti, dà uve de bona qualità.\n\nSe cercano vignaioli experti, garzoni de campagna et famiglie disposte a stabilirse et a lavorare con dedicatione li versanti soleggiati del colle. Chi sappia tractare la vigna con respecto troverà qui patto equo et bona ricompensa.\n\nNe le botege del borgo operano fabri, marangoni et artieri d'ogni necessitate al servitio de la comunità; et chi porti con sé mestiero utile non tarderà a trovare dove exercitarlo, ché Castelleto Scazoso è borgo bene frequentato et de boni commerci con le terre vicine.\n\nLa giesa de Sancta Catherina, retta da li canonici del priorato de Sancto Andrea de San Salvatore, accoglie la devotione de la comunità: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione.\n\nScripto per voluntà de la comunità de Castelleto Scazoso, perché chi è in cerca de loco honesto et de terra bona sappia dove trovarli."
+      "message": "Sappia ciascuno, homo et femina, che sta in Castelleto Scazoso o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nCastelleto Scazoso è terra de Monferrato, posta sopra l'altura che guarda la pianura de Alexandria. È borgo antiquo et loco de bona guardia, fidele a la alta signoria de li marchesi Paleologi et tenuto in feudo, secondo antico titolo, da li signori Scazoso, da li quali questa Terra prende nome.\n\nChi sa fare lo mastro da muro, chi sa fare lo marangone, chi sa fare lo fabro, venga: lo castello che domina lo borgo da l'alto del colle guarda le vie et le contrade che menano verso Alexandria, et demanda opera continua per lo mantenimento de le mura, de le porte, de li tetti et de le altre strutture. Homini de bona fama et de fede provata possono altresì trovare servitio per la custodia de li passi et de le opere communi.\n\nChi conosca l'arte de la vigna venga: le coline che circondano Castelleto Scazoso sono atte a vigne, campi et prati. Se cercano vignaioli experti, garzoni de campagna, massari, bovari et famiglie disposte a stabilirse et a lavorare con diligentia li terreni de lo borgo. Chi sappia tractare la vigna, seminare le biade, governare bestie et condurre carri troverà qui patto equo et bona ricompensa.\n\nFabri, marangoni, fornari, caligari et artieri d'ogni necessitate operano ne le botege de lo borgo al servitio de la comunità, de li lavoranti et de li viandanti. Chi porti con sé mestiero utile non tarderà a trovare dove exercitarlo, ché Castelleto Scazoso ha commercio et scambio con le terre vicine.\n\nLa giesa de la comunità et li altri lochi de devotione de lo territorio raccolgono li homini de Castelleto ne le feste et ne li tempi de preghiera. Chi sappia servir li edifici sacri, portar materia, reparar tetti et muri, o provedere a lo decoro de lo culto, serà tenuto in bona consideratione.\n\nCastelleto Scazoso è terra de colle, de vigne, de campi et de bona guardia. Chi vene con animo recto, bona fama et voluntà de lavorare trova qui terra honesta et opera conveniente.\n\nBandito in Castelleto Scazoso, per voluntà de la comunità, a ciò che chi cerca loco et mestiero sappia ove trovarli. Die decimo Maii, anno del Signore MCCCCXXX."
     }
   ]
 }

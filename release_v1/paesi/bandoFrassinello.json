@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoFrassinello",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Frassinello, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nFrassinello, che con la sua antiqua cinta muraria et lo castello de li fideli Nemorsi sta fidele a questa Marca, et che con propri Statuti se governa in consortio con Olivola, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de le vigne de Frassinello",
-      "message": "Portino queste parole lontano tra le coline de la Val Ghenza: Frassinello, borgo antiquo del Monferrato lo cui nome porta ancor impressa la memoria de le antique incursioni saracene que queste coline seppero respingere secoli a dietro, è terra de vigne, de petra et de gente laboriosa que non ha mai dimenticato come defendere ciò que è suo.\n\nLo castello que domina lo borgo da l'alto del colle, con la sua antiqua cinta muraria a forma quasi de ottagono, è tenuto da li signori Nemorsi per concessione del marchese. Se cercano homini de fiducia per lo servitio de guardia et la manutentione de le strutture; mastri da muro, fabri et marangoni capaci de lavorare con continuità troveranno qui comittentia stabile. Et a Castel Lignano, tenimento separato, li signori Cane tengono parimenti casa et castelo.\n\nLe vigne que revestono li pendii de Frassinello dano uve de bona qualità, et la terra argillosa et calcarea de queste coline se presta bene a la produtione de vini pregiati. Se cercano vignaioli experti, garzoni de campagna et famiglie disposte a faticare con honestate sopra li versanti soleggiati.\n\nLa Petra da Cantoni, la roccia chiara que compone queste alture, è materia bona per case, muri et fundamenta. Chi sappia maneggiare lo scalpello per ricavare da la roccia viva blochi ben squadrati troverà a Frassinello comittenti pronti et lavorero abondante ne le stagioni invernali, quando li campi reposano et la petra aspecta de essere lavorata.\n\nLa giesa de Sancta Maria de la Sala, retta sotto la pieve de San Vittore de Rosignano, veglia sopra la vita spirituale del borgo con continuità antiqua: chi sappia servire la giesa o contribuire al suo mantenimento serà tenuto in bona consideratione da la comunità.\n\nFrassinello non è borgo que se accontenta de poco: è terra que sa cosa vale et tracta bene chi lavora bene."
+      "message": "Sappia ciascuno, homo et femina, che sta in Frassinello o che ci passa: per voluntà de li signori et de li homini de Frassinello se fa bando publico ad ogni persona.\n\nFrassinello è borgo antiquo de lo Monferrato, terra de coline, de vigne, de campi et de gente laboriosa, posta sotto la alta signoria de li marchesi Paleologi.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello de Frassinello, con le case et le opere de guardia de lo borgo, domanda cura continua. Troveranno qui comittentia convenevole presso li signori et li homini de la Terra. Homini de bona fama et fede provata possono essere richiesti per la custodia de li passi et de li luoghi necessari a la guardia.\n\nA Lignano, contrada vicina et tenimento distinto, se trovano similmente case, terre et opere che domandano mano experta. Chi sappia lavorare la petra, tagliare legname, condurre carri o reparare strumenti potrà trovare opera presso li patroni et li lavoranti de le terre.\n\nChi conosca l'arte de la vigna venga: le vigne che revestono li pendii de Frassinello dano bono fructo a chi le lavora con cura. Massari et patroni de terre cercano vignaioli experti, garzoni de campagna, bovari et famiglie disposte a faticare con honestate ne la cura de le vite, ne la vendemia, ne la semina et ne la ricolta de le biade.\n\nChi sappia governare bestie, mietere, falciare, tagliare et trasportare legna, venga: li campi, li prati et li boschi de le coline danno ancora sustento. Carrettieri, homini de soma, fornari, fabri et altri artieri de necessitate trovano modo de exercitare lo loro mestiero al servitio de le case, de li poderi et de la Terra.\n\nLa giesa de Sancta Maria de la Sala, antica giesa de la contrada et sottoposta a la pieve de San Vittore de Rosignano, è loco de devotione per li homini de Frassinello et de le ville vicine. Chi sappia servir lo culto, portar materia, reparar muri et tetti, o contribuire al mantenimento de lo edificio sacro, serà tenuto in bono conto.\n\nFrassinello non è borgo che se accontenta de poco: è terra de coline et de bona fatica, ove chi lavora con mano ferma et parola leale trova rispetto et sostentamento.\n\nBandito per voluntà de li signori et de li homini de Frassinello, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die duodecimo Maii, anno del Signore MCCCCXXX."
     }
   ]
 }

@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoLignano",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 3 volgare"
   },
-  "title": "Lignano\nTavola dei Bandi",
-  "updatedAt": "2026-06-03T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
-  "bando": [
-    {
-      "date": "Die III mensis Maii",
-      "type": "Bando Pubblico",
-      "title": " ",
-      "message": "A tutti gli abitanti di Lignano, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
-    },
-	{
-      "date": "Die III mensis Maii",
-      "type": "Pubblico Avviso",
-      "title": " ",
-      "message": "Sia portata questa voce lontano tra le colline del Monferrato: Lignano, terra posta sulle alture della Val Ghenza, è feudo concesso per volontà del marchese Gian Giacomo Paleologo ai Cane di Casale, famiglia di lunga tradizione guerriera, che vi esercitano la loro signoria con mano ferma e cercano uomini capaci di rendersi utili. \nIl castello che domina il borgo dall'alto del colle, antico castrum curtense con la sua Caminata tardogotica, ampia sala dalle arcate pregevoli ove signori e vassalli si raccolgono attorno al fuoco per consiglio e convivio, richiede cura continua e uomini di fiducia: muratori capaci di lavorare in pietra, falegnami esperti nelle strutture lignee e fabbri abili nel ferro dei cancelli e degli strumenti di difesa troveranno qui committenza stabile presso i signori Cane. \nIl castello svolge altresì funzioni di governo e amministrazione della corte soggetta, chi sappia scrivere con mano ferma o assistere nelle pratiche amministrative del feudo sarà ben accolto e ricompensato. \nLe colline che circondano Lignano danno vigne di buona qualità e campi fertili: massari e fattori dei Cane cercano vignaiuoli, mietitori e garzoni di campagna disposti a faticare con onestà nelle stagioni del campo. \nChi conosca l'arte della vigna o del grano troverà qui patto equo e buona ricompensa. \nLa cappella del castello accoglie la devozione della comunità: chi sappia servire la chiesa con discrezione e continuità sarà tenuto in buona considerazione dai signori del luogo. \nChi porta con sé un mestiere utile e un animo retto non resterà senza impiego a Lignano, ché i Cane sanno riconoscere chi vale."
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
+      "type": "Bando",
+      "title": "De li mestieri et de le terre de Lignano",
+      "message": "Sappia ciascuno, homo et femina, che sta in Lignano o che ci passa: per voluntà de li nobili Cane et de li homini residenti in Lignano se fa bando publico ad ogni persona.\n\nLignano è tenimento separato posto fra Frassinello, Rosignano, Vignale et Camagna, terra de castello, de poderi et de bona fatica, tenuta da li nobili Cane de Casal per investitura de lo magnifico marchese Johan Jacomo Paleologo, sotto la alta signoria de la casa de Monferrato.\n\nLi nobili Cane, de la medesima stirpe de lo capitaneo Facino Cane, tengono questa Terra et le sue ragioni per concessione de lo Marchese. Chi vene con bona fama, mano experta et voluntà de servire può trovare opera presso lo castello, le case de lo feudo et le terre che da quello dependono.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, venga: lo castello, le sue case, le porte et le opere necessarie a la guardia de lo loco domandano continua cura, per petra, calce, legname, ferramenti, tetti, porte et atrecci de lo lavorero. Troveranno qui comittentia stabile et mercede convenevole.\n\nChi sappia scrivere, tenere conto de grani, fieni, semente, bestie et derrate, o assistere a li carichi et a li trasporti de le possessioni, potrà trovare servitio presso li homini de la casa Cane. Carrettieri, homini de soma et bovari sono similmente richiesti per le necessità de li poderi et de lo castello.\n\nChi conosca l'arte de la vigna venga: le coline et le terre de Lignano sono fertili et atte a vigne, biade, prati et pascoli. Massari et fattori cercano vignaioli, messori, falciatori, bovari, garzoni de campagna et homini capaci de governare aratri, carri et bestie. Chi sappia curare le vite, lavorare lo campo, raccogliere fieno, seminare biade et custodire lo bestiame troverà patto equo et bono compenso.\n\nChi sa fare lo tagliatore de legna, chi sa fare lo carbonaro, venga: li boschi et le siepi de le coline danno legname et fascine, materia de opera secondo la stagione et lo bisogno de le case et de li campi.\n\nLi homini de Lignano, secondo la loro devotione, mantengono li luoghi sacri et li bisogni de lo culto in questo tenimento. Chi sappia portar viveri, lavorare a muri et tetti, o mantenere in ordene le cose necessarie a lo servitio divino, serà tenuto in bono conto.\n\nLignano non fa corpo de comunità con le terre vicine, ma è tenimento de propria ragione et de propria guardia. Chi porta con sé mestiero utile et animo recto non resterà senza opera, ché li Cane sanno riconoscere chi vale et chi lavora con fede.\n\nBandito per voluntà de li nobili Cane et de li homini residenti in Lignano, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die nono Aprilis, anno del Signore MCCCCXXX."
     }
   ]
 }

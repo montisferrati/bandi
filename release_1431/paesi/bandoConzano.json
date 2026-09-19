@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoConzano",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Conzano, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nConzano, terra cara a Noi como a lo nostro padre Theodoro, de bona memoria, che qui fundò lo convento de San Maurizio — ove un giorno saranno honorati li nostri — et che vide nascere nostra sorella Sophia, hoggi basilissa in Costantinopoli, non perda per questo lo favore nostro, ben che le ferite de l'assedio patito tre anni a dietro per mano de li Viscontei ancor se sentano: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
-      "title": "De li mestieri et del convento de Conzano",
-      "message": "Giunga questa voce a chi è in cerca de terra honesta et de lavorero stabile: Conzano, borgo del Monferrato erecto sopra lo suo bricco de Sancta Lucia, è terra cara a la casata de li Paleologi, ove lo marchese Theodoro secondo volse fundare lo convento de San Maurizio et ove la casata marchionale tene in grande consideratione chi serve con fidelitate et diligentia.\n\nLa torre che domina lo borgo, con li suoi spalti et lo fossato che lo cinge, è presidio solido, ben che le ruine lasciate da l'assedio patito tre anni a dietro per mano de li Viscontei ancora demandino reparo. Se cercano homini de provata fidelitate per lo servitio de guardia et la custodia de le strutture difensive; mastri da muro capaci de lavorare in petra et fabri experti ne lo ferro troveranno qui comittentia stabile et compenso puntuale.\n\nLo convento de San Maurizio, fundato per voluntà del marchese Theodoro secondo sedeci anni a dietro, è cantiere ancora aperto et loco de preghiera in divenire: chi sappia lavorare la petra, lo legno o la calce per innalzare le sue mura troverà qui occupatione continua et bene ricompensata. Sapia ciascuno que in questa giesa un giorno serà honorata la memoria de la nostra casata.\n\nLa giesa parochiale de Sancta Lucia, sul bricco del paese, et la giesa de Sancta Maria del castello, et lo antiquo priorato de San Benedetto, già attestato da più de cento cinquanta anni, compono la vita spirituale de questa terra: chi sappia servirli o contribuire al loro mantenimento serà tenuto in bona consideratione da la comunità.\n\nLe vigne et li campi que circondano lo borgo dano bono fructo a chi li lavora con cura: massari et fattori cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate ne le stagioni del campo.\n\nConzano è terra que li marchesi tengono cara: chi ge serve bene serve in un loco que conta.\n\nLa fama de questa terra parli per sé, ché li facti valeno più de le parole."
+      "title": "De li mestieri, de le giese et de la guardia de Conzano",
+      "message": "Sappia ciascuno, homo et femina, che sta in Conzano o che ci passa: per voluntà de li officiali et homini de Conzano se fa bando publico ad ogni persona.\n\nConzano è borgo de lo Monferrato, erecto sopra lo bricco de Sancta Lucia, terra sotto la alta signoria de li Paleologi, ove la casa marchionale et li homini de lo loco tengono cara la fidelitate et la diligentia de chi serve.\n\nEt perché li tempi sono incerti et le contrade de lo Monferrato spesso sentono lo passagio de gente d'arme, è volontà de li officiali che lo castello, le porte, li muri et li luoghi de guardia siano tenuti in bono ordine. Chi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, chi sa portare calce, legname, terra et pietre, venga: troverà qui opera utile et mercede convenevole.\n\nHomini de bona fama, de corpo valido et fede provata sono altresì cercati per la custodia de le porte, per le ronde de notte, per guardare li sentieri che menano verso le terre vicine et per dare aviso quando gente sospetta o compagnia d'arme se avvicina a la Terra.\n\nChi sa fare lo carrettiero, chi sa fare lo mulattiero, chi sappia pesare, contare et tener nota de li sacchi et de le provigioni, venga: se cercano homini de soma che sappiano menare grano, fieno, legname et altre derrate dentro lo borgo, et aiutarne la custodia quando li camini non sono securi.\n\nNe la contrada de San Maurizio sta la giesa fondata dodici anni a dietro per voluntà de lo magnifico marchese Theodoro secondo. Chi sappia lavorare petra, legname o calce, mantener in ordene le case de la giesa, portar viveri o servire ne li bisogni de lo culto troverà opera honesta et serà tenuto in bono conto.\n\nLa giesa parochiale de Sancta Lucia, sopra lo bricco de lo paese, la giesa de Sancta Maria de lo castello et lo antiquo priorato de San Benedetto, già noto da più de cento cinquanta anni, compongono la vita spirituale de questa Terra. Chi sappia servir li loghi sacri, contribuir a lo loro mantenimento o adoperare arte ne li lavori de muro, tetto et legname, serà accolto con gratitudine.\n\nChi conosca l'arte de la vigna venga: le vigne et li campi che circondano lo borgo danno bono fructo a chi li lavora con cura. Massari et patroni cercano vignaioli, messori, bovari et garzoni de campagna disposti a faticare con honestate ne la semina, ne la cura de le vite, ne la vendemia et ne la ricolta de le biade.\n\nFabri, marangoni, fornari, bottari, carrettieri et artieri d'ogni necessitate trovano modo de exercitare lo proprio mestiero al servitio de li campi, de le case, de li loghi sacri et de la guardia de la Terra.\n\nConzano è terra posta sopra bono colle et de bona memoria: chi ge serve bene serve in loco che tene in pregio la fatica leale, la mano experta et lo core fedele.\n\nBandito per voluntà de li officiali et homini de Conzano, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die vigesimo quinto Augusti, anno del Signore MCCCCXXX."
     }
   ]
 }

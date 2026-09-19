@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoConiolo",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Coniolo, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nConiolo, che da dui secoli et quaranta tre anni è feudo de li nostri fideli Fassati et tene per Noi lo porto sopra lo Po, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-	{
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et del porto de Coniolo",
-      "message": "A chi cerca loco de antiqua memoria et de bono lavorero, sia noto che Coniolo, terra posta sopra la riva dextra del Po, è feudo de li signori Fassati, que da dui secoli et più tengono per Noi lo porto natante et governano questa contrata con fidelitate.\n\nLo Po, con la sua via fluviale que s'incontra qui con l'antiqua via consolare oltra lo fiume, fa de Coniolo nodo de trafichi: barcaroli, traghettatori et facchini al carico et discarico de le mercantie trovano qui mestiero continuo, ché per lo porto passano grano, vino et merce d'ogni sorte tra le due rive.\n\nChi conosca lo fiume, le sue correnti et li suoi guadi, è persona apprezzata in questa terra, et chi sappia mantenere in ordene le barche et lo porto non manca mai de lavorero.\n\nSopra l'alto del Bricco veglia la giesa de Sancta Maria, antiqua parochiale de questa comunità fin da la fine del Duecento, et presso la contrata de Cinerasco la cappella de Sancta Maria de Campis accoglie la devotione de chi habita sopra le coline. Chi sappia servirle o contribuire al loro mantenimento serà tenuto in bona consideratione.\n\nLa antiqua rocca de Terrascasso, sopra la strada que conduce a lo porto, ancora presidia et guarda questo angolo de terra tra lo fiume et la colina.\n\nLe campagne intorno al borgo, fertile per la presentia del fiume, dano bono grano et vino: massari et patroni de terre cercano lavoranti et garzoni disposti a faticare con honestate ne le stagioni.\n\nVegna chi vole: troverà a Coniolo non lo splendore de le grandi cità, ma lo lavorero securo de chi vive tra lo fiume et la colina.\n\nScripto per voluntà de la comunità de Coniolo, a ciò que chi cerca possa trovare et chi trova possa restare."
+      "message": "Sappia ciascuno, homo et femina, che sta in Coniolo o che ci passa: per voluntà de la comunità se fa bando publico ad ogni persona.\n\nConiolo, terra posta sopra la riva dextra de lo Po, è tenuta da li nobili Fassati sotto la alta signoria de li marchesi Paleologi, et sta in contrata ove lo fiume et le vie de terra recano passagio et mercantie.\n\nChi sa fare lo barcarolo, chi sa fare lo patrone de barcha, chi sa fare lo traghettatore, chi sa fare lo facchino, venga: lo Po, con la sua via fluviale che qui se congiunge a la strada antiqua de l'altra riva, fa de Coniolo loco atto a lo trafego, per lo carico et discarico de grano, vino, legname et altre mercantie.\n\nChi conosca lo fiume, le sue correnti, li guadi et le piene, è persona apprezzata in questa Terra. Chi sappia tenere in ordene le barche, reparare remi et corde, custodire lo passo o lavorare presso le rive, può trovare opera honesta et mercede convenevole.\n\nChi sa fare lo fabro, chi sa fare lo marangone, chi sa fare lo mastro da muro, venga: lo castello et le case de lo borgo domandano la cura de mastri de bona mano, per reparare porte, tetti, ferramenti, muri et atrecci de lo fiume.\n\nSopra l'alto de lo Bricco è la giesa de Sancta Maria, antiqua parochiale de questa comunità, già nota da la fine de lo secolo duocento. Chi sappia servir lo culto, provedere a le cose de la giesa o contribuire a lo suo mantenimento serà tenuto in bona consideratione.\n\nChi sappia lavorare la terra, governare bestie, curare le vite, mietere le biade, condurre carri o trasportare derrate venga: per le contrade de lo Bricco et de Cinerasco se trovano case, campi et vigne, et troverà patto equo presso li massari et li patroni de terre.\n\nLa antiqua rocca de Terrascasso, de la quale se conserva memoria presso la strada che mena verso lo Po, ricorda a chi passa che questa Terra ha avuto da longo tempo cura de li suoi passi et de le sue vie.\n\nConiolo non è cità de gran rumore, ma terra de fiume, de colina et de buon lavoro. Vegna chi vole con bona fama et mane laboriose: troverà lo pane presso le acque, ne le vigne et ne le case de la Terra.\n\nBandito in Coniolo, per voluntà de la comunità, a ciò che chi cerca possa trovare et chi trova possa restare. Die decimo quinto Iunii, anno del Signore MCCCCXXX."
     }
   ]
 }

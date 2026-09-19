@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoMontalero",
     "repoJson": "bandi",
-    "note": "Release bandi - rev 1 volgare"
+    "note": "Release bandi - rev 3 volgare"
   },
   "title": "Tavola dei Bandi",
-  "updatedAt": "2026-06-20T12:00:00Z",
-  "dataAggiornamento": "MCCCCXXXIIII",
-  "bando": [
-    {
-      "date": "adì III magio MCCCCXXXIIII",
-      "type": "Grida",
-      "title": "De la nova sede de la corte in Casale",
-      "message": "A tuti li homini, done et fioli de Montalero, salute.\n\nSia noto ad ogni homo, dona et fiolo de questa Terra che Noi Johan Jacomo de li Paleologi, per la Dio gratia marchese de Monferrato, havemo deliberato et statuito che la cità de Casale sia da qui inanti proclamata Cità Capitale del nostro dominio.\n\nIn essa resideranno lo nostro conseglio, la nostra corte et la nostra justicia.\n\nMontalero, lo cui castello da quaranta sei anni li nostri fideli Montaleri tengono in bona guardia sopra la Valle Cerrina, non perda per questo lo favore nostro: che ciascuno se rechi a Casale con core fiero quando chiamato, ché grande honore è toccato a Casale et, con essa, a tutto lo populo de Monferrato.\n\nDatum sub sigillo nostro, adì III magio MCCCCXXXIIII.\n\nJohan Jacomo Paleologus\nMarchese de Monferrato."
-    },
-    {
-      "date": "adì III magio MCCCCXXXIIII",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
       "type": "Bando",
       "title": "De li mestieri et de lo castello de Montalero",
-      "message": "A chi cerca loco fermo et ben guardato ove vivere con honore, sia noto che Montalero, terra de la Valle Cerrina posta sopra lo torrente Stura, è feudo de antiqua origine, governato fidelmente da li signori Montaleri per voluntà de li marchesi Paleologi.\n\nLo castello che domina questa contrata sorse intorno a l'anno Mille et già nel mille septanta ne troviamo memoria; li signori Montaleri, investiti del maniero quaranta sei anni a dietro, lo ristrutturarono con cura et lo tengono hoggi in bona defesa.\n\nLe sue mura et torri rechieono manutentione continua: fabri, marangoni et mastri da muro de bona mano troveranno qui comittentia stabile presso la casa Montaleri, et homini de fiducia sono cercati per lo servitio de guardia.\n\nLe terre intorno al castello, fertile et bene irrigate da lo Stura, dano bono fructo a chi le lavora con cura: massari et fattori de la casa Montaleri cercano vignaioli, messori et garzoni de campagna disposti a faticare con honestate et continuità.\n\nChi conosca l'arte de la vigna o del campo troverà a Montalero patto equo et justa ricompensa.\n\nLa antiqua parochiale de Sancta Maria, che da longo tempo accoglie la devotione de questa comunità, è loco caro a tuti: chi sappia servirla o contribuire al suo mantenimento serà tenuto in bona consideratione da la Terra et da la casa Montaleri.\n\nMontalero è terra picciola ma fidele, ove la casa che la governa et lo populo che la habita vivono in mutuo respecto da generationi.\n\nScripto per voluntà de la comunità de Montalero, a ciò che chi cerca possa trovare et chi trova possa restare."
+      "message": "Sappia ciascuno, homo et femina, che sta in Montalero o che ci passa: per voluntà de li signori Montaleri et de li homini de Montalero se fa bando publico ad ogni persona.\n\nMontalero è terra de la Valle Cerrina, luogo de antiqua origine et de buona fama, governato dalla casa de li Montaleri, signori del paese.\n\nLo castello, che domina la contrata da altura sicura, era già noto intorno a l'anno Mille et di lui se trova memoria in uno scritto de l'anno MLXX. Da poco più de quaranta anni la casa Montaleri ne possiede la signoria, et ne cura le mura, le torri et le case secondo lo bisogno del loco.\n\nChi sa fare lo fabro, chi sa fare lo mastro da muro, chi sa fare lo marangone, venga: per lo mantenimento del castello et de le possessioni sono richiesti lavoranti de pietra et de legname, che sappiano acconciare ferri, serrature, cardini, zappe, vanghe et altri ferramenti. Troveranno committentia presso la casa signorile et presso li homini de la terra.\n\nHomini fidati sono altresì cercati per la guardia de la porta, de le mura et de li camini che conducono al castello. Servi, garzoni et giovani de bona condotta potranno trovare salario et vitto ne li servitii de la casa, de la stalla et de le cantine.\n\nChi conosca l'arte de la vigna venga: le terre de Montalero, lavorate a vigna, a grano et ad altre biade, domandano braccia diligenti. Massari, lavoratori de terra, vignaioli, potatori, messori et garzoni de campagna potranno trovare opera secondo le stagioni. Sono benvenuti ancora homini experti ne la cura de li buoi, de li cavalli et de le bestie da soma.\n\nChi sappia fare botti, tini, bigonce et altri vasi da vino serà tenuto in bona consideratione, così come li carrettieri et li mulattieri che sappiano condurre legna, vino, biade, pietra et mercantie per le vie de la valle.\n\nLe donne et li homini experti ne la filatura de lana et de canapa, ne la tessitura, ne la cucitura et ne la preparazione de panni semplici potranno trovare lavoro presso le case de la terra. Sono richiesti ancora fornai, cuochi, lavandare et persone avvezze a servire la mensa et le necessità de la casa signorile.\n\nChi sappia curare infermi, ferite et malanni comuni, o conosca l'arte de lo speziale, troverà utile opera tra la comunità et la casa del signore, purché sia persona fidata et de bona fama.\n\nLa giesa de la Nativitate de la Vergine Maria, antica devotione de la contrata, ha bisogno de persone che sappiano custodire lo luogo sacro, tenere in ordine li arredi, preparare cere et lumi et prestare aiuto ne le feste et ne li servitii divini.\n\nMontalero è terra picciola ma ben posta, con castello, vigne, campi et homini avvezzi al lavoro. Chi cerca salario, protezione et loco ove fermarsi venga con bona fede; chi sappia lavorare con honestate troverà pane, patto equo et favore presso la terra et la casa Montaleri.\n\nBandito per voluntà de li signori Montaleri et de li homini de Montalero, a ciò che chi cerca possa trovare et chi trova possa restare. Die tertio Decembris, anno del Signore MCCCCXXX."
     }
   ]
 }

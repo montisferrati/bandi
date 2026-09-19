@@ -2,23 +2,20 @@
   "_metaDatiJson": {
     "nomeJson": "bandoGiarole",
     "repoJson": "bandi",
-    "note": "Release bandi"
+    "note": "Release bandi - rev 3 volgare"
   },
-  "title": "Giarole\nTavola dei Bandi",
-  "updatedAt": "2026-06-03T12:00:00Z",
-  "dataAggiornamento": "MCDXXXIV",
-  "bando": [
-    {
-      "date": "Die III mensis Maii",
-      "type": "Bando Pubblico",
-      "title": " ",
-      "message": "A tutti gli abitanti di Giarole, salute e grazia. \nSia noto ad ogni uomo, donna e figlio di questa terra che Noi, per volontà divina e per il bene comune del Marchesato del Monferrato, abbiamo deliberato che la città di Casale sia d'ora innanzi proclamata Città Capitale del nostro dominio. \nIn essa risiederanno il nostro Consiglio, la nostra Corte e la nostra giustizia. \nChe ciascuno si rechi a Casale con animo fiero, ché grande onore è toccato alla città e, con essa, a tutto il popolo del Monferrato. \nDatum sub sigillo nostro, \ndie III mensis Maii \nGian Giacomo Paleologo \nMarchio Montisferrati"
-    },
-	{
-      "date": "Die III mensis Maii",
-      "type": "Pubblico Avviso",
-      "title": " ",
-      "message": "Chi cerchi luogo di saldo governo e di antica fedeltà sappia che Giarole, terra del Monferrato posta nella fertile pianura tra il Po e le colline, è feudo della famiglia Sannazzaro da così tante generazioni che la memoria d'uomo non ricorda altri signori. \nI Sannazzaro tennero questo castello dai tempi del Barbarossa e lo tengono ancora oggi, e chi serve bene una famiglia così radicata serve in un luogo che non cambierà domani quello che è oggi. \nIl castello dei Sannazzaro, con il suo fossato, il ponte levatoio e la torre d'ingresso che lo proteggono da ogni lato, è dimora signorile stabile e ben governata: si cercano servitori di specchiata fedeltà e buona condotta, cuochi, stallieri e uomini di fiducia capaci di assistere la famiglia nelle sue necessità quotidiane. \nMuratori e falegnami trovano altresì lavoro nella manutenzione delle strutture, che i Sannazzaro tengono con cura e orgoglio generazione dopo generazione. \nLa chiesa di San Giacomo, costruita nel secolo scorso accanto all'ala più antica del castello e ad essa collegata, è il cuore spirituale del borgo: chi sappia servire la chiesa, assistere i sacerdoti o contribuire al suo decoro e mantenimento troverà nei Sannazzaro patroni devoti e riconoscenti. \nSotto il castello si estendono profondi sotterranei, con cantine in mattoni e muratura ove il vino dei vigneti di famiglia riposa al fresco tutto l'anno: chi sappia governare tali ambienti, curare la conservazione del vino o lavorare nei vigneti di famiglia troverà qui impiego continuo e giusto compenso. \nLe pianure fertili che circondano Giarole danno grano abbondante e buone uve: massari e fattori dei Sannazzaro cercano lavoranti robusti per la semina, la cura delle biade, la vendemmia e la raccolta. \nChi sia abituato alla fatica della pianura troverà qui patto equo e pane assicurato. \nGiarole non è luogo di grandi traffici né di fiere rumorose: è terra di vita tranquilla, di governo antico e di gente che sa da sempre chi è il proprio signore. \nChi cerca stabilità più che fortuna, qui troverà l'una e col tempo anche l'altra. \nScritto per volontà della comunità di Giarole, nell'anno in cui Casale è proclamata Capitale del Monferrato, e i Sannazzaro continuano a tenere il loro castello come hanno sempre fatto."
-	}
+  "title": "Tavola dei Bandi",
+  "updatedAt": "2026-09-15T12:00:00Z",
+  "dataAggiornamento": "MCCCCXXX",
+  "infoLuogo": [
+    { 
+	  "fazione": {
+        "stato": "Marchesato di Monferrato",
+        "dinastia": "Paleologi"
+      },
+      "type": "Bando",
+      "title": "De li mestieri et de le terre de Giarole",
+      "message": "Sappia ciascuno, homo et femina, che sta in Giarole o che ci passa: per voluntà de li nobili Sannazzaro et de li homini de Giarole se fa bando publico ad ogni persona.\n\nGiarole è loco de lo Monferrato, posto tra lo Po et le coline de Casal, terra antiqua raccolta a presso lo castello de Mogliole, sotto la alta signoria de li marchesi Paleologi et sotto le ragioni de li nobili Sannazzaro.\n\nLi Sannazzaro tengono castello, terre, case et jurisdictioni in questa contrata. Chi vene con bona fama, mano laboriosa et parola leale può trovare opera presso li signori, li massari et li homini che lavorano le loro possessioni.\n\nChi sa fare lo mastro da muro, chi sa fare lo fabro, chi sa fare lo marangone, chi sa fare lo fornaxaro, chi sa fare lo carrettiero, venga: lo castello, le case, li airali et le opere necessarie a la guardia de lo loco domandano cura, per petra, legname, ferramenti, tetti, porte, carri et atrecci de la Terra.\n\nChi sappia governare li buoi, condurre l'aratro, falciare et trasportare grano, fieno et altre derrate, venga: le pianure de Giarole danno biade, prati, fieni et pascoli, et richiedono massari, bovari, aratori, falciatori, garzoni et lavoranti de campagna per la semina et la ricolta.\n\nNe le terre che se prestano a vigna se cerca ancora chi sappia curare le vite, lavorare lo tino, custodire le botti et provedere a le vendemie. Ma chi sappia ben lavorare lo campo, lo prato et li animali troverà più largo esercitio, ché la pianura domanda continua opera.\n\nLa giesa de San Pietro de Giarole, antiqua et nota ne li registri de le decime, è loco de devotione per li homini de questa Terra. Canonici et ministri de la giesa attendono a lo culto: chi sappia portar viveri, curare le cose sacre, reparar muri et tetti, lavorare lo legname o contribuire a lo mantenimento de lo edificio serà tenuto in bono conto.\n\nNe lo ricetto de lo castello sta altresì la giesa de San Jacomo, dotata già da più de cinquanta anni, ove li signori et li habitanti se raccolgono ne li tempi de devotione. Chi sappia servir lo culto o attendere a le opere de la giesa può trovare opera honesta.\n\nGiarole non è terra de grandi fiere né de rumorosi mercati: è terra de castello, de piano, de campi et de fatica continua. Chi cerca stabilitate et pane guadagnato con le proprie mane, vegna con bona fede.\n\nBandito per voluntà de li nobili Sannazzaro et de li homini de Giarole, sotto la alta signoria de lo illustrissimo Marchese de Monferrato, a ciò che chi cerca opera honesta sappia dove trovarla. Die decimo septimo Octobris, anno del Signore MCCCCXXX."
+    }
   ]
 }
